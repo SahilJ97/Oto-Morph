@@ -1,1 +1,1 @@
-# Oto-Manguean-Inflection
+# Morphological Inflection for Oto-Manguean Languages
