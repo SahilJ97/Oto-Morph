@@ -13,9 +13,9 @@ import torch.nn.functional as F
 from torch import Tensor
 from entmax import entmax15, sparsemax, entmax_bisect
 
-from joeynmt.attention import BahdanauAttention, LuongAttention, MultiAttention
-from joeynmt.helpers import freeze_params, subsequent_mask
-from joeynmt.transformer_layers import PositionalEncoding, \
+from .attention import BahdanauAttention, LuongAttention, MultiAttention
+from .helpers import freeze_params, subsequent_mask
+from .transformer_layers import PositionalEncoding, \
     TransformerDecoderLayer, MultiSourceTransformerDecoderLayer
 
 
@@ -733,10 +733,10 @@ class MultiHeadRecurrentDecoder(Decoder):
         return att_vector, hidden, att_probs
 
     def forward(self,
-                trg_embed: Tensor,
-                encoder_outputs: dict,
-                src_mask: Tensor,
-                inflection_mask: Tensor,
+                trg_embed: Tensor,  # what's this?
+                encoder_outputs: dict,  # LSTM outputs (see code below)
+                src_mask: Tensor,  # what's this?
+                inflection_mask: Tensor,  # what's this?
                 unroll_steps: int,
                 hidden: Tensor = None,
                 prev_att_vector: Tensor = None,

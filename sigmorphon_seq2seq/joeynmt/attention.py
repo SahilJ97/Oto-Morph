@@ -12,7 +12,7 @@ from torch import Tensor
 
 from entmax import Entmax15, EntmaxBisect
 
-from joeynmt.better_sparsemax import BetterSparsemax
+from .better_sparsemax import BetterSparsemax
 
 
 class AlphaChooser(nn.Module):
