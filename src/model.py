@@ -10,7 +10,7 @@ class Decoder(torch.nn.Module):
         super().__init__()
         self.n_chars = n_chars
         self.lstm_cell = torch.nn.LSTMCell(n_chars, embed_size)
-        self.char_attention = torch.nn.MultiheadAttention(embed_dim=embed_size, num_heads=1, dropout=dropout)  # change back to 2
+        self.char_attention = torch.nn.MultiheadAttention(embed_dim=embed_size, num_heads=1, dropout=dropout)
         self.tag_attention = torch.nn.MultiheadAttention(embed_dim=embed_size, num_heads=1, dropout=dropout)
         self.attn_coefs = torch.tensor([0., 0.], requires_grad=True)  # balances char attention with tag attention
         self.one = torch.tensor(1., requires_grad=False)
