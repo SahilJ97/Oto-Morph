@@ -10,8 +10,8 @@ class Decoder(torch.nn.Module):
         super().__init__()
         self.n_chars = n_chars
         self.lstm_cell = torch.nn.LSTMCell(n_chars, embed_size)
-        self.char_attention = torch.nn.MultiheadAttention(embed_dim=2 * embed_size, num_heads=2, dropout=dropout)  # *2 for 2-headed attn?
-        self.tag_attention = torch.nn.MultiheadAttention(embed_dim=2 * embed_size, num_heads=2, dropout=dropout)
+        self.char_attention = torch.nn.MultiheadAttention(embed_dim=embed_size, num_heads=1, dropout=dropout)  # change back to 2
+        self.tag_attention = torch.nn.MultiheadAttention(embed_dim=embed_size, num_heads=1, dropout=dropout)
         self.attn_coefs = torch.tensor([0., 0.], requires_grad=True)  # balances char attention with tag attention
         self.one = torch.tensor(1., requires_grad=False)
         self.output_layer = torch.nn.Linear(embed_size, n_chars)
@@ -34,12 +34,19 @@ class Decoder(torch.nn.Module):
         input = torch.zeros((batch_size, self.n_chars))
         last_cell_state = (char_hn[-1], char_cn[-1])
         for time_step in range(len(char_output)):  # decoder output sequence should be as long as character encoding
-            cell_output, last_cell_state = self.lstm_cell(input, last_cell_state)
-            cell_output = torch.unsqueeze(cell_output, dim=0)
-            char_attention = self.char_attention(query=cell_output, key=char_output, value=char_output)
-            tag_attention = self.tag_attention(query=cell_output, key=tag_output, value=tag_output)
-            aggregated_attention = torch.softmax(self.attn_coefs, dim=-1) * torch.stack([char_attention, tag_attention])
+            h1, c1 = self.lstm_cell(input, last_cell_state)
+            last_cell_state = (h1, c1)
+            cell_output = torch.unsqueeze(h1, dim=0)
+            char_attention, _ = self.char_attention(query=cell_output, key=char_output, value=char_output)
+            tag_attention, _ = self.tag_attention(query=cell_output, key=tag_output, value=tag_output)
+            aggregated_attention = torch.stack([char_attention, tag_attention])
+            aggregated_attention = torch.einsum(
+                'a,abcd->abcd',
+                torch.softmax(self.attn_coefs, dim=-1),
+                aggregated_attention
+            )
             aggregated_attention = torch.sum(aggregated_attention, dim=0)
+            aggregated_attention = torch.squeeze(aggregated_attention, dim=0)
             output = self.output_layer(aggregated_attention)
             output = entmax15(output, dim=-1)
             return_sequence.append(output)
@@ -47,7 +54,8 @@ class Decoder(torch.nn.Module):
                 input = output
             elif time_step < len(char_output):  # teacher forcing
                 input = true_output_seq[time_step + 1]
-        return torch.stack(return_sequence)
+        return_sequence = torch.stack(return_sequence)
+        return torch.transpose(return_sequence, 0, 1)
 
 
 class RNN(torch.nn.Module):
@@ -63,9 +71,9 @@ class RNN(torch.nn.Module):
         self.lang_embeds = init_lang_embeds
         lang_dim = len(init_lang_embeds[0])
         self.character_encoder = torch.nn.LSTM(input_size=n_chars+lang_dim, hidden_size=embed_size, batch_first=True,
-                                               bidirectional=True)
+                                               bidirectional=False)
         self.tagset_encoder = torch.nn.LSTM(input_size=n_tags+lang_dim, hidden_size=embed_size, batch_first=True,
-                                            bidirectional=True)
+                                            bidirectional=False)
         self.decoder = Decoder(embed_size, n_chars, dropout=dropout)
         init_lang_embeds.requires_grad = True  # make language embeddings trainable
 
@@ -103,4 +111,4 @@ if __name__ == "__main__":
         "character_sequence": torch.tensor([[[0, 1], [1, 0]]], dtype=torch.float),
         "tagset": torch.tensor([[[0, 1], [1, 0]]], dtype=torch.float)
     }
-    model.forward(input_dict)
+    print(model.forward(input_dict))
