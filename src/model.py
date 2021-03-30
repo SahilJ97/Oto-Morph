@@ -31,10 +31,10 @@ class Decoder(torch.nn.Module):
         tag_output = torch.transpose(tag_output, 0, 1)
         batch_size = len(char_output[0])
         return_sequence = []
-        input = torch.zeros((batch_size, self.n_chars))
+        current_input = torch.zeros((batch_size, self.n_chars))
         last_cell_state = (char_hn[-1], char_cn[-1])
         for time_step in range(len(char_output)):  # decoder output sequence should be as long as character encoding
-            h1, c1 = self.lstm_cell(input, last_cell_state)
+            h1, c1 = self.lstm_cell(current_input, last_cell_state)
             last_cell_state = (h1, c1)
             cell_output = torch.unsqueeze(h1, dim=0)
             char_attention, _ = self.char_attention(query=cell_output, key=char_output, value=char_output)
@@ -51,9 +51,9 @@ class Decoder(torch.nn.Module):
             output = entmax15(output, dim=-1)
             return_sequence.append(output)
             if true_output_seq is None:
-                input = output
+                current_input = output
             elif time_step < len(char_output):  # teacher forcing
-                input = true_output_seq[time_step + 1]
+                current_input = true_output_seq[time_step + 1]
         return_sequence = torch.stack(return_sequence)
         return torch.transpose(return_sequence, 0, 1)
 
@@ -100,6 +100,8 @@ class RNN(torch.nn.Module):
         # Encode character sequence and tagset
         char_encoder_result = self.character_encoder(char_seq)
         tag_encoder_result = self.tagset_encoder(tagset)
+
+        # Decode
         return self.decoder(char_encoder_result, tag_encoder_result)
 
 
