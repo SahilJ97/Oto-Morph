@@ -92,8 +92,12 @@ class RNN(torch.nn.Module):
         char_seq_len = len(char_seq[0])
         tag_seq_len = len(tagset[0])
         lang_embeds = torch.stack([self.lang_embeds[i] for i in lang_indices])
-        lang_embeds_for_char = lang_embeds.repeat(1, char_seq_len, 1)
-        lang_embeds_for_tag = lang_embeds.repeat(1, tag_seq_len, 1)
+        lang_embeds_for_char = torch.stack(
+            [lang_embed.repeat(char_seq_len, 1) for lang_embed in lang_embeds]
+        )
+        lang_embeds_for_tag = torch.stack(
+            [lang_embed.repeat(tag_seq_len, 1) for lang_embed in lang_embeds]
+        )
         char_seq = torch.cat([char_seq, lang_embeds_for_char], dim=-1)
         tagset = torch.cat([tagset, lang_embeds_for_tag], dim=-1)
 
@@ -106,11 +110,11 @@ class RNN(torch.nn.Module):
 
 
 if __name__ == "__main__":
-    lang_embeds = torch.tensor([[1., 2.]])
+    lang_embeds = torch.tensor([[1., 2., 3.]])  # one language (3d embedding)
     model = RNN(embed_size=3, n_chars=2, n_tags=2, init_lang_embeds=lang_embeds)
     input_dict = {
-        "language": [0],  # one language index for each item in batch
-        "character_sequence": torch.tensor([[[0, 1], [1, 0]]], dtype=torch.float),
-        "tagset": torch.tensor([[[0, 1], [1, 0]]], dtype=torch.float)
+        "language": [0, 0],  # one language index for each item in batch
+        "character_sequence": torch.tensor([[[0, 1], [1, 0], [1, 0]], [[0, 1], [1, 0], [1, 0]]], dtype=torch.float),
+        "tagset": torch.tensor([[[0, 1], [1, 0]], [[0, 1], [1, 0]]], dtype=torch.float)
     }
     print(model.forward(input_dict))
