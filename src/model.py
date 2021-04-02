@@ -1,3 +1,5 @@
+"""Written by Sahil Jayaram"""
+
 import torch
 from entmax import entmax15
 
