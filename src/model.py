@@ -67,13 +67,13 @@ class RNN(torch.nn.Module):
             n_chars,
             n_tags,
             init_lang_embeds,
-            dropout=.3,
+            dropout=.2,
     ):
         super(RNN, self).__init__()
         self.lang_embeds = init_lang_embeds
         lang_dim = len(init_lang_embeds[0])
         self.character_encoder = torch.nn.LSTM(input_size=n_chars+lang_dim, hidden_size=embed_size, batch_first=True,
-                                               bidirectional=False)
+                                               bidirectional=False)  # originally bidirectional. consider reverting
         self.tagset_encoder = torch.nn.LSTM(input_size=n_tags+lang_dim, hidden_size=embed_size, batch_first=True,
                                             bidirectional=False)
         self.decoder = Decoder(embed_size, n_chars, dropout=dropout)

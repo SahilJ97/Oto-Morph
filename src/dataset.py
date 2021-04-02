@@ -89,8 +89,11 @@ class OtoMangueanDataset(Dataset):
             encoded_tag.append(one_hot_tag)
             one_hot_tag = [0] * tag_len
 
-        return {"language": self.language_to_index[self.language[index]], "character_sequence": np.array(encoded_lemma),
-                "tags": np.array(encoded_tag)}, np.array(encoded_inflection)
+        return {
+                    "language": torch.tensor(self.language_to_index[self.language[index]]),
+                    "character_sequence": torch.tensor(encoded_lemma),
+                    "tagset": torch.tensor(encoded_tag)
+               }, torch.tensor(encoded_inflection)
 
 
 if __name__ == '__main__':
