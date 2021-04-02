@@ -27,20 +27,23 @@ class Decoder(torch.nn.Module):
         return super().to(*args, **kwargs)
 
     def forward(self, char_encoder_result, tag_encoder_result, true_output_seq=None):
-        char_output, (char_hn, char_cn) = char_encoder_result
-        tag_output, _ = tag_encoder_result
-        char_output = torch.transpose(char_output, 0, 1)  # move seq_len dimension to the front
-        tag_output = torch.transpose(tag_output, 0, 1)
-        batch_size = len(char_output[0])
+        char_encoding, (char_hn, char_cn) = char_encoder_result
+        batch_size = len(char_encoding)
+        tag_encoding, (tag_hn, tag_cn) = tag_encoder_result
+        char_encoding = torch.transpose(char_encoding, 0, 1)  # move seq_len dimension to the front
+        tag_encoding = torch.transpose(tag_encoding, 0, 1)
         return_sequence = []
         current_input = torch.zeros((batch_size, self.n_chars))
-        last_cell_state = (char_hn[-1], char_cn[-1])
-        for time_step in range(len(char_output)):  # decoder output sequence should be as long as character encoding
+        last_cell_state = (
+            torch.cat((char_hn[0], tag_hn[0]), dim=-1),
+            torch.cat((char_cn[0], tag_cn[0]), dim=-1)
+        )
+        for time_step in range(len(char_encoding)):  # decoder output sequence should be as long as character encoding
             h1, c1 = self.lstm_cell(current_input, last_cell_state)
             last_cell_state = (h1, c1)
             cell_output = torch.unsqueeze(h1, dim=0)
-            char_attention, _ = self.char_attention(query=cell_output, key=char_output, value=char_output)
-            tag_attention, _ = self.tag_attention(query=cell_output, key=tag_output, value=tag_output)
+            char_attention, _ = self.char_attention(query=cell_output, key=char_encoding, value=char_encoding)
+            tag_attention, _ = self.tag_attention(query=cell_output, key=tag_encoding, value=tag_encoding)
             aggregated_attention = torch.stack([char_attention, tag_attention])
             aggregated_attention = torch.einsum(
                 'a,abcd->abcd',
@@ -54,8 +57,8 @@ class Decoder(torch.nn.Module):
             return_sequence.append(output)
             if true_output_seq is None:
                 current_input = output
-            elif time_step < len(char_output):  # teacher forcing
-                current_input = true_output_seq[time_step + 1]
+            elif time_step < len(char_encoding) - 1:  # teacher forcing
+                current_input = true_output_seq[:, time_step + 1, :]
         return_sequence = torch.stack(return_sequence)
         return torch.transpose(return_sequence, 0, 1)
 
@@ -72,10 +75,15 @@ class RNN(torch.nn.Module):
         super(RNN, self).__init__()
         self.lang_embeds = init_lang_embeds
         lang_dim = len(init_lang_embeds[0])
-        self.character_encoder = torch.nn.LSTM(input_size=n_chars+lang_dim, hidden_size=embed_size, batch_first=True,
-                                               bidirectional=False)  # originally bidirectional. consider reverting
-        self.tagset_encoder = torch.nn.LSTM(input_size=n_tags+lang_dim, hidden_size=embed_size, batch_first=True,
-                                            bidirectional=False)
+        if embed_size % 2 != 0:
+            print("Embedding size must be even!")
+            exit(1)
+        self.character_encoder = torch.nn.LSTM(input_size=n_chars+lang_dim, hidden_size=embed_size//2, batch_first=True,
+                                               bidirectional=True)
+        # originally bidirectional. consider reverting. not hard! double hidden size of decoder,
+        # use states from both encoders.
+        self.tagset_encoder = torch.nn.LSTM(input_size=n_tags+lang_dim, hidden_size=embed_size//2, batch_first=True,
+                                            bidirectional=True)
         self.decoder = Decoder(embed_size, n_chars, dropout=dropout)
         init_lang_embeds.requires_grad = True  # make language embeddings trainable
 
@@ -86,7 +94,7 @@ class RNN(torch.nn.Module):
         self.lang_embeds = self.lang_embeds.to(*args, **kwargs)
         return super().to(*args, **kwargs)
 
-    def forward(self, inputs):
+    def forward(self, inputs, labels=None):
         # Concatenate language embeddings to each vector
         lang_indices = inputs["language"]
         char_seq = inputs["character_sequence"]
@@ -108,12 +116,12 @@ class RNN(torch.nn.Module):
         tag_encoder_result = self.tagset_encoder(tagset)
 
         # Decode
-        return self.decoder(char_encoder_result, tag_encoder_result)
+        return self.decoder(char_encoder_result, tag_encoder_result, true_output_seq=labels)
 
 
 if __name__ == "__main__":
     lang_embeds = torch.tensor([[1., 2., 3.]])  # one language (3d embedding)
-    model = RNN(embed_size=3, n_chars=2, n_tags=2, init_lang_embeds=lang_embeds)
+    model = RNN(embed_size=6, n_chars=2, n_tags=2, init_lang_embeds=lang_embeds)
     input_dict = {
         "language": [0, 0],  # one language index for each item in batch
         "character_sequence": torch.tensor([[[0, 1], [1, 0], [1, 0]], [[0, 1], [1, 0], [1, 0]]], dtype=torch.float),

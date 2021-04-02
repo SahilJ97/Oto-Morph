@@ -93,7 +93,7 @@ class OtoMangueanDataset(Dataset):
                     "language": torch.tensor(self.language_to_index[self.language[index]]),
                     "character_sequence": torch.tensor(encoded_lemma),
                     "tagset": torch.tensor(encoded_tag)
-               }, torch.tensor(encoded_inflection)
+               }, torch.tensor(encoded_inflection, dtype=torch.float)
 
 
 if __name__ == '__main__':
