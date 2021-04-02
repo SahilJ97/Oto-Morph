@@ -1,5 +1,5 @@
 import math
-
+import json
 import torch
 import os
 import numpy as np
@@ -24,48 +24,25 @@ class otoMangueanDataset(Dataset):
         file_names = glob('data/*.trn')
         for file in file_names:
             curr = np.loadtxt(file, delimiter="\t", dtype=np.str, encoding="utf-8")
+            file_name = os.path.splitext(os.path.basename(file))[0]
             curr_shape = curr.shape[0]
             self.n_samples += curr_shape
-            self.language_type.append(os.path.splitext(os.path.basename(file))[0])
-            self.language = np.concatenate((self.language, np.array([self.language_type[-1]] * curr_shape)))
 
+            # get elements
+            self.language = np.concatenate((self.language, np.array([file_name] * curr_shape)))
             current_lemma = curr[:, 0]
             current_inflected = curr[:, 1]
             current_tag = curr[:, 2]
-
-            # iterate through lemmas and inflected forms
             self.lemma = np.concatenate((self.lemma, current_lemma))
             self.inflected = np.concatenate((self.inflected, current_inflected))
-            for i in np.concatenate((current_lemma, current_inflected)):
-                character_len = 0
-                index = 0
-                while index < len(i):
-                    character_len += 1
-                    temp = i[index]
-                    while index + 1 < len(i) and i[index + 1] in SUPERSCRIPTS:
-                        temp += i[index + 1]
-                        index += 1
-
-                    self.character_set.add(temp)
-                    index += 1
-
-            # iterate through tags
             self.tags = np.concatenate((self.tags, current_tag))
-            for t in current_tag:
-                current = t.split(";")
-                for i in current:
-                    self.tags_set.add(i)
 
         # generate dictionaries for use
-        self.lan_types = sorted(self.language_type)
-        self.index_to_language = dict(enumerate(self.lan_types))
-        self.language_to_index = {t: i for i, t in enumerate(self.lan_types)}
-        character_sorted = sorted(list(self.character_set))
-        self.index_to_character = dict(enumerate(character_sorted))
-        self.character_to_index = {t: i for i, t in enumerate(character_sorted)}
-        tags_sorted = sorted(list(self.tags_set))
-        self.index_to_tags = dict(enumerate(tags_sorted))
-        self.tags_to_index = {t: i for i, t in enumerate(tags_sorted)}
+        dict_names = glob('dictionary/*.json')
+        for d in dict_names:
+            dict_name = os.path.splitext(os.path.basename(d))[0]
+            file_dict = json.load(open(d, encoding="utf-8"))
+            setattr(self, dict_name, file_dict)
 
     def __len__(self):
         return self.n_samples
@@ -119,7 +96,6 @@ class otoMangueanDataset(Dataset):
 
 def run():
     torch.multiprocessing.freeze_support()
-
 
 if __name__ == '__main__':
     run()
