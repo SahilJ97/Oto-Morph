@@ -1,3 +1,5 @@
+"""Written by Tiansheng Sun"""
+
 import math
 import json
 import torch
@@ -12,23 +14,20 @@ CHARACTER_SEQUENCE_LENGTH = 27
 NUM_TAG = 5
 
 
-class otoMangueanDataset(Dataset):
+class OtoMangueanDataset(Dataset):
 
-    def __init__(self):
-        self.language_type = []
+    def __init__(self, file_names):
         self.language, self.lemma, self.inflected, self.tags = np.array([]), np.array([]), np.array([]), np.array([])
         self.character_set, self.tags_set = set(), set()
         self.n_samples = 0
 
-        # data loading
-        file_names = glob('data/*.trn')
+        # Load data
         for file in file_names:
             curr = np.loadtxt(file, delimiter="\t", dtype=np.str, encoding="utf-8")
             file_name = os.path.splitext(os.path.basename(file))[0]
             curr_shape = curr.shape[0]
             self.n_samples += curr_shape
 
-            # get elements
             self.language = np.concatenate((self.language, np.array([file_name] * curr_shape)))
             current_lemma = curr[:, 0]
             current_inflected = curr[:, 1]
@@ -37,8 +36,8 @@ class otoMangueanDataset(Dataset):
             self.inflected = np.concatenate((self.inflected, current_inflected))
             self.tags = np.concatenate((self.tags, current_tag))
 
-        # generate dictionaries for use
-        dict_names = glob('dictionary/*.json')
+        # Load dictionaries
+        dict_names = glob('dictionaries/*.json')
         for d in dict_names:
             dict_name = os.path.splitext(os.path.basename(d))[0]
             file_dict = json.load(open(d, encoding="utf-8"))
@@ -48,7 +47,7 @@ class otoMangueanDataset(Dataset):
         return self.n_samples
 
     def __getitem__(self, index):
-        current_tag = self.tags[index].split(";")
+        current_tagset = self.tags[index].split(";")
         tag_len = len(self.tags_to_index)
         character_len = len(self.character_to_index)
 
@@ -59,7 +58,7 @@ class otoMangueanDataset(Dataset):
         current_lemma = self.lemma[index]
         current_inflected = self.inflected[index]
 
-        # get character sequences
+        # Get character sequences
         curr_word = 0
         for word in [current_lemma, current_inflected]:
             lemma_len = len(word)
@@ -73,20 +72,20 @@ class otoMangueanDataset(Dataset):
                 encoded_word.append(one_hot_word)
                 curr_index += 1
                 one_hot_word = [0] * character_len
-            padding_number = CHARACTER_SEQUENCE_LENGTH - len(encoded_word)
-            if curr_word == 0:
-                encoded_lemma = [[0] * character_len] * padding_number + encoded_word
-            else:
-                encoded_inflection = encoded_word + [[0] * character_len] * padding_number
+            pad_length = CHARACTER_SEQUENCE_LENGTH - len(encoded_word)
+            if curr_word == 0:  # pre-pad for input sequence
+                encoded_lemma = [[0] * character_len] * pad_length + encoded_word
+            else:  # post-pad for output sequence
+                encoded_inflection = encoded_word + [[0] * character_len] * pad_length
             curr_word += 1
             encoded_word = []
 
-        # get tag sequence
-        if len(current_tag) != NUM_TAG:
-            encoded_tag += [one_hot_tag] * (NUM_TAG - len(current_tag))
+        # Get tag sequence
+        if len(current_tagset) != NUM_TAG:
+            encoded_tag += [one_hot_tag] * (NUM_TAG - len(current_tagset))  # what's going on here...
 
-        for l in current_tag:
-            one_hot_tag[self.tags_to_index[l]] = 1
+        for tag in current_tagset:
+            one_hot_tag[self.tags_to_index[tag]] = 1
             encoded_tag.append(one_hot_tag)
             one_hot_tag = [0] * tag_len
 
@@ -94,20 +93,8 @@ class otoMangueanDataset(Dataset):
                 "tags": np.array(encoded_tag)}, np.array(encoded_inflection)
 
 
-def run():
-    torch.multiprocessing.freeze_support()
-
 if __name__ == '__main__':
-    run()
-    dataset = otoMangueanDataset()
-    dataloader = DataLoader(dataset=dataset, batch_size=5, shuffle=True, num_workers=2)
-
-    # training loop
-    num_epoch = 2
-    total_samples = len(dataset)
-    n_iterations = math.ceil(total_samples/5)
-
-    for epoch in range(num_epoch):
-        for i, (input, output) in enumerate(dataloader):
-            continue
-
+    dataset = OtoMangueanDataset(glob('data/*.trn'))
+    print(len(dataset))
+    test_datapoint, test_output = dataset[10000]
+    print(test_datapoint)

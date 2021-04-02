@@ -1,3 +1,5 @@
+"""Written by Sahil Jayaram"""
+
 import torch
 from sigmorphon_seq2seq.joeynmt.decoders import MultiHeadRecurrentDecoder
 
