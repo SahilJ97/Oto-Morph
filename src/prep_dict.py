@@ -8,7 +8,7 @@ import os
 SUPERSCRIPTS = ["⁰", "¹", "²", "³", "⁴", "⁵", "ᐟ", "ᵈ", "ᵖ", "ˀ", "'"]
 
 if __name__ == '__main__':
-    file_names = glob('data/*.trn')
+    file_names = glob('../data/*.trn')
     language_type = []
     character_set, tags_set = set(), set()
 
@@ -49,7 +49,7 @@ if __name__ == '__main__':
                   "tags_to_index"]
 
     for dict_type in dict_types:
-        output_fname = "dictionaries/" + dict_type + ".json"
+        output_fname = "../dictionaries/" + dict_type + ".json"
         with open(output_fname, "w+", encoding="utf-8") as outfile:
             curr = json.dumps(eval(dict_type), ensure_ascii=False)
             outfile.write(curr)

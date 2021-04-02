@@ -37,7 +37,7 @@ class OtoMangueanDataset(Dataset):
             self.tags = np.concatenate((self.tags, current_tag))
 
         # Load dictionaries
-        dict_names = glob('dictionaries/*.json')
+        dict_names = glob('../dictionaries/*.json')
         for d in dict_names:
             dict_name = os.path.splitext(os.path.basename(d))[0]
             file_dict = json.load(open(d, encoding="utf-8"))
@@ -94,7 +94,7 @@ class OtoMangueanDataset(Dataset):
 
 
 if __name__ == '__main__':
-    dataset = OtoMangueanDataset(glob('data/*.trn'))
+    dataset = OtoMangueanDataset(glob('../data/*.trn'))
     print(len(dataset))
     test_datapoint, test_output = dataset[10000]
     print(test_datapoint)
