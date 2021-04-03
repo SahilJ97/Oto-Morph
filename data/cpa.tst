@@ -1,1431 +1,1431 @@
-guiú²	V;IPFV;SG;1;PST
-mi²+dsiúg²	V;IPFV;PL;1;PST
-neɁ¹²	V;IPFV;3;PST
-hog¹²	V;IPFV;2;PST
-tsø²+nióɁ¹²	V;IPFV;PL;1;PRS
-koɁ¹²	V;IPFV;SG;1;PRS
-méɁ²	V;IPFV;PL;1;PST
-kionɁ¹²	V;IPFV;PL;1;PRS
-Ɂán²	V;IRR;3;FUT
-ngo²	V;IPFV;PL;1;PRS
-hne¹²	V;IPFV;2;PRS
-héɁ²	V;IPFV;PL;1;PRS
-Ɂéi¹²	V;IPFV;PL;1;PRS
-nioɁ²	V;IPFV;3;PRS
-kiúɁ¹²	V;IPFV;3;PST
-kanɁ¹²	V;IPFV;PL;1;PST
-hlég²	V;IPFV;3;PST
-hmóɁ¹²	V;IPFV;2;PST
-mi²+Ɂan¹³	V;IPFV;SG;1;PRS
-bén²	V;IPFV;SG;1;PRS
-u¹+lian¹	V;IRR;PL;1;FUT
-mi²+hniang¹ ni³	V;IPFV;PL;1;PST
-kieg²	V;IRR;2;FUT
-ɁmíɁ²	V;IPFV;PL;1;PST
-tag¹²	V;IPFV;2;PRS
-ténɁ¹²	V;IPFV;2;PRS
-dsen³ (kaɁ³)	V;IPFV;PL;1;PST
-hlán²	V;IRR;3;FUT
-guiénɁ²	V;IPFV;PL;1;PRS
-ngǿ²	V;IPFV;3;PST
-kon¹²	V;IPFV;SG;1;PST
-tógɁ¹²	V;IPFV;2;PST
-mi²+dsiúg²	V;IPFV;2;PST
-tsí¹²	V;IPFV;2;PST
-hmóɁ¹²	V;IPFV;SG;1;PRS
-mi²+dsií¹	V;IPFV;3;PST
-Ɂí²	V;IPFV;3;PRS
-iéiɁ¹²	V;IPFV;2;PRS
-Ɂog¹²	V;IPFV;3;PST
-mi²+ngḗɁ¹	V;IPFV;PL;1;PRS
-húɁ²	V;IPFV;SG;1;PST
-mi²+kon¹²	V;IPFV;2;PRS
-hnó²	V;IPFV;SG;1;PRS
-pø²+hánɁ²	V;IPFV;2;PRS
-Ɂé²	V;IPFV;PL;1;PST
-Ɂán¹² ɁogɁ¹²	V;IRR;SG;1;FUT
-dsióɁ¹² hǿg³	V;IPFV;PL;1;PRS
-ku² hmo¹²	V;IPFV;2;PRS
-hnéi¹²	V;IPFV;SG;1;PRS
-dsēn¹²	V;IRR;PL;1;FUT
-mi²+Ɂan¹²	V;IRR;SG;1;FUT
-kuan¹²	V;IRR;PL;1;FUT
-hliánɁ²	V;IPFV;2;PST
-téng²	V;IPFV;3;PRS
-Ɂnē¹²	V;IPFV;SG;1;PRS
-u²+nio¹³	V;IRR;2;FUT
-Ɂuan²	V;IPFV;PL;1;PST
-tiun¹²	V;IPFV;SG;1;PST
-ɁóɁ¹²	V;IPFV;SG;1;PRS
-iéiɁ¹²	V;IRR;2;FUT
-niáng¹²	V;IPFV;3;PRS
-ɁlanɁ¹²	V;IPFV;SG;1;PRS
-kuú²	V;IPFV;2;PST
-Ɂiá¹²	V;IPFV;SG;1;PST
-tian¹²	V;IPFV;PL;1;PRS
-mi²+huanɁ¹²	V;IPFV;PL;1;PRS
-dsø²+lé²	V;IRR;3;FUT
-siúɁ²	V;IRR;PL;1;FUT
-mi²+níɁ¹	V;IPFV;3;PRS
-ku² hmo¹²	V;IRR;3;FUT
-Ɂnē¹²	V;IPFV;3;PST
-kuénɁ²	V;IRR;SG;1;FUT
-tsáiɁ¹²	V;IRR;2;FUT
-kuénɁ²	V;IRR;3;FUT
-tiu¹²	V;IPFV;3;PRS
-tión²	V;IPFV;SG;1;PST
-tø²+kanɁ¹³	V;IPFV;2;PRS
-hnó²	V;IRR;2;FUT
-bḗn²	V;IPFV;3;PST
-mi²+hénɁ²	V;IPFV;3;PST
-ieg¹²	V;IPFV;SG;1;PST
-nung²	V;IPFV;3;PRS
-tsá¹²	V;IRR;SG;1;FUT
-hnǿ²	V;IRR;PL;1;FUT
-mi²+hngió¹	V;IPFV;2;PRS
-Ɂuan¹²	V;IRR;3;FUT
-tan¹²	V;IPFV;SG;1;PRS
-lø²+liugɁ³	V;IRR;SG;1;FUT
-Ɂiei¹²	V;IPFV;3;PST
-ɁliuɁ¹²	V;IPFV;3;PRS
-kug²	V;IPFV;SG;1;PST
-hein¹²	V;IRR;3;FUT
-ɁaiɁ²	V;IPFV;3;PST
-rain¹²	V;IPFV;2;PST
-chiogɁ¹²	V;IPFV;3;PST
-guiúnɁ¹²	V;IRR;2;FUT
-kánɁ¹²	V;IPFV;3;PST
-tiu¹²	V;IPFV;2;PST
-dsø²+togɁ¹²	V;IPFV;PL;1;PST
-dsen³ (kaɁ³)	V;IPFV;3;PST
-ngo²	V;IRR;SG;1;FUT
-dsoɁ²	V;IPFV;SG;1;PRS
-hḗɁ²	V;IPFV;2;PST
-téiɁ²	V;IPFV;2;PRS
-hnióɁ²	V;IRR;3;FUT
-hmáɁ² (dsǿa¹²)	V;IPFV;PL;1;PRS
-Ɂán¹² ɁogɁ¹²	V;IPFV;PL;1;PRS
-Ɂnia¹²	V;IPFV;2;PRS
-tián²	V;IRR;PL;1;FUT
-nióɁ¹²	V;IPFV;3;PRS
-ɁuáiɁ¹²	V;IPFV;PL;1;PRS
-lióg¹²	V;IPFV;3;PRS
-mi²+kiíngɁ²	V;IPFV;2;PST
-hnia¹²	V;IPFV;3;PST
-hai¹²	V;IRR;PL;1;FUT
-tanɁ²	V;IPFV;PL;1;PRS
-kieng¹²	V;IPFV;PL;1;PRS
-huánɁ¹²	V;IPFV;PL;1;PST
-ɁuanɁ¹²	V;IPFV;2;PRS
-huen¹²	V;IPFV;3;PRS
-mi²+dsøg¹²	V;IRR;SG;1;FUT
-guiú²	V;IPFV;2;PST
-dsiog¹²	V;IPFV;PL;1;PST
-rain¹²	V;IPFV;SG;1;PRS
-rain¹²	V;IRR;3;FUT
-kø¹²	V;IPFV;SG;1;PST
-kiang¹²	V;IRR;PL;1;FUT
-mi²+huanɁ¹²	V;IPFV;SG;1;PRS
-gúg²	V;IPFV;SG;1;PRS
-Ɂéi¹²	V;IPFV;3;PST
-hiúg²	V;IRR;PL;1;FUT
-mi²+gǿg¹	V;IPFV;2;PRS
-ɁuanɁ¹²	V;IRR;SG;1;FUT
-mi²+gug¹	V;IPFV;3;PRS
-tsón²	V;IPFV;SG;1;PST
-ti²+dsøa¹²	V;IPFV;2;PST
-guianɁ¹²	V;IRR;3;FUT
-tsánɁ²	V;IPFV;3;PRS
-mi²+liág¹	V;IRR;3;FUT
-tso¹²	V;IRR;SG;1;FUT
-ɁagɁ²	V;IPFV;3;PST
-høn¹²	V;IRR;3;FUT
-chiúg²	V;IRR;2;FUT
-chi²+kián²	V;IPFV;SG;1;PST
-Ɂii²	V;IPFV;3;PST
-kuénɁ²	V;IPFV;PL;1;PST
-kuø¹²	V;IPFV;2;PRS
-dsiánɁ²	V;IRR;3;FUT
-Ɂien²	V;IPFV;2;PRS
-køgɁ²	V;IPFV;PL;1;PRS
-mi²+hǿ²	V;IPFV;PL;1;PST
-nei¹²	V;IPFV;2;PRS
-nioɁ²	V;IPFV;SG;1;PRS
-dsie¹²	V;IRR;2;FUT
-Ɂé²	V;IPFV;PL;1;PRS
-tsø²+nióɁ¹²	V;IPFV;SG;1;PRS
-Ɂien¹²	V;IPFV;SG;1;PST
-dsǿɁ²	V;IPFV;3;PST
-ton²	V;IPFV;2;PRS
-ɁlanɁ¹²	V;IPFV;3;PST
-tei¹²	V;IPFV;PL;1;PST
-mi²+Ɂnio¹	V;IPFV;2;PRS
-len¹² dsǿa¹²	V;IPFV;PL;1;PRS
-hénɁ¹²	V;IPFV;PL;1;PST
-liág¹	V;IPFV;3;PRS
-chiínɁ²	V;IPFV;2;PST
-tsēn¹²	V;IRR;SG;1;FUT
-Ɂméi¹²	V;IRR;3;FUT
-Ɂø²+tsúgɁ²	V;IPFV;SG;1;PRS
-siúg²	V;IPFV;3;PRS
-ɁuanɁ¹²	V;IPFV;SG;1;PST
-hlég²	V;IPFV;SG;1;PST
-tsénɁ²	V;IPFV;PL;1;PST
-kiúɁ¹²	V;IRR;PL;1;FUT
-ɁlianɁ¹²	V;IPFV;SG;1;PST
-tǿɁ²	V;IPFV;3;PRS
-ngøɁ¹²	V;IPFV;PL;1;PRS
-ɁmiɁ¹²	V;IPFV;PL;1;PST
-tsø²+nióɁ¹²	V;IPFV;2;PRS
-tian¹²	V;IPFV;2;PRS
-Ɂngieng¹²	V;IRR;3;FUT
-kán² guiing²	V;IPFV;SG;1;PST
-hniá¹²	V;IPFV;PL;1;PST
-kēnɁ¹²	V;IRR;3;FUT
-Ɂio¹²	V;IRR;SG;1;FUT
-sianɁ¹²	V;IPFV;3;PRS
-Ɂén²	V;IPFV;2;PRS
-ɁuáiɁ¹²	V;IRR;SG;1;FUT
-hngia¹²	V;IPFV;PL;1;PST
-Ɂien¹²	V;IPFV;2;PRS
-mi²+dsíg²	V;IPFV;PL;1;PST
-huánɁ²	V;IPFV;3;PRS
-u²+lei²	V;IRR;3;FUT
-tanɁ²	V;IPFV;3;PST
-ɁéɁ²	V;IPFV;2;PRS
-Ɂlan¹²	V;IPFV;3;PST
-Ɂnai¹²	V;IRR;PL;1;FUT
-mi²+Ɂog¹³	V;IPFV;3;PST
-hnóɁ²	V;IRR;2;FUT
-hénɁ²	V;IPFV;2;PRS
-tø²+ɁénɁ¹²	V;IPFV;2;PST
-Ɂéi¹²	V;IPFV;SG;1;PRS
-huú²	V;IPFV;SG;1;PRS
-méɁ²	V;IRR;PL;1;FUT
-tsø²+kuenɁ¹²	V;IPFV;3;PRS
-mi²+liág¹	V;IPFV;SG;1;PST
-mḗɁ²	V;IRR;SG;1;FUT
-siúɁ²	V;IPFV;PL;1;PST
-tsǿng²	V;IRR;2;FUT
-hián²	V;IRR;2;FUT
-kiiɁ²	V;IRR;SG;1;FUT
-chi²+dsén²	V;IRR;3;FUT
-kii²+tág¹²	V;IPFV;PL;1;PRS
-hngióɁ¹²	V;IPFV;3;PRS
-uǿnɁ²	V;IPFV;3;PRS
-hinɁ³	V;IPFV;2;PRS
-kø²+hinɁ¹²	V;IRR;3;FUT
-tø²+gugɁ¹²	V;IPFV;3;PST
-Ɂma¹²	V;IPFV;2;PRS
-kii²+túg²	V;IRR;SG;1;FUT
-dsiég¹²	V;IPFV;3;PRS
-ku²+guénɁ²	V;IRR;2;FUT
-hiég²	V;IPFV;3;PST
-mi²+kán¹²	V;IPFV;PL;1;PRS
-huen¹²	V;IRR;3;FUT
-Ɂio¹²	V;IPFV;PL;1;PRS
-tsøi¹²	V;IRR;PL;1;FUT
-tsen¹²	V;IPFV;2;PST
-siog²	V;IRR;SG;1;FUT
-chiógɁ² ( hmøi²)	V;IRR;3;FUT
-tson¹²	V;IRR;PL;1;FUT
-ɁliágɁ¹²	V;IPFV;2;PST
-ɁlieɁ¹²	V;IRR;SG;1;FUT
-chiag¹²	V;IRR;3;FUT
-niá¹²	V;IPFV;SG;1;PRS
-dsii²+lé²	V;IPFV;3;PST
-mi²+kuen¹²	V;IPFV;2;PST
-ngǿi²	V;IPFV;2;PRS
-hngióɁ²	V;IPFV;PL;1;PRS
-mi²+hngiáng¹	V;IRR;2;FUT
-dsian¹²	V;IPFV;3;PRS
-guái²	V;IRR;3;FUT
-mi²+dsēn¹²	V;IPFV;PL;1;PRS
-hiég²	V;IRR;3;FUT
-kēn²	V;IPFV;3;PST
-køgɁ²	V;IPFV;SG;1;PST
-hén²	V;IRR;PL;1;FUT
-ngioɁ¹²	V;IPFV;PL;1;PST
-ngēɁ²	V;IRR;SG;1;FUT
-tø²+dsḗn³	V;IRR;PL;1;FUT
-mi²+tsḗn¹	V;IPFV;3;PST
-Ɂngio¹²	V;IPFV;3;PRS
-héi²	V;IPFV;3;PRS
-lǿ²	V;IPFV;3;PRS
-Ɂngio¹²	V;IPFV;2;PST
-chiúg²	V;IPFV;2;PST
-tsø²+nióɁ²	V;IPFV;2;PRS
-mi²+rø¹²	V;IRR;3;FUT
-mi²+hlēnɁ¹	V;IRR;SG;1;FUT
-hlǿ²	V;IRR;2;FUT
-hngiú²	V;IPFV;SG;1;PST
-tsog¹²	V;IRR;PL;1;FUT
-kán² guiing²	V;IPFV;2;PST
-ɁlianɁ¹²	V;IPFV;PL;1;PRS
-ɁlieɁ¹²	V;IPFV;SG;1;PST
-ɁoɁ¹²	V;IPFV;3;PRS
-kieng¹²	V;IRR;2;FUT
-ngē¹²	V;IRR;2;FUT
-ɁliágɁ¹²	V;IRR;PL;1;FUT
-mi²+ténɁ²	V;IPFV;3;PRS
-mi²+tég²	V;IRR;SG;1;FUT
-hiúgɁ²	V;IRR;2;FUT
-hogɁ¹²	V;IPFV;2;PRS
-kiog¹²	V;IRR;SG;1;FUT
-Ɂøin¹²	V;IPFV;PL;1;PRS
-tsenɁ¹²	V;IPFV;3;PST
-ɁøɁ¹²	V;IPFV;2;PST
-hián²	V;IPFV;PL;1;PRS
-lá¹²	V;IPFV;3;PRS
-mi²+hog¹²	V;IPFV;3;PRS
-guiúg²	V;IPFV;PL;1;PRS
-ti²+li¹	V;IRR;PL;1;FUT
-guuɁ¹²	V;IPFV;SG;1;PST
-ha¹²	V;IPFV;SG;1;PRS
-hiégɁ¹²	V;IPFV;PL;1;PST
-hein¹²	V;IPFV;3;PRS
-Ɂai¹²	V;IPFV;3;PRS
-hngēɁ¹²	V;IPFV;2;PRS
-rǿnɁ¹²	V;IPFV;2;PRS
-chio¹²	V;IPFV;2;PRS
-ti²+dsǿ²	V;IRR;SG;1;FUT
-kanɁ¹²	V;IPFV;SG;1;PRS
-ngie¹²	V;IPFV;2;PST
-búɁ²	V;IPFV;PL;1;PST
-hog¹²	V;IRR;2;FUT
-kuan¹²	V;IPFV;PL;1;PST
-hiégɁ¹²	V;IPFV;SG;1;PRS
-ieg¹²	V;IPFV;2;PST
-mi²+Ɂnio¹	V;IRR;3;FUT
-ku²+hmáɁ²	V;IPFV;2;PRS
-mi²+kiín¹	V;IRR;SG;1;FUT
-sieg¹²	V;IRR;3;FUT
-mi²+kuen¹²	V;IPFV;SG;1;PRS
-Ɂngio¹²	V;IRR;3;FUT
-ton²	V;IPFV;2;PST
-hnáɁ¹²	V;IRR;2;FUT
-tøng²	V;IRR;3;FUT
-ɁlianɁ¹²	V;IRR;3;FUT
-hliúg² (lag³ dsi³)	V;IPFV;2;PST
-tan¹²	V;IPFV;2;PRS
-tóɁ¹²	V;IPFV;SG;1;PST
-méɁ²	V;IPFV;2;PRS
-lø²+liúɁ²	V;IRR;2;FUT
-siog¹²	V;IPFV;3;PST
-kiúgɁ²	V;IPFV;3;PST
-nio¹²	V;IRR;3;FUT
-hmǿɁ¹²	V;IRR;SG;1;FUT
-chi²+ngiú²	V;IRR;3;FUT
-hén²	V;IPFV;2;PRS
-Ɂán¹² ɁogɁ¹²	V;IPFV;SG;1;PST
-mi²+kionɁ¹	V;IPFV;3;PST
-hogɁ¹²	V;IRR;3;FUT
-ɁiíɁ²	V;IPFV;2;PST
-huánɁ²	V;IPFV;PL;1;PST
-hne¹²	V;IPFV;2;PRS
-héɁ²	V;IPFV;3;PST
-hágɁ¹²	V;IPFV;3;PRS
-togɁ¹²	V;IPFV;SG;1;PST
-Ɂnē¹²	V;IPFV;PL;1;PST
-guǿn¹²	V;IPFV;PL;1;PRS
-ku² hmo¹²	V;IPFV;3;PRS
-chiag¹²	V;IPFV;PL;1;PRS
-tsón¹²	V;IRR;2;FUT
-ié²	V;IPFV;3;PST
-hai¹²	V;IPFV;PL;1;PRS
-hlég²	V;IRR;SG;1;FUT
-kiúgɁ²	V;IRR;PL;1;FUT
-kuøin¹²	V;IPFV;PL;1;PRS
-ha²+Ɂan³	V;IRR;SG;1;FUT
-mi²+tsḗn¹	V;IPFV;2;PRS
-siúgɁ²	V;IPFV;SG;1;PRS
-hngióɁ²	V;IPFV;3;PRS
-guiú²	V;IPFV;3;PST
-ɁóɁ¹²	V;IPFV;3;PRS
-høn¹²	V;IPFV;PL;1;PST
-chiunɁ¹²	V;IPFV;PL;1;PST
-mi²+gag¹²	V;IPFV;SG;1;PST
-hḗnɁ²	V;IPFV;PL;1;PRS
-hai¹²	V;IPFV;PL;1;PST
-tug	V;IPFV;2;PST
-ti²+dso¹	V;IPFV;3;PRS
-Ɂiog²	V;IPFV;SG;1;PST
-hmo¹²	V;IPFV;3;PST
-chiínɁ²	V;IRR;3;FUT
-hngiáɁ²	V;IRR;2;FUT
-se¹²	V;IPFV;3;PST
-chiúgɁ²	V;IPFV;SG;1;PRS
-kiúɁ¹²	V;IPFV;SG;1;PRS
-chi²+méɁ²	V;IPFV;SG;1;PRS
-ɁéɁ²	V;IPFV;3;PRS
-Ɂei¹²	V;IPFV;3;PRS
-ku²+guénɁ²	V;IPFV;SG;1;PRS
-Ɂé²	V;IPFV;SG;1;PRS
-hngióɁ²	V;IPFV;PL;1;PST
-mi²+hniang¹ dsǿa¹²	V;IRR;2;FUT
-tión²	V;IRR;2;FUT
-Ɂén²	V;IPFV;PL;1;PST
-kanɁ¹²	V;IPFV;PL;1;PRS
-guiú²	V;IPFV;SG;1;PRS
-ié²	V;IRR;PL;1;FUT
-niɁ¹²	V;IPFV;3;PRS
-hmǿɁ¹²	V;IPFV;SG;1;PST
-Ɂian²	V;IRR;PL;1;FUT
-tø²+dsǿ³	V;IPFV;3;PRS
-mi²+Ɂlí¹	V;IPFV;3;PRS
-kúgɁ²	V;IPFV;2;PST
-hmḗɁ²	V;IPFV;PL;1;PST
-chi²+ngiú²	V;IPFV;SG;1;PST
-niáng¹²	V;IRR;3;FUT
-mi²+gan¹	V;IPFV;SG;1;PST
-guiúnɁ¹²	V;IPFV;PL;1;PRS
-ɁmíɁ²	V;IPFV;3;PRS
-ti²+dsiog¹	V;IPFV;2;PST
-ɁuanɁ¹²	V;IPFV;3;PRS
-kién¹²	V;IRR;SG;1;FUT
-guiónɁ²	V;IRR;2;FUT
-hnaiɁ¹²	V;IPFV;2;PST
-lø²+liugɁ³	V;IRR;PL;1;FUT
-ɁéɁ¹²	V;IRR;2;FUT
-ɁéɁ²	V;IPFV;PL;1;PRS
-chiúg²	V;IPFV;PL;1;PRS
-ti²+dsøa¹²	V;IRR;PL;1;FUT
-ngó¹²	V;IRR;3;FUT
-kǿn²	V;IRR;3;FUT
-ɁiánɁ²	V;IRR;SG;1;FUT
-lø²+liugɁ³	V;IPFV;SG;1;PST
-kanɁ¹²	V;IPFV;3;PRS
-Ɂian²	V;IRR;SG;1;FUT
-chiáng¹²	V;IPFV;2;PST
-kon¹²	V;IRR;SG;1;FUT
-tanɁ¹²	V;IPFV;PL;1;PRS
-kánɁ¹²	V;IPFV;PL;1;PST
-tieɁ¹²	V;IRR;2;FUT
-guiúg²	V;IPFV;3;PST
-lø²+liúɁ²	V;IPFV;2;PST
-mi²+hínɁ²	V;IRR;3;FUT
-dséi¹²	V;IPFV;3;PRS
-dsø²+lei¹	V;IRR;3;FUT
-mi²+kionɁ¹	V;IPFV;3;PRS
-kiiɁ²	V;IRR;2;FUT
-tsen¹²	V;IPFV;SG;1;PRS
-chiógɁ² ( hmøi²)	V;IPFV;PL;1;PRS
-guiúg²	V;IPFV;2;PRS
-mi²+kánɁ²	V;IRR;3;FUT
-mi²+Ɂan¹³	V;IRR;PL;1;FUT
-tsø²+kuønɁ¹²	V;IPFV;SG;1;PST
-tsánɁ²	V;IPFV;2;PST
-ɁuanɁ¹²	V;IRR;PL;1;FUT
-guión²	V;IRR;PL;1;FUT
-ti²+dsiog¹	V;IPFV;2;PRS
-hénɁ²	V;IPFV;PL;1;PST
-sieg¹²	V;IPFV;3;PST
-mi²+gug¹	V;IPFV;3;PST
-chiúgɁ²	V;IPFV;PL;1;PRS
-togɁ¹²	V;IPFV;3;PST
-tsáiɁ¹²	V;IRR;PL;1;FUT
-guuɁ¹²	V;IRR;SG;1;FUT
-tiúg²	V;IRR;2;FUT
-tsen¹²	V;IRR;3;FUT
-tø²+dsǿ³	V;IPFV;3;PST
-hniuɁ²	V;IPFV;PL;1;PRS
-hian¹²	V;IPFV;3;PST
-guieng¹²	V;IPFV;PL;1;PST
-ku²+guénɁ²	V;IRR;PL;1;FUT
-hiugɁ¹²	V;IPFV;2;PST
-tsø²+kuønɁ¹²	V;IPFV;PL;1;PST
-guønɁ¹²	V;IPFV;2;PRS
-kán² guiing²	V;IPFV;SG;1;PRS
-Ɂen¹³	V;IPFV;SG;1;PRS
-kión²	V;IPFV;2;PST
-kanɁ¹²	V;IRR;2;FUT
-lieɁ¹²	V;IPFV;SG;1;PRS
-ngiéɁ¹²	V;IRR;PL;1;FUT
-hniang²	V;IRR;SG;1;FUT
-hløa¹²	V;IPFV;3;PRS
-tian¹	V;IPFV;3;PRS
-dsii²+lian¹	V;IPFV;PL;1;PST
-huú²	V;IPFV;3;PRS
-hlǿ²	V;IPFV;3;PST
-tsø²+han¹²	V;IPFV;3;PRS
-uǿi²	V;IPFV;PL;1;PST
-nǿɁ²	V;IPFV;3;PST
-dsø²+huen¹³	V;IPFV;SG;1;PRS
-mi²+kán¹²	V;IPFV;SG;1;PST
-Ɂán²	V;IPFV;2;PRS
-møa¹²	V;IPFV;PL;1;PRS
-hiúɁ²	V;IPFV;SG;1;PST
-kii²+tág¹²	V;IRR;SG;1;FUT
-kióɁ¹²	V;IPFV;SG;1;PST
-háng¹²	V;IPFV;2;PRS
-tsénɁ²	V;IPFV;2;PST
-tsǿng²	V;IRR;PL;1;FUT
-dsúgɁ²	V;IPFV;2;PST
-mi²+hniang¹ ni³	V;IPFV;3;PRS
-mi²+gǿg¹	V;IPFV;2;PST
-ɁuøɁ¹²	V;IPFV;3;PST
-hlég²	V;IPFV;2;PST
-dsen¹²	V;IRR;2;FUT
-ɁnóɁ¹² dsí²	V;IRR;PL;1;FUT
-guiég¹²	V;IPFV;SG;1;PRS
-ieg¹²	V;IPFV;3;PRS
-len¹²	V;IPFV;2;PRS
-bḗn²	V;IPFV;SG;1;PST
-ha²+kién¹³	V;IPFV;3;PST
-mi²+hniang¹ ni³	V;IRR;SG;1;FUT
-Ɂio¹²	V;IPFV;3;PRS
-bén²	V;IRR;2;FUT
-kiéɁ¹²	V;IPFV;PL;1;PST
-guiónɁ²	V;IPFV;2;PST
-kuǿɁ¹²	V;IRR;SG;1;FUT
-nioɁ²	V;IPFV;2;PST
-hénɁ¹²	V;IPFV;2;PRS
-hogɁ¹²	V;IPFV;2;PST
-mi²+kánɁ²	V;IRR;PL;1;FUT
-lóɁ¹²	V;IPFV;PL;1;PST
-hnaiɁ¹²	V;IPFV;SG;1;PST
-hliánɁ²	V;IRR;2;FUT
-Ɂia¹²	V;IPFV;PL;1;PRS
-hiúgɁ²	V;IPFV;SG;1;PST
-ténɁ¹²	V;IPFV;SG;1;PRS
-ɁmiɁ¹²	V;IPFV;3;PST
-ti²+dsǿ²	V;IRR;PL;1;FUT
-Ɂméi¹²	V;IPFV;SG;1;PST
-ɁēnɁ¹²	V;IRR;3;FUT
-iaɁ¹²	V;IRR;SG;1;FUT
-gǿi¹²	V;IPFV;PL;1;PST
-tiú²	V;IRR;PL;1;FUT
-nang¹²	V;IPFV;PL;1;PRS
-ti²+dsøa¹²	V;IRR;2;FUT
-mi²+dsiúg²	V;IPFV;SG;1;PST
-hlø²	V;IPFV;3;PRS
-Ɂian¹²	V;IRR;2;FUT
-chi²+ngió²	V;IPFV;2;PST
-ɁóɁ¹²	V;IPFV;3;PST
-ieg¹²	V;IRR;3;FUT
-Ɂian¹²	V;IPFV;3;PST
-kian¹²	V;IRR;2;FUT
-ti²+dsǿ²	V;IPFV;3;PRS
-guenɁ¹²	V;IPFV;2;PRS
-mi²+tég²	V;IPFV;2;PRS
-kienɁ¹²	V;IPFV;3;PST
-ɁóɁ¹²	V;IRR;SG;1;FUT
-tieɁ¹²	V;IPFV;SG;1;PST
-méɁ²	V;IPFV;2;PST
-ɁagɁ²	V;IRR;PL;1;FUT
-dsii²+lian¹	V;IPFV;3;PRS
-bø²+lḗnɁ²	V;IRR;2;FUT
-chiag¹²	V;IRR;SG;1;FUT
-ngǿi²	V;IPFV;SG;1;PRS
-Ɂen¹³	V;IPFV;2;PRS
-mi²+hniang¹ ni³	V;IRR;PL;1;FUT
-ɁliuɁ¹²	V;IPFV;PL;1;PRS
-hngia¹²	V;IRR;3;FUT
-mi²+kionɁ¹	V;IPFV;2;PST
-siúɁ²	V;IRR;SG;1;FUT
-Ɂuán²	V;IPFV;3;PRS
-ti²+líɁ¹	V;IPFV;PL;1;PST
-tieɁ¹²	V;IPFV;2;PST
-mi²+gug¹	V;IRR;3;FUT
-tanɁ¹²	V;IPFV;3;PRS
-ián²	V;IPFV;PL;1;PST
-ɁúgɁ²	V;IPFV;3;PRS
-niá²	V;IRR;3;FUT
-hnia¹²	V;IRR;2;FUT
-tóɁ¹²	V;IPFV;PL;1;PST
-hiúɁ²	V;IPFV;2;PRS
-u²+nio¹³	V;IPFV;2;PRS
-guiénɁ²	V;IPFV;2;PST
-lúg²	V;IPFV;2;PST
-ngøɁ¹²	V;IPFV;2;PST
-Ɂø²+tsóɁ¹²	V;IRR;SG;1;FUT
-niá¹²	V;IPFV;2;PST
-ɁmíɁ²	V;IRR;3;FUT
-mi²+ɁmaɁ¹³	V;IPFV;3;PRS
-mi²+tián² (dsǿa¹²)	V;IPFV;2;PRS
-chi²+dsí²	V;IPFV;2;PRS
-uǿi²	V;IPFV;2;PRS
-lēɁ²	V;IPFV;SG;1;PST
-ɁmoɁ¹²	V;IRR;3;FUT
-hánɁ¹²	V;IPFV;3;PRS
-nió²	V;IRR;3;FUT
-chiog¹²	V;IPFV;SG;1;PRS
-tsénɁ²	V;IPFV;PL;1;PRS
-tieɁ¹²	V;IPFV;PL;1;PRS
-kien¹²	V;IRR;PL;1;FUT
-hógɁ¹²	V;IPFV;SG;1;PST
-nēɁ¹²	V;IRR;3;FUT
-kieg²	V;IPFV;2;PST
-tsen¹²	V;IPFV;PL;1;PST
-hian¹²	V;IRR;2;FUT
-hógɁ¹²	V;IRR;3;FUT
-hǿɁ²	V;IPFV;SG;1;PRS
-kií¹²	V;IRR;3;FUT
-ɁøɁ¹²	V;IPFV;3;PRS
-hǿa¹²	V;IPFV;PL;1;PRS
-Ɂiog¹²	V;IPFV;2;PRS
-gḗɁ²	V;IPFV;2;PRS
-hngieng¹²	V;IPFV;2;PRS
-kión²	V;IPFV;3;PRS
-mi²+ténɁ²	V;IPFV;PL;1;PST
-hínɁ¹²	V;IPFV;2;PST
-kuú²	V;IPFV;2;PRS
-dsiog¹²	V;IPFV;SG;1;PST
-káiɁ¹²	V;IPFV;SG;1;PST
-hliúg² (lag³ dsi³)	V;IRR;3;FUT
-neɁ¹²	V;IPFV;SG;1;PST
-hḗn²	V;IPFV;2;PRS
-u¹+lén²	V;IPFV;PL;1;PRS
-tsanɁ¹²	V;IRR;2;FUT
-ɁnóɁ¹² dsí²	V;IRR;SG;1;FUT
-hliúg² (lag³ dsi³)	V;IPFV;PL;1;PRS
-hug²	V;IPFV;SG;1;PRS
-mi²+chian¹²	V;IPFV;3;PRS
-ɁǿnɁ²	V;IPFV;SG;1;PRS
-kø²+hinɁ¹²	V;IPFV;PL;1;PST
-chiog¹²	V;IRR;2;FUT
-hiég²	V;IPFV;PL;1;PRS
-Ɂlí²	V;IPFV;PL;1;PST
-ti²+li¹	V;IPFV;PL;1;PRS
-tión²	V;IPFV;SG;1;PST
-bá²	V;IRR;2;FUT
-Ɂí²	V;IPFV;3;PST
-mi²+hngió¹	V;IRR;SG;1;FUT
-guái²	V;IPFV;PL;1;PRS
-Ɂio¹²	V;IPFV;2;PRS
-káiɁ¹²	V;IRR;SG;1;FUT
-kugɁ¹²	V;IPFV;3;PRS
-mi²+Ɂliúg²	V;IRR;SG;1;FUT
-Ɂøa¹²	V;IRR;PL;1;FUT
-hiúgɁ²	V;IPFV;SG;1;PRS
-kánɁ²	V;IRR;3;FUT
-hnó²	V;IPFV;3;PST
-len¹² dsǿa¹²	V;IRR;SG;1;FUT
-ɁéɁ¹²	V;IRR;SG;1;FUT
-ha¹²	V;IRR;3;FUT
-tsíɁ¹²	V;IPFV;2;PRS
-dsén²	V;IPFV;SG;1;PST
-kágɁ¹²	V;IRR;3;FUT
-lóɁ¹²	V;IPFV;3;PRS
-mi²+lei¹³	V;IPFV;SG;1;PRS
-ngo²	V;IPFV;2;PRS
-Ɂé²	V;IPFV;2;PST
-dsánɁ¹²	V;IPFV;PL;1;PST
-tsén²	V;IPFV;SG;1;PST
-tsǿng²	V;IPFV;2;PST
-mē¹²	V;IPFV;2;PRS
-mi²+tián² (dsǿa¹²)	V;IPFV;PL;1;PRS
-mi²+hlēnɁ¹	V;IRR;3;FUT
-hnéi¹²	V;IPFV;2;PRS
-mi²+hog¹²	V;IPFV;3;PST
-Ɂien²	V;IRR;3;FUT
-bø²+lḗnɁ²	V;IPFV;3;PST
-hḗɁ²	V;IRR;2;FUT
-hnḗ¹²	V;IPFV;SG;1;PRS
-kug²	V;IRR;2;FUT
-siúgɁ²	V;IRR;PL;1;FUT
-ɁngióɁ¹²	V;IRR;SG;1;FUT
-ngøa¹²	V;IPFV;3;PST
-ɁlanɁ¹²	V;IRR;3;FUT
-chi²+hné¹	V;IPFV;3;PST
-lanɁ¹²	V;IRR;SG;1;FUT
-tsí¹²	V;IPFV;PL;1;PST
-hḗnɁ²	V;IPFV;2;PRS
-mi²+dsiúg²	V;IPFV;SG;1;PRS
-huu¹²	V;IRR;SG;1;FUT
-ɁmiɁ¹²	V;IPFV;2;PST
-Ɂon¹²	V;IRR;2;FUT
-ténɁ¹²	V;IPFV;PL;1;PST
-Ɂiog²	V;IPFV;SG;1;PRS
-køɁ³ (hmai³)	V;IPFV;2;PRS
-Ɂa¹²	V;IRR;3;FUT
-chi²+dsén²	V;IPFV;2;PST
-Ɂen¹²	V;IPFV;PL;1;PST
-tsog¹²	V;IRR;SG;1;FUT
-bí²	V;IPFV;SG;1;PRS
-køin²	V;IRR;3;FUT
-hǿgɁ²	V;IRR;3;FUT
-ɁagɁ²	V;IRR;SG;1;FUT
-rón²	V;IPFV;2;PRS
-guái²	V;IRR;PL;1;FUT
-mi²+ɁḗɁ²	V;IRR;3;FUT
-togɁ¹²	V;IPFV;SG;1;PRS
-Ɂúg²	V;IRR;2;FUT
-chióg¹²	V;IRR;2;FUT
-mi²+ténɁ²	V;IPFV;2;PST
-ɁnóɁ¹² dsí²	V;IRR;2;FUT
-hnḗɁ²	V;IPFV;3;PST
-sián²	V;IPFV;2;PRS
-tsón²	V;IPFV;3;PRS
-gúg²	V;IPFV;PL;1;PST
-bḗn²	V;IRR;PL;1;FUT
-røg²	V;IPFV;3;PST
-mi²+dsian¹²	V;IRR;2;FUT
-tsø²+han¹²	V;IPFV;2;PRS
-Ɂo¹²	V;IPFV;3;PRS
-Ɂméi¹²	V;IPFV;3;PST
-tiu¹²	V;IPFV;3;PST
-Ɂon¹²	V;IPFV;PL;1;PST
-rónɁ¹²	V;IPFV;3;PST
-mi²+hnia¹²	V;IRR;3;FUT
-guønɁ¹²	V;IPFV;SG;1;PST
-nió²	V;IPFV;SG;1;PRS
-chióg¹²	V;IPFV;PL;1;PST
-guieng¹²	V;IRR;3;FUT
-tsenɁ¹²	V;IRR;2;FUT
-hne¹²	V;IPFV;PL;1;PRS
-ɁagɁ²	V;IPFV;3;PRS
-ɁmoɁ¹²	V;IPFV;3;PRS
-Ɂnie¹²	V;IPFV;3;PST
-mái¹²	V;IPFV;SG;1;PST
-nang¹²	V;IPFV;3;PST
-kánɁ²	V;IPFV;2;PRS
-ɁǿnɁ²	V;IRR;2;FUT
-huú²	V;IPFV;2;PRS
-dsoɁ²	V;IPFV;PL;1;PST
-chi²+méɁ²	V;IPFV;PL;1;PST
-hái¹²	V;IPFV;3;PST
-hønɁ¹²	V;IPFV;SG;1;PST
-Ɂia¹²	V;IRR;PL;1;FUT
-tsáiɁ¹²	V;IPFV;PL;1;PST
-kø²+hinɁ¹²	V;IRR;PL;1;FUT
-mi²+hog¹²	V;IPFV;SG;1;PRS
-kón²	V;IRR;3;FUT
-huú²	V;IPFV;PL;1;PRS
-Ɂuø¹²	V;IRR;SG;1;FUT
-tsēn¹²	V;IPFV;3;PST
-hngii²	V;IRR;3;FUT
-dsiágɁ¹²	V;IRR;3;FUT
-kii²+túg²	V;IRR;2;FUT
-kēn²	V;IRR;SG;1;FUT
-bø²+hmé²	V;IPFV;3;PST
-dsióɁ¹²	V;IPFV;SG;1;PST
-ɁmiɁ¹²	V;IRR;PL;1;FUT
-hngiú²	V;IPFV;2;PST
-tiúg²	V;IPFV;PL;1;PRS
-uénɁ²	V;IPFV;PL;1;PST
-guiúnɁ¹²	V;IPFV;2;PST
-dsiég¹²	V;IPFV;3;PST
-høn¹²	V;IPFV;3;PST
-gógɁ¹²	V;IRR;2;FUT
-nøɁ¹²	V;IPFV;PL;1;PST
-rang¹²	V;IPFV;3;PRS
-mi²+tég²	V;IPFV;3;PRS
-ɁlieɁ¹²	V;IRR;3;FUT
-mi²+kon¹²	V;IPFV;PL;1;PRS
-u¹+lén²	V;IPFV;2;PRS
-hnáɁ²	V;IPFV;SG;1;PST
-kian¹²	V;IPFV;SG;1;PRS
-mi²+guionɁ¹	V;IPFV;SG;1;PRS
-hián²	V;IPFV;3;PST
-siág¹²	V;IPFV;2;PRS
-rang¹²	V;IPFV;3;PST
-ti²+dsiog¹	V;IPFV;SG;1;PST
-mi²+ɁmaɁ¹³	V;IPFV;PL;1;PRS
-tóɁ¹²	V;IPFV;2;PRS
-chio¹²	V;IRR;SG;1;FUT
-kúgɁ¹²	V;IRR;SG;1;FUT
-Ɂmóng¹²	V;IRR;SG;1;FUT
-ko¹²	V;IPFV;SG;1;PRS
-hánɁ²	V;IPFV;3;PST
-hen¹²	V;IPFV;SG;1;PRS
-hngēɁ¹²	V;IPFV;3;PRS
-chiínɁ²	V;IPFV;SG;1;PST
-ɁlianɁ¹²	V;IPFV;3;PST
-mi²+tián² (dsǿa¹²)	V;IPFV;PL;1;PST
-kieg²	V;IPFV;SG;1;PRS
-li²	V;IRR;PL;1;FUT
-hngiíɁ²	V;IRR;2;FUT
-kiúɁ¹²	V;IPFV;2;PST
-hniang²	V;IRR;3;FUT
-Ɂuø¹²	V;IPFV;SG;1;PRS
-kiúɁ¹²	V;IRR;3;FUT
-guiónɁ²	V;IRR;PL;1;FUT
-mi²+tan¹³	V;IPFV;2;PRS
-tai²	V;IPFV;SG;1;PRS
-dsen³ (kaɁ³)	V;IPFV;SG;1;PRS
-Ɂí²	V;IRR;3;FUT
-hnaiɁ¹²	V;IRR;SG;1;FUT
-Ɂma¹²	V;IPFV;2;PST
-guiúɁ¹²	V;IPFV;3;PST
-dsiágɁ¹²	V;IPFV;3;PRS
-dsán²	V;IPFV;3;PRS
-Ɂuǿi²	V;IPFV;2;PRS
-Ɂlúg²	V;IRR;PL;1;FUT
-len¹² dsǿa¹²	V;IRR;PL;1;FUT
-uénɁ²	V;IPFV;PL;1;PRS
-Ɂnie¹²	V;IRR;PL;1;FUT
-kienɁ¹²	V;IPFV;SG;1;PST
-ngie¹²	V;IRR;PL;1;FUT
-hngióɁ¹²	V;IRR;SG;1;FUT
-Ɂuan²	V;IRR;3;FUT
-dsø²+lei¹	V;IPFV;3;PST
-kiog¹²	V;IPFV;2;PRS
-guiugɁ²	V;IRR;PL;1;FUT
-hngiú²	V;IPFV;3;PRS
-u¹+lén²	V;IPFV;2;PST
-guieng¹²	V;IPFV;3;PRS
-ɁiánɁ²	V;IPFV;PL;1;PRS
-tsenɁ¹²	V;IPFV;2;PRS
-tsǿng²	V;IPFV;2;PRS
-mi²+kon¹²	V;IPFV;PL;1;PST
-ɁéɁ¹²	V;IPFV;3;PRS
-hniá¹²	V;IRR;2;FUT
-mi²+kon¹²	V;IPFV;SG;1;PRS
-mi²+hniang¹ dsǿa¹²	V;IPFV;PL;1;PST
-mi²+kon¹²	V;IRR;PL;1;FUT
-tian¹²	V;IPFV;2;PST
-lúg²	V;IPFV;3;PRS
-gúɁ¹²	V;IRR;2;FUT
-hngió²	V;IPFV;2;PRS
-hngiíɁ²	V;IPFV;SG;1;PST
-dsan²	V;IRR;2;FUT
-tsēn¹²	V;IPFV;2;PRS
-guiú²	V;IRR;2;FUT
-tsai¹²	V;IRR;3;FUT
-tsø²+nióɁ¹²	V;IPFV;3;PRS
-Ɂo¹²	V;IPFV;2;PST
-ɁnióɁ¹²	V;IPFV;3;PST
-tagɁ²	V;IPFV;2;PST
-hiúgɁ²	V;IPFV;3;PST
-kánɁ¹²	V;IPFV;2;PRS
-chi²+kián²	V;IPFV;PL;1;PST
-Ɂéng²	V;IPFV;SG;1;PST
-huánɁ²	V;IPFV;2;PST
-tiánɁ¹²	V;IPFV;SG;1;PST
-iéiɁ¹²	V;IPFV;SG;1;PRS
-Ɂai¹²	V;IPFV;3;PST
-guiénɁ²	V;IPFV;PL;1;PST
-tsǿɁ¹²	V;IRR;SG;1;FUT
-huu¹²	V;IRR;SG;1;FUT
-hmḗɁ²	V;IRR;SG;1;FUT
-dsióɁ¹²	V;IPFV;PL;1;PST
-mi²+dsē¹²	V;IRR;3;FUT
-mi²+hlēnɁ¹	V;IPFV;2;PRS
-nei¹²	V;IPFV;3;PST
-tø²+kanɁ¹³	V;IRR;3;FUT
-køin²	V;IPFV;PL;1;PST
-len¹² dsǿa¹²	V;IPFV;SG;1;PST
-ɁmēɁ¹²	V;IPFV;SG;1;PST
-hmóngɁ¹²	V;IPFV;2;PST
-mi²+hniang¹ ni³	V;IPFV;2;PRS
-hǿa¹²	V;IPFV;2;PST
-neɁ¹²	V;IRR;SG;1;FUT
-ɁḗɁ²	V;IPFV;3;PST
-kuø¹²	V;IPFV;SG;1;PRS
-hanɁ¹² dsǿa¹²	V;IPFV;3;PRS
-chión²	V;IRR;2;FUT
-húgɁ²	V;IPFV;2;PST
-huɁ¹²	V;IRR;3;FUT
-dság¹²	V;IPFV;3;PRS
-chi²+hné¹	V;IRR;2;FUT
-ɁøɁ¹²	V;IRR;SG;1;FUT
-rǿnɁ¹²	V;IPFV;PL;1;PST
-huú²	V;IRR;PL;1;FUT
-sianɁ¹²	V;IPFV;2;PRS
-hánɁ²	V;IPFV;PL;1;PST
-Ɂai¹²	V;IPFV;PL;1;PST
-kø²+káng¹²	V;IRR;2;FUT
-lái¹²	V;IRR;3;FUT
-chiógɁ² ( hmøi²)	V;IRR;SG;1;FUT
-lieɁ¹²	V;IPFV;2;PST
-hmǿɁ¹²	V;IPFV;2;PST
-Ɂán¹² ɁogɁ¹²	V;IPFV;2;PST
-tiu¹²	V;IPFV;2;PRS
-guǿn¹²	V;IPFV;3;PST
-tagɁ¹²	V;IPFV;3;PRS
-mi²+hngiáng¹	V;IRR;3;FUT
-ɁēnɁ¹²	V;IRR;PL;1;FUT
-chi²+kián²	V;IPFV;3;PST
-húg²	V;IPFV;2;PRS
-mē¹²	V;IPFV;SG;1;PST
-chiáng¹²	V;IPFV;2;PRS
-mi²+tsḗn¹	V;IPFV;3;PRS
-kø¹²	V;IPFV;3;PST
-nēɁ¹²	V;IRR;2;FUT
-ɁuanɁ¹²	V;IRR;2;FUT
-hngiíɁ²	V;IRR;PL;1;FUT
-Ɂén²	V;IRR;SG;1;FUT
-tsai¹²	V;IPFV;2;PRS
-ián²	V;IRR;SG;1;FUT
-mi²+kán¹²	V;IRR;2;FUT
-tií²	V;IPFV;PL;1;PST
-hnióɁ²	V;IPFV;3;PRS
-bø²+hmé²	V;IPFV;SG;1;PST
-mi²+tsḗn¹	V;IPFV;SG;1;PRS
-tián²	V;IPFV;2;PRS
-hǿɁ¹²	V;IRR;SG;1;FUT
-guiúg²	V;IPFV;PL;1;PST
-hniuɁ²	V;IPFV;SG;1;PST
-dsii²+lé²	V;IPFV;3;PRS
-chi²+méɁ²	V;IPFV;PL;1;PRS
-hiúg²	V;IRR;3;FUT
-siúgɁ²	V;IRR;2;FUT
-mi²+kien¹²	V;IPFV;3;PRS
-chi²+láɁ²	V;IPFV;2;PST
-hlái²	V;IPFV;3;PST
-ku²+hmáɁ²	V;IPFV;PL;1;PST
-ɁiuɁ³ (ɁéɁ¹)	V;IPFV;3;PRS
-kieng¹²	V;IPFV;2;PST
-ngó¹²	V;IPFV;PL;1;PRS
-tsánɁ²	V;IPFV;PL;1;PRS
-Ɂø²+tsóɁ¹²	V;IPFV;2;PRS
-dsán²	V;IPFV;3;PST
-ɁlanɁ¹²	V;IPFV;2;PRS
-mi²+dsøg¹²	V;IPFV;3;PRS
-køɁ³ (hmai³)	V;IPFV;3;PST
-hnáɁ¹²	V;IRR;PL;1;FUT
-mi²+ténɁ²	V;IPFV;SG;1;PRS
-ɁuáiɁ¹²	V;IPFV;SG;1;PST
-ɁuénɁ²	V;IPFV;3;PRS
-tso¹²	V;IPFV;SG;1;PRS
-hánɁ¹²	V;IRR;PL;1;FUT
-tián²	V;IPFV;SG;1;PRS
-mi²+kuen¹²	V;IPFV;2;PRS
-mi²+ɁmaɁ¹³	V;IPFV;3;PST
-hén²	V;IRR;SG;1;FUT
-hlǿ²	V;IRR;SG;1;FUT
-bí²	V;IPFV;3;PRS
-ié²	V;IRR;SG;1;FUT
-dsanɁ¹²	V;IPFV;2;PST
-niuɁ³	V;IPFV;PL;1;PRS
-lan¹²	V;IRR;3;FUT
-tsí¹²	V;IPFV;PL;1;PRS
-hnaiɁ¹²	V;IPFV;SG;1;PRS
-ngǿ²	V;IRR;3;FUT
-tø²+ɁénɁ¹²	V;IPFV;3;PRS
-tug	V;IPFV;2;PRS
-lio¹²	V;IPFV;PL;1;PRS
-ha²+rǿng²	V;IPFV;3;PST
-bø²+lḗnɁ²	V;IRR;3;FUT
-niuɁ³	V;IRR;SG;1;FUT
-mi²+tég²	V;IPFV;SG;1;PST
-ɁónɁ²	V;IRR;2;FUT
-hai¹²	V;IPFV;SG;1;PST
-tsén²	V;IRR;3;FUT
-tsø²+han¹²	V;IPFV;SG;1;PST
-ɁenɁ¹²	V;IRR;SG;1;FUT
-mḗɁ²	V;IPFV;SG;1;PST
-Ɂngiéng¹²	V;IPFV;PL;1;PRS
-dsúgɁ²	V;IPFV;SG;1;PRS
-mi²+Ɂan¹³	V;IPFV;2;PST
-mi²+gug¹	V;IPFV;2;PST
-ɁuanɁ¹²	V;IPFV;2;PST
-káiɁ¹²	V;IPFV;3;PST
-Ɂiá¹²	V;IRR;SG;1;FUT
-tsogɁ² hmøi²	V;IRR;2;FUT
-nié¹²	V;IPFV;SG;1;PRS
-mi²+dsiagɁ¹	V;IRR;SG;1;FUT
-dsén²	V;IRR;3;FUT
-tiú²	V;IPFV;2;PST
-mi²+ti¹	V;IPFV;3;PRS
-hanɁ¹² dsǿa¹²	V;IPFV;2;PST
-u²+Ɂai¹²	V;IPFV;PL;1;PST
-dsen¹²	V;IRR;PL;1;FUT
-hngie¹²	V;IRR;2;FUT
-mē¹²	V;IPFV;2;PST
-Ɂøa¹²	V;IRR;PL;1;FUT
-hlég²	V;IPFV;PL;1;PST
-tei²	V;IPFV;PL;1;PRS
-mi²+dsøg¹²	V;IPFV;PL;1;PST
-tø²+húg³	V;IRR;SG;1;FUT
-tei¹²	V;IRR;SG;1;FUT
-siúg²	V;IPFV;PL;1;PRS
-tiánɁ¹²	V;IRR;2;FUT
-ɁiéiɁ¹²	V;IPFV;SG;1;PST
-togɁ¹²	V;IPFV;3;PRS
-mi²+hǿ²	V;IRR;2;FUT
-ngie³	V;IPFV;PL;1;PRS
-ɁlíɁ¹²	V;IPFV;3;PST
-ɁnangɁ²	V;IRR;PL;1;FUT
-kán² guiing²	V;IRR;SG;1;FUT
-mi²+hlíɁ²	V;IPFV;3;PST
-ɁliágɁ¹²	V;IPFV;3;PRS
-huúɁ¹²	V;IPFV;3;PRS
-gúg²	V;IPFV;3;PST
-tsø²+nióɁ¹²	V;IRR;3;FUT
-kiang¹²	V;IPFV;SG;1;PRS
-hiugɁ¹²	V;IPFV;3;PRS
-méɁ²	V;IRR;3;FUT
-hmo¹²	V;IPFV;PL;1;PRS
-Ɂé²	V;IRR;3;FUT
-héin¹²	V;IPFV;SG;1;PST
-kieg²	V;IRR;SG;1;FUT
-hngiáɁ²	V;IPFV;SG;1;PST
-siúg²	V;IRR;SG;1;FUT
-kø²+káng¹²	V;IPFV;2;PRS
-tøng²	V;IPFV;3;PST
-hnióɁ²	V;IPFV;2;PRS
-henɁ²	V;IPFV;3;PRS
-Ɂngio¹²	V;IRR;2;FUT
-iaɁ¹²	V;IPFV;3;PRS
-dsø²+lé²	V;IPFV;3;PRS
-mi²+hínɁ²	V;IPFV;3;PRS
-guiúg²	V;IRR;2;FUT
-guønɁ¹²	V;IPFV;2;PST
-ngó¹²	V;IRR;SG;1;FUT
-guøn¹²	V;IPFV;PL;1;PST
-tsí¹²	V;IRR;PL;1;FUT
-nei¹²	V;IRR;3;FUT
-se¹²	V;IPFV;2;PRS
-lø²+liúɁ²	V;IPFV;2;PRS
-u²+nio¹³	V;IPFV;PL;1;PST
-mi²+dsēn¹²	V;IPFV;2;PRS
-hiúg²	V;IPFV;SG;1;PST
-hián²	V;IPFV;2;PRS
-pø²+hánɁ²	V;IPFV;3;PST
-mi²+hngiáng¹	V;IPFV;2;PRS
-kánɁ²	V;IRR;SG;1;FUT
-dsug²	V;IRR;3;FUT
-mi²+Ɂog¹³	V;IRR;3;FUT
-tangɁ²	V;IRR;2;FUT
-guønɁ¹²	V;IRR;PL;1;FUT
-kiúɁ¹²	V;IPFV;2;PRS
-Ɂno¹²	V;IPFV;PL;1;PRS
-tsí¹²	V;IPFV;SG;1;PRS
-se¹²	V;IRR;SG;1;FUT
-Ɂēn¹²	V;IPFV;3;PST
-guianɁ¹²	V;IRR;PL;1;FUT
-tsá¹²	V;IPFV;SG;1;PST
-pø²+hánɁ²	V;IRR;3;FUT
-ko¹²	V;IRR;PL;1;FUT
-li²	V;IPFV;3;PST
-ná²	V;IRR;3;FUT
-hlái²	V;IRR;2;FUT
-chiunɁ¹²	V;IPFV;2;PRS
-hlian¹²	V;IPFV;PL;1;PRS
-dsiog¹²	V;IPFV;PL;1;PRS
-li²	V;IRR;SG;1;FUT
-guen²	V;IRR;SG;1;FUT
-ɁlanɁ¹²	V;IPFV;PL;1;PRS
-kiiɁ²	V;IPFV;2;PST
-tsǿaɁ¹²	V;IPFV;SG;1;PRS
-mḗɁ²	V;IRR;3;FUT
-tión²	V;IPFV;SG;1;PST
-lúg²	V;IPFV;PL;1;PST
-tsø²+nióɁ²	V;IRR;2;FUT
-teng¹²	V;IPFV;3;PRS
-hngióɁ¹²	V;IPFV;3;PST
-hngióɁ²	V;IRR;PL;1;FUT
-uénɁ²	V;IRR;2;FUT
-mi²+tan¹²	V;IPFV;PL;1;PRS
-rón²	V;IRR;SG;1;FUT
-ná²	V;IPFV;3;PST
-guenɁ¹²	V;IPFV;2;PST
-Ɂí²	V;IRR;PL;1;FUT
-uǿi²	V;IPFV;SG;1;PST
-dsiag¹²	V;IPFV;PL;1;PST
-tsog¹²	V;IRR;3;FUT
-dsúgɁ¹²	V;IPFV;2;PRS
-ɁǿnɁ²	V;IRR;3;FUT
-hnáɁ¹²	V;IPFV;2;PRS
-togɁ¹²	V;IPFV;2;PRS
-hngia¹²	V;IPFV;PL;1;PRS
-kuøin¹²	V;IPFV;2;PRS
-ngiéɁ¹²	V;IPFV;PL;1;PRS
-hug²	V;IRR;SG;1;FUT
-Ɂmóng¹²	V;IPFV;2;PST
-hén²	V;IPFV;2;PST
-dsø²+togɁ¹²	V;IPFV;SG;1;PST
-teng¹²	V;IPFV;PL;1;PRS
-len¹²	V;IRR;SG;1;FUT
-kø²+hinɁ¹²	V;IPFV;2;PRS
-kiáɁ²	V;IPFV;2;PRS
-tsáiɁ¹²	V;IPFV;3;PST
-nēɁ¹²	V;IPFV;SG;1;PRS
-niuɁ³	V;IPFV;3;PRS
-mi²+hngiáng¹	V;IPFV;PL;1;PRS
-ngái¹²	V;IRR;2;FUT
-mi²+hlíɁ²	V;IRR;3;FUT
-hnia¹²	V;IPFV;PL;1;PST
-guønɁ¹²	V;IPFV;PL;1;PST
-hógɁ¹²	V;IRR;SG;1;FUT
-niuɁ³	V;IRR;3;FUT
-køgɁ²	V;IPFV;2;PST
-kḗn²	V;IRR;PL;1;FUT
-hug²	V;IPFV;PL;1;PST
-hénɁ²	V;IRR;SG;1;FUT
-dsiánɁ²	V;IPFV;2;PRS
-gógɁ¹²	V;IPFV;SG;1;PRS
-ngie¹²	V;IPFV;PL;1;PST
-kanɁ¹²	V;IPFV;2;PST
-dsanɁ¹²	V;IRR;SG;1;FUT
-mi²+liág¹	V;IRR;2;FUT
-køn¹²	V;IPFV;3;PRS
-bí²	V;IRR;PL;1;FUT
-ɁēnɁ¹²	V;IRR;2;FUT
-rain¹²	V;IRR;PL;1;FUT
-hmóɁ¹²	V;IPFV;3;PRS
-ngai¹²	V;IPFV;PL;1;PRS
-mi²+kuen¹²	V;IPFV;PL;1;PST
-Ɂuøi¹²	V;IPFV;3;PST
-lá¹²	V;IPFV;2;PST
-kiéɁ¹²	V;IPFV;3;PRS
-dsogɁ¹²	V;IRR;2;FUT
-ɁmiɁ¹²	V;IPFV;PL;1;PRS
-mi²+chian¹²	V;IRR;SG;1;FUT
-mi²+Ɂan¹³	V;IRR;2;FUT
-hngiíɁ²	V;IPFV;PL;1;PRS
-ɁaiɁ²	V;IRR;3;FUT
-ɁioɁ¹²	V;IPFV;SG;1;PRS
-ɁlíɁ¹²	V;IPFV;PL;1;PRS
-tøa¹²	V;IPFV;3;PST
-togɁ¹²	V;IRR;SG;1;FUT
-chi²+lánɁ²	V;IPFV;SG;1;PRS
-Ɂiog²	V;IPFV;2;PST
-ɁmíɁ²	V;IPFV;SG;1;PRS
-mi²+ɁmaɁ¹³	V;IPFV;SG;1;PRS
-tán¹²	V;IRR;3;FUT
-dsanɁ¹²	V;IPFV;3;PRS
-ɁløaɁ¹²	V;IPFV;3;PRS
-ha²+lig²	V;IPFV;3;PRS
-ɁliɁ²	V;IPFV;3;PST
-mi²+gǿg¹	V;IPFV;SG;1;PRS
-mái¹²	V;IPFV;2;PST
-mi²+dsiog¹	V;IPFV;PL;1;PST
-liúg²	V;IPFV;3;PST
-kuan¹²	V;IPFV;PL;1;PRS
-mi²+Ɂan¹³	V;IRR;SG;1;FUT
-Ɂiog¹²	V;IRR;2;FUT
-kuan¹²	V;IPFV;SG;1;PRS
-mi²+hní¹	V;IPFV;2;PST
-mi²+ɁḗɁ²	V;IPFV;3;PRS
-lan²	V;IRR;3;FUT
-guuɁ¹²	V;IPFV;PL;1;PRS
-hnáɁ¹²	V;IPFV;PL;1;PST
-ɁliuɁ¹²	V;IRR;3;FUT
-ɁóɁ²	V;IRR;SG;1;FUT
-dsiag¹²	V;IPFV;2;PST
-hiúɁ²	V;IPFV;3;PST
-tø²+húg³	V;IPFV;3;PRS
-mi²+dsíg²	V;IPFV;SG;1;PST
-hliánɁ²	V;IRR;3;FUT
-ngøa¹²	V;IPFV;2;PRS
-tsøi¹²	V;IPFV;PL;1;PST
-goɁ²	V;IPFV;3;PST
-tsenɁ¹²	V;IRR;SG;1;FUT
-Ɂnai¹²	V;IRR;2;FUT
-tsǿn²	V;IPFV;3;PST
-dsen¹²	V;IPFV;SG;1;PST
-hanɁ¹² dsǿa¹²	V;IRR;PL;1;FUT
-tán¹²	V;IRR;SG;1;FUT
-Ɂé²	V;IPFV;3;PST
-goɁ²	V;IPFV;3;PRS
-Ɂen¹²	V;IRR;SG;1;FUT
-gúg²	V;IPFV;2;PST
-Ɂien¹²	V;IPFV;2;PST
-siág¹²	V;IRR;2;FUT
-kēn²	V;IRR;3;FUT
-mi²+dsií¹	V;IPFV;SG;1;PRS
-kuǿɁ¹²	V;IRR;PL;1;FUT
-len¹² dsǿa¹²	V;IPFV;PL;1;PST
-sián²	V;IPFV;3;PST
-ngiéɁ¹²	V;IPFV;3;PRS
-ɁngióɁ¹²	V;IPFV;3;PRS
-hmóngɁ¹²	V;IPFV;2;PRS
-mi²+Ɂlí¹	V;IPFV;SG;1;PST
-Ɂí²	V;IRR;2;FUT
-guiúnɁ¹²	V;IRR;SG;1;FUT
-mi²+Ɂliúg²	V;IRR;3;FUT
-guiónɁ²	V;IPFV;SG;1;PST
-ɁaiɁ²	V;IPFV;SG;1;PRS
-Ɂlí²	V;IRR;PL;1;FUT
-ɁiéiɁ¹²	V;IPFV;PL;1;PST
-mi²+hngiáng¹	V;IPFV;SG;1;PRS
-uøin²	V;IPFV;3;PRS
-hug²	V;IPFV;3;PRS
-Ɂog¹²	V;IRR;SG;1;FUT
-ɁóɁ¹²	V;IPFV;PL;1;PRS
-tian¹²	V;IRR;SG;1;FUT
-gǿaɁ¹²	V;IPFV;2;PRS
-kuøin¹²	V;IRR;PL;1;FUT
-dsogɁ¹²	V;IPFV;PL;1;PRS
-u²+Ɂai¹²	V;IPFV;SG;1;PST
-Ɂien¹²	V;IPFV;SG;1;PRS
-ɁúgɁ²	V;IRR;3;FUT
-nió²	V;IPFV;3;PST
-hǿa¹²	V;IRR;3;FUT
-mi²+dsiog¹	V;IRR;2;FUT
-dsen¹²	V;IRR;SG;1;FUT
-kǿ²	V;IRR;3;FUT
-guenɁ¹²	V;IPFV;3;PRS
-uénɁ²	V;IRR;PL;1;FUT
-kuénɁ²	V;IPFV;2;PRS
-guiénɁ²	V;IRR;3;FUT
-ié²	V;IPFV;PL;1;PST
-chiángɁ¹²	V;IRR;SG;1;FUT
-rang¹²	V;IPFV;2;PRS
-tso¹²	V;IRR;PL;1;FUT
-tsón²	V;IPFV;PL;1;PST
-huúɁ²	V;IPFV;2;PRS
-háng¹²	V;IPFV;2;PST
-guieng¹²	V;IRR;2;FUT
-lø²+liúɁ²	V;IRR;PL;1;FUT
-bí²	V;IRR;3;FUT
-chiángɁ¹²	V;IRR;3;FUT
-hnio³	V;IRR;3;FUT
-guiég¹²	V;IRR;PL;1;FUT
-chi²+ngió²	V;IPFV;PL;1;PST
-nioɁ²	V;IPFV;SG;1;PST
-ti²+kḗn¹	V;IRR;3;FUT
-dsii²+lian¹	V;IPFV;3;PST
-sianɁ¹²	V;IPFV;3;PST
-dsióɁ¹² hǿg³	V;IPFV;PL;1;PST
-tsø²+nióɁ²	V;IPFV;3;PST
-Ɂnie¹²	V;IPFV;SG;1;PST
-mi²+gan¹²	V;IPFV;SG;1;PRS
-tø²+dsḗn³	V;IPFV;2;PST
-møa¹²	V;IRR;3;FUT
-guieɁ¹²	V;IRR;2;FUT
-mi²+chian¹²	V;IPFV;PL;1;PST
-kúgɁ²	V;IPFV;2;PST
-tanɁ¹²	V;IPFV;2;PRS
-gǿaɁ¹²	V;IRR;2;FUT
-Ɂén²	V;IRR;2;FUT
-tǿɁ²	V;IPFV;SG;1;PRS
-dsen³ (kaɁ³)	V;IRR;PL;1;FUT
-gúg²	V;IRR;SG;1;FUT
-huu¹²	V;IPFV;SG;1;PST
-ɁúgɁ²	V;IRR;2;FUT
-ti²+dsøa¹²	V;IPFV;3;PRS
-guuɁ¹²	V;IRR;3;FUT
-Ɂian²	V;IRR;2;FUT
-dsán²	V;IPFV;2;PRS
-chiag¹²	V;IPFV;2;PRS
-ha²+Ɂan³	V;IPFV;PL;1;PRS
-chi²+ngiú²	V;IPFV;2;PST
-ha¹²	V;IPFV;PL;1;PRS
-hmáɁ² (dsǿa¹²)	V;IRR;2;FUT
-ɁóɁ²	V;IPFV;3;PST
-hínɁ²	V;IPFV;3;PRS
-niɁ¹²	V;IRR;3;FUT
-niɁ¹²	V;IPFV;3;PST
-mi²+kien¹²	V;IPFV;SG;1;PRS
-ɁnióɁ¹²	V;IPFV;PL;1;PRS
-tian¹	V;IRR;PL;1;FUT
-guái²	V;IPFV;SG;1;PST
-tsánɁ²	V;IRR;SG;1;FUT
-hmáɁ² (dsǿa¹²)	V;IPFV;3;PST
-ɁuanɁ¹²	V;IPFV;PL;1;PRS
-chiunɁ¹²	V;IPFV;2;PRS
-héi²	V;IRR;2;FUT
-mi²+guionɁ¹	V;IRR;2;FUT
-hngiíɁ²	V;IRR;3;FUT
-mi²+hu¹	V;IPFV;PL;1;PRS
-ɁliuɁ¹²	V;IRR;SG;1;FUT
-sián²	V;IRR;2;FUT
-kieng¹²	V;IPFV;2;PRS
-hiég²	V;IPFV;2;PRS
-kugɁ¹²	V;IPFV;2;PST
-ɁøɁ¹²	V;IPFV;SG;1;PST
-kión²	V;IPFV;3;PST
-tsø²+kuønɁ¹²	V;IRR;PL;1;FUT
-kánɁ¹²	V;IRR;PL;1;FUT
-li²	V;IPFV;2;PST
-mi²+Ɂliúg²	V;IPFV;PL;1;PRS
-mi²+Ɂliúg²	V;IPFV;2;PRS
-ku²+hmáɁ²	V;IPFV;3;PST
-ngó¹²	V;IRR;PL;1;FUT
-ha²	V;IRR;3;FUT
-tion¹²	V;IPFV;2;PRS
-mi²+Ɂnio¹	V;IPFV;SG;1;PRS
-dsán²	V;IPFV;2;PST
-ɁuáiɁ¹²	V;IPFV;2;PRS
-hínɁ²	V;IPFV;3;PST
-dsian¹²	V;IPFV;2;PRS
-guiég¹²	V;IPFV;2;PST
-Ɂuan²	V;IPFV;SG;1;PRS
-mi²+Ɂog¹³	V;IRR;PL;1;FUT
-kiúɁ¹²	V;IRR;SG;1;FUT
-chi²+ngiú²	V;IPFV;PL;1;PST
-Ɂlí²	V;IPFV;PL;1;PRS
-lóɁ¹²	V;IPFV;SG;1;PRS
-uénɁ²	V;IPFV;SG;1;PRS
-gúɁ¹²	V;IPFV;2;PST
-ngó¹²	V;IPFV;SG;1;PRS
-ngē²	V;IRR;3;FUT
-mi²+guionɁ¹	V;IPFV;2;PRS
-ɁmóɁ²	V;IRR;PL;1;FUT
-Ɂúg²	V;IPFV;3;PRS
-kieng¹²	V;IRR;3;FUT
-hág¹²	V;IPFV;SG;1;PRS
-mi²+hínɁ²	V;IRR;SG;1;FUT
-hiugɁ¹²	V;IRR;2;FUT
-huen¹²	V;IPFV;2;PST
-húɁ²	V;IRR;PL;1;FUT
-tieɁ¹²	V;IPFV;2;PRS
-Ɂéng²	V;IRR;2;FUT
-ton²	V;IRR;PL;1;FUT
-dsa²	V;IRR;3;FUT
-kúgɁ¹²	V;IPFV;PL;1;PRS
-tiu¹²	V;IPFV;SG;1;PRS
-ɁlieɁ¹²	V;IPFV;3;PRS
-chiog¹²	V;IPFV;3;PST
-ɁøɁ¹²	V;IPFV;2;PRS
-gḗɁ²	V;IRR;3;FUT
-kión²	V;IRR;3;FUT
-Ɂngieng¹²	V;IPFV;SG;1;PRS
-chiúgɁ²	V;IRR;3;FUT
-háinɁ¹²	V;IPFV;3;PST
-hngieɁ¹²	V;IRR;3;FUT
-kién¹²	V;IPFV;3;PST
-lóɁ¹²	V;IPFV;PL;1;PRS
-mi²+hniang¹ dsǿa¹²	V;IPFV;3;PRS
-kḗn²	V;IPFV;PL;1;PST
-huánɁ¹²	V;IRR;SG;1;FUT
-ɁiíɁ²	V;IRR;3;FUT
-héɁ²	V;IRR;PL;1;FUT
-kian¹²	V;IPFV;2;PRS
-Ɂen¹²	V;IPFV;PL;1;PRS
-hogɁ¹²	V;IRR;SG;1;FUT
-hnḗɁ²	V;IRR;PL;1;FUT
-Ɂan¹²	V;IPFV;PL;1;PST
-huǿin¹²	V;IPFV;PL;1;PST
-ɁiíɁ²	V;IPFV;3;PRS
-kón²	V;IPFV;3;PST
-køɁ³ (hmai³)	V;IRR;2;FUT
-Ɂngiéng²	V;IPFV;3;PST
-nung²	V;IRR;SG;1;FUT
-tian¹²	V;IRR;2;FUT
-kiúgɁ²	V;IRR;3;FUT
-chi²+dsí²	V;IRR;SG;1;FUT
-mi²+hngió¹	V;IPFV;2;PST
-hiúɁ²	V;IRR;2;FUT
-chióg¹²	V;IPFV;SG;1;PST
-guión²	V;IPFV;SG;1;PRS
-hngiíɁ²	V;IPFV;PL;1;PST
-hogɁ¹²	V;IPFV;3;PST
-hián²	V;IPFV;PL;1;PRS
-kii²+túg²	V;IRR;3;FUT
-tiu¹²	V;IRR;SG;1;FUT
-hnáɁ²	V;IPFV;3;PST
-héɁ²	V;IPFV;SG;1;PST
-liúg²	V;IPFV;PL;1;PST
-háng¹²	V;IRR;PL;1;FUT
-ton²	V;IPFV;3;PRS
-tanɁ²	V;IPFV;SG;1;PRS
-mi²+hénɁ²	V;IPFV;3;PRS
-ɁéɁ²	V;IRR;3;FUT
-ton²	V;IRR;3;FUT
-lóɁ¹²	V;IRR;SG;1;FUT
-kug²	V;IPFV;3;PST
-mi²+hǿ²	V;IPFV;2;PRS
-hiégɁ¹²	V;IPFV;2;PRS
-ko¹²	V;IPFV;2;PST
-nǿɁ²	V;IRR;SG;1;FUT
-nang¹²	V;IRR;3;FUT
-tian¹²	V;IRR;2;FUT
-hénɁ¹²	V;IPFV;2;PRS
-héi²	V;IPFV;3;PST
-nió²	V;IPFV;2;PRS
-hmáɁ² (dsǿa¹²)	V;IPFV;PL;1;PST
-chi²+dsí²	V;IPFV;SG;1;PRS
-hug²	V;IRR;PL;1;FUT
-kug²	V;IPFV;SG;1;PRS
-dsian¹²	V;IRR;SG;1;FUT
-tei²	V;IRR;SG;1;FUT
-kø¹²	V;IPFV;3;PRS
-kiagɁ¹²	V;IRR;3;FUT
-tsai¹²	V;IRR;PL;1;FUT
-bá²	V;IPFV;3;PST
-ti²+líɁ¹	V;IPFV;3;PRS
-hinɁ³	V;IPFV;3;PST
-Ɂméi¹²	V;IRR;2;FUT
-ɁēnɁ¹²	V;IPFV;3;PST
-Ɂøin¹²	V;IRR;2;FUT
-Ɂme¹²	V;IRR;2;FUT
-kuú²	V;IRR;SG;1;FUT
-ɁǿnɁ²	V;IRR;PL;1;FUT
-dsogɁ¹²	V;IRR;SG;1;FUT
-tangɁ²	V;IPFV;3;PRS
-tø²+dsḗn³	V;IPFV;SG;1;PRS
-Ɂiei¹²	V;IRR;SG;1;FUT
-chi²+ngió²	V;IRR;3;FUT
-tsáiɁ¹²	V;IPFV;3;PRS
-tiú²	V;IRR;3;FUT
-lio¹²	V;IRR;PL;1;FUT
-hlian¹²	V;IPFV;3;PST
-kienɁ¹²	V;IRR;3;FUT
-ián²	V;IPFV;SG;1;PST
-ngē¹²	V;IPFV;PL;1;PST
-lēɁ²	V;IPFV;3;PST
-mi²+kán¹²	V;IRR;SG;1;FUT
-gog²	V;IRR;SG;1;FUT
-ɁiúɁ¹²	V;IPFV;3;PST
-Ɂlúg²	V;IRR;2;FUT
-ɁlianɁ²	V;IRR;2;FUT
-hnéi¹²	V;IRR;SG;1;FUT
-Ɂmǿi²	V;IRR;PL;1;FUT
-kienɁ¹²	V;IRR;2;FUT
-mi²+hog¹²	V;IRR;PL;1;FUT
-mi²+rø¹²	V;IPFV;3;PRS
-køgɁ²	V;IRR;SG;1;FUT
-tsíɁ¹²	V;IRR;3;FUT
-guø¹²	V;IPFV;3;PRS
-teng¹²	V;IRR;3;FUT
-guu²+dsḗn¹³	V;IPFV;2;PRS
-nǿɁ²	V;IPFV;PL;1;PST
-hngǿi²	V;IRR;3;FUT
-Ɂian¹²	V;IPFV;SG;1;PRS
-Ɂø²+tsóɁ¹²	V;IPFV;3;PRS
-ngái¹²	V;IPFV;3;PST
-chi²+dsén²	V;IPFV;2;PRS
-kiuɁ¹²	V;IRR;2;FUT
-hág¹²	V;IPFV;PL;1;PRS
-guiúg²	V;IRR;SG;1;FUT
-huen¹²	V;IPFV;2;PRS
-tsíɁ¹²	V;IPFV;2;PST
-iaɁ¹²	V;IPFV;PL;1;PRS
-hinɁ³	V;IPFV;3;PRS
-tanɁ¹² huu¹²	V;IRR;PL;1;FUT
-chi²+hné¹	V;IRR;SG;1;FUT
-mi²+Ɂan¹²	V;IRR;SG;1;FUT
-dsug²	V;IPFV;3;PRS
-ɁuáiɁ¹²	V;IRR;2;FUT
-kuénɁ²	V;IPFV;2;PST
-mi²+hní¹	V;IPFV;PL;1;PST
-hniang²	V;IPFV;PL;1;PST
-ti²+líɁ¹	V;IPFV;SG;1;PRS
-tian¹	V;IPFV;PL;1;PST
-ɁéiɁ¹²	V;IPFV;3;PST
-hniuɁ²	V;IRR;SG;1;FUT
-nøɁ¹²	V;IPFV;SG;1;PRS
-dsǿɁ²	V;IRR;SG;1;FUT
-hág¹²	V;IPFV;3;PST
-gǿi¹²	V;IRR;PL;1;FUT
-ɁmíɁ²	V;IPFV;3;PST
-gǿaɁ¹²	V;IPFV;3;PST
-nioɁ²	V;IRR;2;FUT
-ti²+dsøa¹²	V;IPFV;PL;1;PST
-ɁmóɁ²	V;IRR;SG;1;FUT
-mi²+hmḗ²	V;IRR;3;FUT
-kán²	V;IPFV;2;PRS
-kií¹²	V;IPFV;3;PST
-kian¹²	V;IPFV;PL;1;PRS
-tø²+dsḗn³	V;IRR;SG;1;FUT
-guen¹²	V;IRR;PL;1;FUT
-ié²	V;IPFV;SG;1;PST
-chiángɁ¹²	V;IRR;2;FUT
-chiógɁ² ( hmøi²)	V;IPFV;3;PRS
-tsø²+nióɁ²	V;IRR;SG;1;FUT
-dsióɁ¹²	V;IPFV;3;PST
-mi²+hog¹²	V;IPFV;2;PST
-tangɁ²	V;IPFV;2;PRS
-iéiɁ¹²	V;IRR;PL;1;FUT
-Ɂán¹² ɁogɁ¹²	V;IRR;3;FUT
-dsiég¹²	V;IRR;2;FUT
-dsióɁ¹²	V;IPFV;SG;1;PST
-guiúnɁ¹²	V;IPFV;SG;1;PRS
-nei¹²	V;IPFV;2;PST
-chiog¹²	V;IPFV;2;PST
-kón²	V;IPFV;2;PST
-bá²	V;IPFV;2;PRS
-huǿin¹²	V;IPFV;3;PRS
-ɁliuɁ¹²	V;IPFV;SG;1;PRS
-sianɁ¹²	V;IRR;SG;1;FUT
-ɁiéiɁ¹²	V;IRR;2;FUT
-ɁēnɁ¹²	V;IPFV;3;PRS
-Ɂo¹²	V;IPFV;PL;1;PST
-gúɁ¹²	V;IPFV;PL;1;PRS
-hnia¹²	V;IPFV;2;PST
-dsøɁ¹²	V;IPFV;3;PRS
+guiú²	mi³-guiu¹²	V;IPFV;SG;1;PST
+mi²+dsiúg²	mi³-mi²+dsiug³	V;IPFV;PL;1;PST
+neɁ¹²	mi³-neɁ¹²	V;IPFV;3;PST
+hog¹²	mi³-hog¹²	V;IPFV;2;PST
+tsø²+nióɁ¹²	tsø²+nioɁ¹	V;IPFV;PL;1;PRS
+koɁ¹²	koɁ¹²	V;IPFV;SG;1;PRS
+méɁ²	mi³-meɁ¹²	V;IPFV;PL;1;PST
+kionɁ¹²	kionɁ¹²	V;IPFV;PL;1;PRS
+Ɂán²	Ɂán²	V;IRR;3;FUT
+ngo²	ngo²	V;IPFV;PL;1;PRS
+hne¹²	han²	V;IPFV;2;PRS
+héɁ²	heɁ³	V;IPFV;PL;1;PRS
+Ɂéi¹²	Ɂei¹³	V;IPFV;PL;1;PRS
+nioɁ²	nioɁ²	V;IPFV;3;PRS
+kiúɁ¹²	mi³-kiúɁ¹²	V;IPFV;3;PST
+kanɁ¹²	mi³-kanɁ¹²	V;IPFV;PL;1;PST
+hlég²	mi³-hlég²	V;IPFV;3;PST
+hmóɁ¹²	mi³-hmoɁ³	V;IPFV;2;PST
+mi²+Ɂan¹³	mi²+Ɂan¹³	V;IPFV;SG;1;PRS
+bén²	ben¹²	V;IPFV;SG;1;PRS
+u¹+lian¹	u¹+lian¹	V;IRR;PL;1;FUT
+mi²+hniang¹ ni³	mi³-mi²+hniang³	V;IPFV;PL;1;PST
+kieg²	kieg¹³	V;IRR;2;FUT
+ɁmíɁ²	mi³-ɁmiɁ²	V;IPFV;PL;1;PST
+tag¹²	tøg²	V;IPFV;2;PRS
+ténɁ¹²	tenɁ³	V;IPFV;2;PRS
+dsen³ (kaɁ³)	mi³-dsen¹³	V;IPFV;PL;1;PST
+hlán²	hlán²	V;IRR;3;FUT
+guiénɁ²	guienɁ¹²	V;IPFV;PL;1;PRS
+ngǿ²	mi³-ngǿ²	V;IPFV;3;PST
+kon¹²	mi³-kon¹²	V;IPFV;SG;1;PST
+tógɁ¹²	mi³-tugɁ²	V;IPFV;2;PST
+mi²+dsiúg²	mi³-mi²+dsiug³	V;IPFV;2;PST
+tsí¹²	mi³-tsi²	V;IPFV;2;PST
+hmóɁ¹²	hmoɁ³	V;IPFV;SG;1;PRS
+mi²+dsií¹	mi³-mi²+dsií¹	V;IPFV;3;PST
+Ɂí²	Ɂí²	V;IPFV;3;PRS
+iéiɁ¹²	ieiɁ²	V;IPFV;2;PRS
+Ɂog¹²	mi³-Ɂog¹²	V;IPFV;3;PST
+mi²+ngḗɁ¹	mi²+ngēɁ³	V;IPFV;PL;1;PRS
+húɁ²	mi³-huɁ¹²	V;IPFV;SG;1;PST
+mi²+kon¹²	mi²+kon³	V;IPFV;2;PRS
+hnó²	hno³	V;IPFV;SG;1;PRS
+pø²+hánɁ²	pø²+hanɁ¹²	V;IPFV;2;PRS
+Ɂé²	mi³-Ɂe²	V;IPFV;PL;1;PST
+Ɂán¹² ɁogɁ¹²	Ɂan¹³	V;IRR;SG;1;FUT
+dsióɁ¹² hǿg³	dsioɁ¹²	V;IPFV;PL;1;PRS
+ku² hmo¹²	ku²	V;IPFV;2;PRS
+hnéi¹²	hnai¹²	V;IPFV;SG;1;PRS
+dsēn¹²	dsēn¹³	V;IRR;PL;1;FUT
+mi²+Ɂan¹²	mi¹+Ɂan¹³	V;IRR;SG;1;FUT
+kuan¹²	kuan¹³	V;IRR;PL;1;FUT
+hliánɁ²	mi³-hlianɁ¹³	V;IPFV;2;PST
+téng²	téng²	V;IPFV;3;PRS
+Ɂnē¹²	Ɂnē¹²	V;IPFV;SG;1;PRS
+u²+nio¹³	u¹+nio³	V;IRR;2;FUT
+Ɂuan²	mi³-Ɂuan²	V;IPFV;PL;1;PST
+tiun¹²	mi³-tøng²	V;IPFV;SG;1;PST
+ɁóɁ¹²	Ɂog¹²	V;IPFV;SG;1;PRS
+iéiɁ¹²	ieiɁ³	V;IRR;2;FUT
+niáng¹²	niáng¹²	V;IPFV;3;PRS
+ɁlanɁ¹²	ɁlanɁ¹³	V;IPFV;SG;1;PRS
+kuú²	mi³-kuu²	V;IPFV;2;PST
+Ɂiá¹²	mi³-Ɂia¹³	V;IPFV;SG;1;PST
+tian¹²	tian¹³	V;IPFV;PL;1;PRS
+mi²+huanɁ¹²	mi²+huanɁ¹³	V;IPFV;PL;1;PRS
+dsø²+lé²	dsø³+lé²	V;IRR;3;FUT
+siúɁ²	siuɁ¹³	V;IRR;PL;1;FUT
+mi²+níɁ¹	mi²+níɁ¹	V;IPFV;3;PRS
+ku² hmo¹²	ku¹	V;IRR;3;FUT
+Ɂnē¹²	mi³-Ɂnē¹²	V;IPFV;3;PST
+kuénɁ²	kuenɁ³	V;IRR;SG;1;FUT
+tsáiɁ¹²	huaiɁ¹³	V;IRR;2;FUT
+kuénɁ²	kuénɁ²	V;IRR;3;FUT
+tiu¹²	tiu¹²	V;IPFV;3;PRS
+tión²	mi³-ton³	V;IPFV;SG;1;PST
+tø²+kanɁ¹³	tø²+kanɁ¹³	V;IPFV;2;PRS
+hnó²	hno³	V;IRR;2;FUT
+bḗn²	mi³-bḗn²	V;IPFV;3;PST
+mi²+hénɁ²	mi³-mi²+hénɁ²	V;IPFV;3;PST
+ieg¹²	mi³-øg¹²	V;IPFV;SG;1;PST
+nung²	nung²	V;IPFV;3;PRS
+tsá¹²	tsa¹³	V;IRR;SG;1;FUT
+hnǿ²	hnø¹³	V;IRR;PL;1;FUT
+mi²+hngió¹	mi²+hngio¹³	V;IPFV;2;PRS
+Ɂuan¹²	Ɂuan¹	V;IRR;3;FUT
+tan¹²	tan¹²	V;IPFV;SG;1;PRS
+lø²+liugɁ³	lø¹+liugɁ³	V;IRR;SG;1;FUT
+Ɂiei¹²	mi³-Ɂiei¹²	V;IPFV;3;PST
+ɁliuɁ¹²	ɁliuɁ¹²	V;IPFV;3;PRS
+kug²	mi³-kug²	V;IPFV;SG;1;PST
+hein¹²	hein¹	V;IRR;3;FUT
+ɁaiɁ²	mi³-ɁaiɁ²	V;IPFV;3;PST
+rain¹²	mi³-rain¹²	V;IPFV;2;PST
+chiogɁ¹²	mi³-chiogɁ¹²	V;IPFV;3;PST
+guiúnɁ¹²	guiunɁ¹³	V;IRR;2;FUT
+kánɁ¹²	mi³-kánɁ¹²	V;IPFV;3;PST
+tiu¹²	mi³-tiu²	V;IPFV;2;PST
+dsø²+togɁ¹²	mi³-dsø²+togɁ¹²	V;IPFV;PL;1;PST
+dsen³ (kaɁ³)	mi³-dsen³	V;IPFV;3;PST
+ngo²	ngo¹	V;IRR;SG;1;FUT
+dsoɁ²	dsoɁ²	V;IPFV;SG;1;PRS
+hḗɁ²	mi³-hēɁ²	V;IPFV;2;PST
+téiɁ²	teiɁ¹²	V;IPFV;2;PRS
+hnióɁ²	hnióɁ²	V;IRR;3;FUT
+hmáɁ² (dsǿa¹²)	hmaɁ¹³	V;IPFV;PL;1;PRS
+Ɂán¹² ɁogɁ¹²	Ɂan¹²	V;IPFV;PL;1;PRS
+Ɂnia¹²	Ɂnia¹³	V;IPFV;2;PRS
+tián²	tian¹³	V;IRR;PL;1;FUT
+nióɁ¹²	nióɁ¹²	V;IPFV;3;PRS
+ɁuáiɁ¹²	ɁuaiɁ¹²	V;IPFV;PL;1;PRS
+lióg¹²	lióg¹²	V;IPFV;3;PRS
+mi²+kiíngɁ²	mi³-mi²+kiingɁ³	V;IPFV;2;PST
+hnia¹²	mi³-hnia¹²	V;IPFV;3;PST
+hai¹²	hei³	V;IRR;PL;1;FUT
+tanɁ²	tanɁ²	V;IPFV;PL;1;PRS
+kieng¹²	kieng²	V;IPFV;PL;1;PRS
+huánɁ¹²	mi³-huanɁ¹²	V;IPFV;PL;1;PST
+ɁuanɁ¹²	ɁuanɁ¹²	V;IPFV;2;PRS
+huen¹²	huen¹²	V;IPFV;3;PRS
+mi²+dsøg¹²	mi¹+dsøg¹³	V;IRR;SG;1;FUT
+guiú²	mi³-guiu¹²	V;IPFV;2;PST
+dsiog¹²	mi³-dsiog³	V;IPFV;PL;1;PST
+rain¹²	rain¹²	V;IPFV;SG;1;PRS
+rain¹²	rain¹	V;IRR;3;FUT
+kø¹²	mi³-kø¹²	V;IPFV;SG;1;PST
+kiang¹²	kiang¹³	V;IRR;PL;1;FUT
+mi²+huanɁ¹²	mi²+huanɁ¹³	V;IPFV;SG;1;PRS
+gúg²	gug¹²	V;IPFV;SG;1;PRS
+Ɂéi¹²	mi³-Ɂéi¹²	V;IPFV;3;PST
+hiúg²	hiug³	V;IRR;PL;1;FUT
+mi²+gǿg¹	mi²+gøg¹	V;IPFV;2;PRS
+ɁuanɁ¹²	ɁuanɁ¹²	V;IRR;SG;1;FUT
+mi²+gug¹	mi²+gug¹	V;IPFV;3;PRS
+tsón²	mi³-tson³	V;IPFV;SG;1;PST
+ti²+dsøa¹²	mi³-ti²+dsøa²	V;IPFV;2;PST
+guianɁ¹²	guianɁ¹	V;IRR;3;FUT
+tsánɁ²	tsánɁ²	V;IPFV;3;PRS
+mi²+liág¹	mi³+liág¹	V;IRR;3;FUT
+tso¹²	ho¹³	V;IRR;SG;1;FUT
+ɁagɁ²	mi³-ɁagɁ²	V;IPFV;3;PST
+høn¹²	høn¹	V;IRR;3;FUT
+chiúg²	chiug¹³	V;IRR;2;FUT
+chi²+kián²	mi³-chi²+kian³	V;IPFV;SG;1;PST
+Ɂii²	mi³-Ɂii²	V;IPFV;3;PST
+kuénɁ²	mi³-kuenɁ³	V;IPFV;PL;1;PST
+kuø¹²	kuø²	V;IPFV;2;PRS
+dsiánɁ²	dsiánɁ²	V;IRR;3;FUT
+Ɂien²	Ɂien²	V;IPFV;2;PRS
+køgɁ²	køgɁ¹²	V;IPFV;PL;1;PRS
+mi²+hǿ²	mi³-mi²+hø³	V;IPFV;PL;1;PST
+nei¹²	nei³	V;IPFV;2;PRS
+nioɁ²	nioɁ²	V;IPFV;SG;1;PRS
+dsie¹²	dsie³	V;IRR;2;FUT
+Ɂé²	Ɂe¹²	V;IPFV;PL;1;PRS
+tsø²+nióɁ¹²	tsø²+nioɁ¹	V;IPFV;SG;1;PRS
+Ɂien¹²	mi³-Ɂien¹²	V;IPFV;SG;1;PST
+dsǿɁ²	mi³-dsǿɁ²	V;IPFV;3;PST
+ton²	ton²	V;IPFV;2;PRS
+ɁlanɁ¹²	mi³-ɁlanɁ¹²	V;IPFV;3;PST
+tei¹²	mi³-tei²	V;IPFV;PL;1;PST
+mi²+Ɂnio¹	mi²+Ɂnio¹	V;IPFV;2;PRS
+len¹² dsǿa¹²	len¹²	V;IPFV;PL;1;PRS
+hénɁ¹²	mi³-henɁ¹³	V;IPFV;PL;1;PST
+liág¹	liág¹	V;IPFV;3;PRS
+chiínɁ²	mi³-hmaɁ²	V;IPFV;2;PST
+tsēn¹²	tsēn¹³	V;IRR;SG;1;FUT
+Ɂméi¹²	Ɂméi¹	V;IRR;3;FUT
+Ɂø²+tsúgɁ²	Ɂø²+tsogɁ²	V;IPFV;SG;1;PRS
+siúg²	siúg²	V;IPFV;3;PRS
+ɁuanɁ¹²	mi³-ɁuanɁ¹²	V;IPFV;SG;1;PST
+hlég²	mi³-hleg²	V;IPFV;SG;1;PST
+tsénɁ²	mi³-tsenɁ¹²	V;IPFV;PL;1;PST
+kiúɁ¹²	kiuɁ³	V;IRR;PL;1;FUT
+ɁlianɁ¹²	mi³-ɁlianɁ¹²	V;IPFV;SG;1;PST
+tǿɁ²	tǿɁ²	V;IPFV;3;PRS
+ngøɁ¹²	ngøɁ³	V;IPFV;PL;1;PRS
+ɁmiɁ¹²	mi³-ɁmiɁ³	V;IPFV;PL;1;PST
+tsø²+nióɁ¹²	tsø²+nioɁ¹	V;IPFV;2;PRS
+tian¹²	tian¹²	V;IPFV;2;PRS
+Ɂngieng¹²	Ɂngieng¹	V;IRR;3;FUT
+kán² guiing²	mi³-kan¹²	V;IPFV;SG;1;PST
+hniá¹²	mi³-hnia¹²	V;IPFV;PL;1;PST
+kēnɁ¹²	kēnɁ¹	V;IRR;3;FUT
+Ɂio¹²	Ɂio¹³	V;IRR;SG;1;FUT
+sianɁ¹²	sianɁ¹²	V;IPFV;3;PRS
+Ɂén²	Ɂen¹²	V;IPFV;2;PRS
+ɁuáiɁ¹²	ɁuaiɁ¹³	V;IRR;SG;1;FUT
+hngia¹²	mi³-hngia¹³	V;IPFV;PL;1;PST
+Ɂien¹²	Ɂien¹²	V;IPFV;2;PRS
+mi²+dsíg²	mi³-mi²+dsig³	V;IPFV;PL;1;PST
+huánɁ²	huánɁ²	V;IPFV;3;PRS
+u²+lei²	u³+lei²	V;IRR;3;FUT
+tanɁ²	mi³-tanɁ²	V;IPFV;3;PST
+ɁéɁ²	ɁeɁ²	V;IPFV;2;PRS
+Ɂlan¹²	mi³-Ɂlan¹²	V;IPFV;3;PST
+Ɂnai¹²	Ɂnøi³	V;IRR;PL;1;FUT
+mi²+Ɂog¹³	mi³-mi²+Ɂog¹³	V;IPFV;3;PST
+hnóɁ²	hnoɁ¹³	V;IRR;2;FUT
+hénɁ²	henɁ³	V;IPFV;2;PRS
+tø²+ɁénɁ¹²	mi³-tø²+ɁenɁ³	V;IPFV;2;PST
+Ɂéi¹²	Ɂei¹³	V;IPFV;SG;1;PRS
+huú²	huø¹²	V;IPFV;SG;1;PRS
+méɁ²	meɁ¹³	V;IRR;PL;1;FUT
+tsø²+kuenɁ¹²	tsø²+kuenɁ¹²	V;IPFV;3;PRS
+mi²+liág¹	mi³-mi²+liag¹³	V;IPFV;SG;1;PST
+mḗɁ²	mēɁ³	V;IRR;SG;1;FUT
+siúɁ²	mi³-siuɁ¹²	V;IPFV;PL;1;PST
+tsǿng²	tsøng¹³	V;IRR;2;FUT
+hián²	hian¹³	V;IRR;2;FUT
+kiiɁ²	kaɁ¹³	V;IRR;SG;1;FUT
+chi²+dsén²	chi³+dsén²	V;IRR;3;FUT
+kii²+tág¹²	kii²+tag²	V;IPFV;PL;1;PRS
+hngióɁ¹²	hngióɁ¹²	V;IPFV;3;PRS
+uǿnɁ²	uǿnɁ²	V;IPFV;3;PRS
+hinɁ³	hinɁ³	V;IPFV;2;PRS
+kø²+hinɁ¹²	kø³+hinɁ¹²	V;IRR;3;FUT
+tø²+gugɁ¹²	mi³-tø²+gugɁ¹²	V;IPFV;3;PST
+Ɂma¹²	Ɂma¹²	V;IPFV;2;PRS
+kii²+túg²	kii¹+tog³	V;IRR;SG;1;FUT
+dsiég¹²	dsiég¹²	V;IPFV;3;PRS
+ku²+guénɁ²	ku¹+guenɁ³	V;IRR;2;FUT
+hiég²	mi³-hiég²	V;IPFV;3;PST
+mi²+kán¹²	mi²+kan³	V;IPFV;PL;1;PRS
+huen¹²	huen¹	V;IRR;3;FUT
+Ɂio¹²	Ɂieg²	V;IPFV;PL;1;PRS
+tsøi¹²	tsøi¹³	V;IRR;PL;1;FUT
+tsen¹²	mi³-tsēn³	V;IPFV;2;PST
+siog²	siog³	V;IRR;SG;1;FUT
+chiógɁ² ( hmøi²)	chiógɁ²	V;IRR;3;FUT
+tson¹²	tson¹	V;IRR;PL;1;FUT
+ɁliágɁ¹²	mi³-ɁliagɁ²	V;IPFV;2;PST
+ɁlieɁ¹²	ɁlieɁ¹³	V;IRR;SG;1;FUT
+chiag¹²	chiag¹	V;IRR;3;FUT
+niá¹²	nia¹²	V;IPFV;SG;1;PRS
+dsii²+lé²	mi³-dsii²+lé²	V;IPFV;3;PST
+mi²+kuen¹²	mi³-mi²+kuen¹³	V;IPFV;2;PST
+ngǿi²	ngai¹²	V;IPFV;2;PRS
+hngióɁ²	hngioɁ³	V;IPFV;PL;1;PRS
+mi²+hngiáng¹	mi¹+hngiang¹³	V;IRR;2;FUT
+dsian¹²	dsian¹²	V;IPFV;3;PRS
+guái²	guái²	V;IRR;3;FUT
+mi²+dsēn¹²	mi²+dsēn¹³	V;IPFV;PL;1;PRS
+hiég²	hiég²	V;IRR;3;FUT
+kēn²	mi³-kēn¹²	V;IPFV;3;PST
+køgɁ²	mi³-køgɁ¹²	V;IPFV;SG;1;PST
+hén²	hen¹³	V;IRR;PL;1;FUT
+ngioɁ¹²	mi³-ngioɁ²	V;IPFV;PL;1;PST
+ngēɁ²	ngēɁ¹	V;IRR;SG;1;FUT
+tø²+dsḗn³	tø¹+dsēn³	V;IRR;PL;1;FUT
+mi²+tsḗn¹	mi³-mi²+tsḗn¹	V;IPFV;3;PST
+Ɂngio¹²	Ɂngio¹²	V;IPFV;3;PRS
+héi²	héi²	V;IPFV;3;PRS
+lǿ²	lǿ²	V;IPFV;3;PRS
+Ɂngio¹²	mi³-Ɂngio¹²	V;IPFV;2;PST
+chiúg²	mi³-chiug¹²	V;IPFV;2;PST
+tsø²+nióɁ²	tsø²+nioɁ³	V;IPFV;2;PRS
+mi²+rø¹²	mi³+rø¹²	V;IRR;3;FUT
+mi²+hlēnɁ¹	mi¹+hlēnɁ³	V;IRR;SG;1;FUT
+hlǿ²	hlø¹³	V;IRR;2;FUT
+hngiú²	mi³-hngiu¹²	V;IPFV;SG;1;PST
+tsog¹²	tsog¹³	V;IRR;PL;1;FUT
+kán² guiing²	mi³-kan¹²	V;IPFV;2;PST
+ɁlianɁ¹²	ɁlianɁ¹²	V;IPFV;PL;1;PRS
+ɁlieɁ¹²	mi³-ɁlieɁ¹²	V;IPFV;SG;1;PST
+ɁoɁ¹²	ɁoɁ¹²	V;IPFV;3;PRS
+kieng¹²	kieng³	V;IRR;2;FUT
+ngē¹²	ngē¹³	V;IRR;2;FUT
+ɁliágɁ¹²	ɁliagɁ³	V;IRR;PL;1;FUT
+mi²+ténɁ²	mi²+ténɁ²	V;IPFV;3;PRS
+mi²+tég²	mi¹+teg³	V;IRR;SG;1;FUT
+hiúgɁ²	hiugɁ³	V;IRR;2;FUT
+hogɁ¹²	hogɁ¹²	V;IPFV;2;PRS
+kiog¹²	kog³	V;IRR;SG;1;FUT
+Ɂøin¹²	Ɂøin¹²	V;IPFV;PL;1;PRS
+tsenɁ¹²	mi³-tsenɁ²	V;IPFV;3;PST
+ɁøɁ¹²	mi³-ɁøɁ²	V;IPFV;2;PST
+hián²	hian²	V;IPFV;PL;1;PRS
+lá¹²	lá¹²	V;IPFV;3;PRS
+mi²+hog¹²	mi²+hog¹²	V;IPFV;3;PRS
+guiúg²	guiug¹²	V;IPFV;PL;1;PRS
+ti²+li¹	ti¹+li³	V;IRR;PL;1;FUT
+guuɁ¹²	mi³-guuɁ²	V;IPFV;SG;1;PST
+ha¹²	ha¹³	V;IPFV;SG;1;PRS
+hiégɁ¹²	mi³-hiegɁ²	V;IPFV;PL;1;PST
+hein¹²	hein¹²	V;IPFV;3;PRS
+Ɂai¹²	Ɂai¹²	V;IPFV;3;PRS
+hngēɁ¹²	hngēɁ²	V;IPFV;2;PRS
+rǿnɁ¹²	rønɁ³	V;IPFV;2;PRS
+chio¹²	chieg²	V;IPFV;2;PRS
+ti²+dsǿ²	ti¹+dsø³	V;IRR;SG;1;FUT
+kanɁ¹²	kanɁ¹²	V;IPFV;SG;1;PRS
+ngie¹²	mi³-ngie¹³	V;IPFV;2;PST
+búɁ²	mi³-buɁ¹²	V;IPFV;PL;1;PST
+hog¹²	hog¹	V;IRR;2;FUT
+kuan¹²	mi³-kuan¹²	V;IPFV;PL;1;PST
+hiégɁ¹²	hiegɁ¹²	V;IPFV;SG;1;PRS
+ieg¹²	mi³-øg²	V;IPFV;2;PST
+mi²+Ɂnio¹	mi³+Ɂnio¹	V;IRR;3;FUT
+ku²+hmáɁ²	ku²+hmaɁ¹²	V;IPFV;2;PRS
+mi²+kiín¹	mi¹+kiin³	V;IRR;SG;1;FUT
+sieg¹²	sieg¹	V;IRR;3;FUT
+mi²+kuen¹²	mi²+kuen¹³	V;IPFV;SG;1;PRS
+Ɂngio¹²	Ɂngio¹	V;IRR;3;FUT
+ton²	mi³-ton²	V;IPFV;2;PST
+hnáɁ¹²	hnaɁ¹³	V;IRR;2;FUT
+tøng²	téng¹	V;IRR;3;FUT
+ɁlianɁ¹²	ɁlianɁ¹	V;IRR;3;FUT
+hliúg² (lag³ dsi³)	mi³-hliug¹²	V;IPFV;2;PST
+tan¹²	tan¹²	V;IPFV;2;PRS
+tóɁ¹²	mi³-toɁ¹²	V;IPFV;SG;1;PST
+méɁ²	meɁ¹²	V;IPFV;2;PRS
+lø²+liúɁ²	lø¹+liuɁ¹³	V;IRR;2;FUT
+siog¹²	mi³-siog¹²	V;IPFV;3;PST
+kiúgɁ²	mi³-kiúgɁ²	V;IPFV;3;PST
+nio¹²	nio¹	V;IRR;3;FUT
+hmǿɁ¹²	hmøɁ¹³	V;IRR;SG;1;FUT
+chi²+ngiú²	chi³+ngiú²	V;IRR;3;FUT
+hén²	hen²	V;IPFV;2;PRS
+Ɂán¹² ɁogɁ¹²	mi³-Ɂan¹²	V;IPFV;SG;1;PST
+mi²+kionɁ¹	mi³-mi²+kionɁ¹	V;IPFV;3;PST
+hogɁ¹²	hogɁ¹²	V;IRR;3;FUT
+ɁiíɁ²	mi³-ɁiiɁ¹²	V;IPFV;2;PST
+huánɁ²	mi³-huanɁ¹²	V;IPFV;PL;1;PST
+hne¹²	hnøa²	V;IPFV;2;PRS
+héɁ²	mi³-héɁ²	V;IPFV;3;PST
+hágɁ¹²	hágɁ¹²	V;IPFV;3;PRS
+togɁ¹²	mi³-togɁ²	V;IPFV;SG;1;PST
+Ɂnē¹²	mi³-Ɂnē¹²	V;IPFV;PL;1;PST
+guǿn¹²	guøn¹²	V;IPFV;PL;1;PRS
+ku² hmo¹²	ku¹²	V;IPFV;3;PRS
+chiag¹²	chiag²	V;IPFV;PL;1;PRS
+tsón¹²	tson¹	V;IRR;2;FUT
+ié²	mi³-ié²	V;IPFV;3;PST
+hai¹²	hei²	V;IPFV;PL;1;PRS
+hlég²	hleg²	V;IRR;SG;1;FUT
+kiúgɁ²	kiugɁ³	V;IRR;PL;1;FUT
+kuøin¹²	kuøin¹²	V;IPFV;PL;1;PRS
+ha²+Ɂan³	ha¹+Ɂan³	V;IRR;SG;1;FUT
+mi²+tsḗn¹	mi²+tsēn¹³	V;IPFV;2;PRS
+siúgɁ²	siugɁ²	V;IPFV;SG;1;PRS
+hngióɁ²	hngióɁ²	V;IPFV;3;PRS
+guiú²	mi³-guiú²	V;IPFV;3;PST
+ɁóɁ¹²	ɁóɁ¹²	V;IPFV;3;PRS
+høn¹²	mi³-hin²	V;IPFV;PL;1;PST
+chiunɁ¹²	mi³-chiunɁ²	V;IPFV;PL;1;PST
+mi²+gag¹²	mi³-mi²+gag¹³	V;IPFV;SG;1;PST
+hḗnɁ²	hēnɁ¹³	V;IPFV;PL;1;PRS
+hai¹²	mi³-hei²	V;IPFV;PL;1;PST
+tug	mi³-tug¹²	V;IPFV;2;PST
+ti²+dso¹	ti²+dso¹	V;IPFV;3;PRS
+Ɂiog²	mi³-Ɂiog²	V;IPFV;SG;1;PST
+hmo¹²	mi³-hmo¹²	V;IPFV;3;PST
+chiínɁ²	chiínɁ²	V;IRR;3;FUT
+hngiáɁ²	hngiaɁ¹³	V;IRR;2;FUT
+se¹²	mi³-se¹²	V;IPFV;3;PST
+chiúgɁ²	chiugɁ³	V;IPFV;SG;1;PRS
+kiúɁ¹²	kiuɁ¹²	V;IPFV;SG;1;PRS
+chi²+méɁ²	chi²+meɁ¹²	V;IPFV;SG;1;PRS
+ɁéɁ²	ɁéɁ²	V;IPFV;3;PRS
+Ɂei¹²	Ɂei¹²	V;IPFV;3;PRS
+ku²+guénɁ²	ku²+guenɁ³	V;IPFV;SG;1;PRS
+Ɂé²	Ɂe¹²	V;IPFV;SG;1;PRS
+hngióɁ²	mi³-hngioɁ³	V;IPFV;PL;1;PST
+mi²+hniang¹ dsǿa¹²	mi¹+hniang³	V;IRR;2;FUT
+tión²	tion³	V;IRR;2;FUT
+Ɂén²	mi³-Ɂen¹²	V;IPFV;PL;1;PST
+kanɁ¹²	kanɁ¹²	V;IPFV;PL;1;PRS
+guiú²	guiu¹²	V;IPFV;SG;1;PRS
+ié²	ie¹³	V;IRR;PL;1;FUT
+niɁ¹²	niɁ¹²	V;IPFV;3;PRS
+hmǿɁ¹²	mi³-hmøɁ¹²	V;IPFV;SG;1;PST
+Ɂian²	Ɂian¹	V;IRR;PL;1;FUT
+tø²+dsǿ³	tø²+dsǿ³	V;IPFV;3;PRS
+mi²+Ɂlí¹	mi²+Ɂlí¹	V;IPFV;3;PRS
+kúgɁ²	mi³-kogɁ³	V;IPFV;2;PST
+hmḗɁ²	mi³-hmēɁ³	V;IPFV;PL;1;PST
+chi²+ngiú²	mi³-chi²+ngiu³	V;IPFV;SG;1;PST
+niáng¹²	niáng¹	V;IRR;3;FUT
+mi²+gan¹	mi³-mi²+gan¹	V;IPFV;SG;1;PST
+guiúnɁ¹²	guionɁ¹³	V;IPFV;PL;1;PRS
+ɁmíɁ²	ɁmíɁ²	V;IPFV;3;PRS
+ti²+dsiog¹	mi³-ti²+dsiog³	V;IPFV;2;PST
+ɁuanɁ¹²	ɁuanɁ¹²	V;IPFV;3;PRS
+kién¹²	kien¹³	V;IRR;SG;1;FUT
+guiónɁ²	guionɁ³	V;IRR;2;FUT
+hnaiɁ¹²	mi³-hnaiɁ³	V;IPFV;2;PST
+lø²+liugɁ³	lø¹+liugɁ³	V;IRR;PL;1;FUT
+ɁéɁ¹²	ɁeɁ¹³	V;IRR;2;FUT
+ɁéɁ²	ɁeɁ²	V;IPFV;PL;1;PRS
+chiúg²	chiug¹²	V;IPFV;PL;1;PRS
+ti²+dsøa¹²	ti¹+dsøa³	V;IRR;PL;1;FUT
+ngó¹²	ngó¹	V;IRR;3;FUT
+kǿn²	kǿn²	V;IRR;3;FUT
+ɁiánɁ²	ɁianɁ¹³	V;IRR;SG;1;FUT
+lø²+liugɁ³	mi³-lø²+liugɁ³	V;IPFV;SG;1;PST
+kanɁ¹²	kanɁ¹²	V;IPFV;3;PRS
+Ɂian²	Ɂian¹	V;IRR;SG;1;FUT
+chiáng¹²	mi³-chiang²	V;IPFV;2;PST
+kon¹²	kon¹	V;IRR;SG;1;FUT
+tanɁ¹²	tianɁ²	V;IPFV;PL;1;PRS
+kánɁ¹²	mi³-kanɁ¹³	V;IPFV;PL;1;PST
+tieɁ¹²	taɁ³	V;IRR;2;FUT
+guiúg²	mi³-guiúg²	V;IPFV;3;PST
+lø²+liúɁ²	mi³-lø²+liuɁ¹²	V;IPFV;2;PST
+mi²+hínɁ²	mi³+hínɁ²	V;IRR;3;FUT
+dséi¹²	dséi¹²	V;IPFV;3;PRS
+dsø²+lei¹	dsø³+lei¹	V;IRR;3;FUT
+mi²+kionɁ¹	mi²+kionɁ¹	V;IPFV;3;PRS
+kiiɁ²	kaɁ¹³	V;IRR;2;FUT
+tsen¹²	tsēn³	V;IPFV;SG;1;PRS
+chiógɁ² ( hmøi²)	chiogɁ³	V;IPFV;PL;1;PRS
+guiúg²	guiug¹²	V;IPFV;2;PRS
+mi²+kánɁ²	mi³+kánɁ²	V;IRR;3;FUT
+mi²+Ɂan¹³	mi¹+Ɂan¹³	V;IRR;PL;1;FUT
+tsø²+kuønɁ¹²	mi³-tsø²+kuønɁ¹²	V;IPFV;SG;1;PST
+tsánɁ²	mi³-tsanɁ¹²	V;IPFV;2;PST
+ɁuanɁ¹²	ɁuaiɁ¹²	V;IRR;PL;1;FUT
+guión²	guion³	V;IRR;PL;1;FUT
+ti²+dsiog¹	ti²+dsiog³	V;IPFV;2;PRS
+hénɁ²	mi³-henɁ¹³	V;IPFV;PL;1;PST
+sieg¹²	mi³-sieg¹²	V;IPFV;3;PST
+mi²+gug¹	mi³-mi²+gug¹	V;IPFV;3;PST
+chiúgɁ²	chiugɁ³	V;IPFV;PL;1;PRS
+togɁ¹²	mi³-togɁ¹²	V;IPFV;3;PST
+tsáiɁ¹²	tseiɁ¹³	V;IRR;PL;1;FUT
+guuɁ¹²	guuɁ³	V;IRR;SG;1;FUT
+tiúg²	tiug¹³	V;IRR;2;FUT
+tsen¹²	tsen¹	V;IRR;3;FUT
+tø²+dsǿ³	mi³-tø²+dsǿ³	V;IPFV;3;PST
+hniuɁ²	hniang²	V;IPFV;PL;1;PRS
+hian¹²	mi³-hian¹²	V;IPFV;3;PST
+guieng¹²	mi³-guieng²	V;IPFV;PL;1;PST
+ku²+guénɁ²	ku¹+guenɁ³	V;IRR;PL;1;FUT
+hiugɁ¹²	mi³-hiugɁ³	V;IPFV;2;PST
+tsø²+kuønɁ¹²	mi³-tsø²+kuønɁ¹²	V;IPFV;PL;1;PST
+guønɁ¹²	guønɁ¹²	V;IPFV;2;PRS
+kán² guiing²	kan¹²	V;IPFV;SG;1;PRS
+Ɂen¹³	Ɂen¹³	V;IPFV;SG;1;PRS
+kión²	mi³-kion³	V;IPFV;2;PST
+kanɁ¹²	kanɁ¹³	V;IRR;2;FUT
+lieɁ¹²	laɁ³	V;IPFV;SG;1;PRS
+ngiéɁ¹²	ngieɁ³	V;IRR;PL;1;FUT
+hniang²	hniang¹	V;IRR;SG;1;FUT
+hløa¹²	hløa¹²	V;IPFV;3;PRS
+tian¹	tian¹	V;IPFV;3;PRS
+dsii²+lian¹	mi³-dsii²+lian¹	V;IPFV;PL;1;PST
+huú²	huú²	V;IPFV;3;PRS
+hlǿ²	mi³-hlǿ²	V;IPFV;3;PST
+tsø²+han¹²	tsø²+han¹²	V;IPFV;3;PRS
+uǿi²	mi³-uøi¹²	V;IPFV;PL;1;PST
+nǿɁ²	mi³-nǿɁ²	V;IPFV;3;PST
+dsø²+huen¹³	dsø²+huen¹³	V;IPFV;SG;1;PRS
+mi²+kán¹²	mi³-mi²+kan³	V;IPFV;SG;1;PST
+Ɂán²	Ɂan²	V;IPFV;2;PRS
+møa¹²	møa²	V;IPFV;PL;1;PRS
+hiúɁ²	mi³-hioɁ³	V;IPFV;SG;1;PST
+kii²+tág¹²	kii¹+tag¹³	V;IRR;SG;1;FUT
+kióɁ¹²	mi³-kioɁ³	V;IPFV;SG;1;PST
+háng¹²	hang³	V;IPFV;2;PRS
+tsénɁ²	mi³-tsēnɁ³	V;IPFV;2;PST
+tsǿng²	tsøng¹³	V;IRR;PL;1;FUT
+dsúgɁ²	mi³-dsugɁ³	V;IPFV;2;PST
+mi²+hniang¹ ni³	mi²+hniang¹	V;IPFV;3;PRS
+mi²+gǿg¹	mi³-mi²+gøg¹	V;IPFV;2;PST
+ɁuøɁ¹²	mi³-ɁuøɁ¹²	V;IPFV;3;PST
+hlég²	mi³-hleg²	V;IPFV;2;PST
+dsen¹²	dsen¹³	V;IRR;2;FUT
+ɁnóɁ¹² dsí²	ɁnoɁ¹	V;IRR;PL;1;FUT
+guiég¹²	guieg¹²	V;IPFV;SG;1;PRS
+ieg¹²	ieg¹²	V;IPFV;3;PRS
+len¹²	len¹²	V;IPFV;2;PRS
+bḗn²	mi³-bēn¹²	V;IPFV;SG;1;PST
+ha²+kién¹³	mi³-ha²+kién¹³	V;IPFV;3;PST
+mi²+hniang¹ ni³	mi¹+hniang³	V;IRR;SG;1;FUT
+Ɂio¹²	Ɂio¹²	V;IPFV;3;PRS
+bén²	ben¹³	V;IRR;2;FUT
+kiéɁ¹²	mi³-kieɁ³	V;IPFV;PL;1;PST
+guiónɁ²	mi³-guionɁ³	V;IPFV;2;PST
+kuǿɁ¹²	kuøɁ¹³	V;IRR;SG;1;FUT
+nioɁ²	mi³-nioɁ²	V;IPFV;2;PST
+hénɁ¹²	henɁ¹³	V;IPFV;2;PRS
+hogɁ¹²	mi³-hogɁ¹²	V;IPFV;2;PST
+mi²+kánɁ²	mi¹+kanɁ³	V;IRR;PL;1;FUT
+lóɁ¹²	mi³-lioɁ¹²	V;IPFV;PL;1;PST
+hnaiɁ¹²	mi³-hnaiɁ³	V;IPFV;SG;1;PST
+hliánɁ²	hlianɁ¹³	V;IRR;2;FUT
+Ɂia¹²	Ɂia¹²	V;IPFV;PL;1;PRS
+hiúgɁ²	mi³-hiugɁ³	V;IPFV;SG;1;PST
+ténɁ¹²	tenɁ³	V;IPFV;SG;1;PRS
+ɁmiɁ¹²	mi³-ɁmiɁ¹²	V;IPFV;3;PST
+ti²+dsǿ²	ti¹+dsø³	V;IRR;PL;1;FUT
+Ɂméi¹²	mi³-Ɂmei³	V;IPFV;SG;1;PST
+ɁēnɁ¹²	ɁēnɁ¹²	V;IRR;3;FUT
+iaɁ¹²	iaɁ³	V;IRR;SG;1;FUT
+gǿi¹²	mi³-guiig²	V;IPFV;PL;1;PST
+tiú²	tiu¹³	V;IRR;PL;1;FUT
+nang¹²	neng²	V;IPFV;PL;1;PRS
+ti²+dsøa¹²	ti¹+dsøa³	V;IRR;2;FUT
+mi²+dsiúg²	mi³-mi²+dsiug³	V;IPFV;SG;1;PST
+hlø²	hlø²	V;IPFV;3;PRS
+Ɂian¹²	Ɂian¹²	V;IRR;2;FUT
+chi²+ngió²	mi³-chi²+ngio³	V;IPFV;2;PST
+ɁóɁ¹²	mi³-ɁóɁ¹²	V;IPFV;3;PST
+ieg¹²	ieg¹	V;IRR;3;FUT
+Ɂian¹²	mi³-Ɂian¹²	V;IPFV;3;PST
+kian¹²	kian¹³	V;IRR;2;FUT
+ti²+dsǿ²	ti²+dsǿ²	V;IPFV;3;PRS
+guenɁ¹²	guenɁ²	V;IPFV;2;PRS
+mi²+tég²	mi²+teg³	V;IPFV;2;PRS
+kienɁ¹²	mi³-kienɁ¹²	V;IPFV;3;PST
+ɁóɁ¹²	Ɂog¹³	V;IRR;SG;1;FUT
+tieɁ¹²	mi³-taɁ¹²	V;IPFV;SG;1;PST
+méɁ²	mi³-meɁ¹²	V;IPFV;2;PST
+ɁagɁ²	ɁagɁ³	V;IRR;PL;1;FUT
+dsii²+lian¹	dsii²+lian¹	V;IPFV;3;PRS
+bø²+lḗnɁ²	bø¹+lēnɁ³	V;IRR;2;FUT
+chiag¹²	chiag¹³	V;IRR;SG;1;FUT
+ngǿi²	ngai¹²	V;IPFV;SG;1;PRS
+Ɂen¹³	Ɂen¹³	V;IPFV;2;PRS
+mi²+hniang¹ ni³	mi¹+hniang³	V;IRR;PL;1;FUT
+ɁliuɁ¹²	ɁliuɁ²	V;IPFV;PL;1;PRS
+hngia¹²	hngia¹	V;IRR;3;FUT
+mi²+kionɁ¹	mi³-mi²+kionɁ¹³	V;IPFV;2;PST
+siúɁ²	siuɁ¹³	V;IRR;SG;1;FUT
+Ɂuán²	Ɂuán²	V;IPFV;3;PRS
+ti²+líɁ¹	mi³-ti²+liɁ¹	V;IPFV;PL;1;PST
+tieɁ¹²	mi³-taɁ²	V;IPFV;2;PST
+mi²+gug¹	mi³+gug¹	V;IRR;3;FUT
+tanɁ¹²	tanɁ¹²	V;IPFV;3;PRS
+ián²	mi³-ian¹²	V;IPFV;PL;1;PST
+ɁúgɁ²	ɁúgɁ²	V;IPFV;3;PRS
+niá²	niá²	V;IRR;3;FUT
+hnia¹²	hnia¹	V;IRR;2;FUT
+tóɁ¹²	mi³-tioɁ¹²	V;IPFV;PL;1;PST
+hiúɁ²	hioɁ³	V;IPFV;2;PRS
+u²+nio¹³	u²+nio³	V;IPFV;2;PRS
+guiénɁ²	mi³-guienɁ¹²	V;IPFV;2;PST
+lúg²	mi³-lug²	V;IPFV;2;PST
+ngøɁ¹²	mi³-ngøɁ³	V;IPFV;2;PST
+Ɂø²+tsóɁ¹²	Ɂø¹+tsoɁ¹³	V;IRR;SG;1;FUT
+niá¹²	mi³-nia¹²	V;IPFV;2;PST
+ɁmíɁ²	ɁmíɁ²	V;IRR;3;FUT
+mi²+ɁmaɁ¹³	mi²+ɁmaɁ¹³	V;IPFV;3;PRS
+mi²+tián² (dsǿa¹²)	mi²+tian³	V;IPFV;2;PRS
+chi²+dsí²	chi²+dsi³	V;IPFV;2;PRS
+uǿi²	uøi²	V;IPFV;2;PRS
+lēɁ²	mi³-lēɁ³	V;IPFV;SG;1;PST
+ɁmoɁ¹²	ɁmoɁ²	V;IRR;3;FUT
+hánɁ¹²	hánɁ¹²	V;IPFV;3;PRS
+nió²	nió²	V;IRR;3;FUT
+chiog¹²	chiog¹²	V;IPFV;SG;1;PRS
+tsénɁ²	tsenɁ³	V;IPFV;PL;1;PRS
+tieɁ¹²	tieɁ²	V;IPFV;PL;1;PRS
+kien¹²	kien¹³	V;IRR;PL;1;FUT
+hógɁ¹²	mi³-guiogɁ¹²	V;IPFV;SG;1;PST
+nēɁ¹²	nēɁ¹	V;IRR;3;FUT
+kieg²	mi³-kieg¹²	V;IPFV;2;PST
+tsen¹²	mi³-tsen³	V;IPFV;PL;1;PST
+hian¹²	han¹³	V;IRR;2;FUT
+hógɁ¹²	hógɁ¹	V;IRR;3;FUT
+hǿɁ²	høɁ¹²	V;IPFV;SG;1;PRS
+kií¹²	kií¹	V;IRR;3;FUT
+ɁøɁ¹²	ɁøɁ¹²	V;IPFV;3;PRS
+hǿa¹²	høa²	V;IPFV;PL;1;PRS
+Ɂiog¹²	Ɂog¹²	V;IPFV;2;PRS
+gḗɁ²	gēɁ²	V;IPFV;2;PRS
+hngieng¹²	hngieng³	V;IPFV;2;PRS
+kión²	kión²	V;IPFV;3;PRS
+mi²+ténɁ²	mi³-mi²+tenɁ³	V;IPFV;PL;1;PST
+hínɁ¹²	mi³-hinɁ³	V;IPFV;2;PST
+kuú²	kuu²	V;IPFV;2;PRS
+dsiog¹²	mi³-dsiog³	V;IPFV;SG;1;PST
+káiɁ¹²	mi³-kaiɁ¹²	V;IPFV;SG;1;PST
+hliúg² (lag³ dsi³)	hliúg²	V;IRR;3;FUT
+neɁ¹²	mi³-neɁ³	V;IPFV;SG;1;PST
+hḗn²	hēn¹²	V;IPFV;2;PRS
+u¹+lén²	u²+len¹³	V;IPFV;PL;1;PRS
+tsanɁ¹²	huanɁ³	V;IRR;2;FUT
+ɁnóɁ¹² dsí²	ɁnoɁ¹	V;IRR;SG;1;FUT
+hliúg² (lag³ dsi³)	hliug¹²	V;IPFV;PL;1;PRS
+hug²	hug²	V;IPFV;SG;1;PRS
+mi²+chian¹²	mi²+chian¹²	V;IPFV;3;PRS
+ɁǿnɁ²	gøɁ¹²	V;IPFV;SG;1;PRS
+kø²+hinɁ¹²	mi³-kø²+hinɁ³	V;IPFV;PL;1;PST
+chiog¹²	chiog¹³	V;IRR;2;FUT
+hiég²	hieg¹²	V;IPFV;PL;1;PRS
+Ɂlí²	mi³-Ɂli¹²	V;IPFV;PL;1;PST
+ti²+li¹	ti²+li³	V;IPFV;PL;1;PRS
+tión²	mi³-ton²	V;IPFV;SG;1;PST
+bá²	ba³	V;IRR;2;FUT
+Ɂí²	mi³-Ɂí²	V;IPFV;3;PST
+mi²+hngió¹	mi¹+hngio¹³	V;IRR;SG;1;FUT
+guái²	guai¹²	V;IPFV;PL;1;PRS
+Ɂio¹²	Ɂøg²	V;IPFV;2;PRS
+káiɁ¹²	kaiɁ¹³	V;IRR;SG;1;FUT
+kugɁ¹²	kugɁ¹²	V;IPFV;3;PRS
+mi²+Ɂliúg²	mi¹+Ɂliug³	V;IRR;SG;1;FUT
+Ɂøa¹²	Ɂøa³	V;IRR;PL;1;FUT
+hiúgɁ²	hiugɁ³	V;IPFV;SG;1;PRS
+kánɁ²	kánɁ²	V;IRR;3;FUT
+hnó²	mi³-hnó²	V;IPFV;3;PST
+len¹² dsǿa¹²	len¹	V;IRR;SG;1;FUT
+ɁéɁ¹²	ɁeɁ¹³	V;IRR;SG;1;FUT
+ha¹²	ha¹	V;IRR;3;FUT
+tsíɁ¹²	tsiɁ³	V;IPFV;2;PRS
+dsén²	mi³-dsen²	V;IPFV;SG;1;PST
+kágɁ¹²	kágɁ¹	V;IRR;3;FUT
+lóɁ¹²	lóɁ¹²	V;IPFV;3;PRS
+mi²+lei¹³	mi²+lei¹³	V;IPFV;SG;1;PRS
+ngo²	ngo²	V;IPFV;2;PRS
+Ɂé²	mi³-Ɂe²	V;IPFV;2;PST
+dsánɁ¹²	mi³-dsanɁ¹²	V;IPFV;PL;1;PST
+tsén²	mi³-tsen³	V;IPFV;SG;1;PST
+tsǿng²	mi³-tsøng¹²	V;IPFV;2;PST
+mē¹²	mē¹²	V;IPFV;2;PRS
+mi²+tián² (dsǿa¹²)	mi²+tian³	V;IPFV;PL;1;PRS
+mi²+hlēnɁ¹	mi³+hlēnɁ¹	V;IRR;3;FUT
+hnéi¹²	hnai²	V;IPFV;2;PRS
+mi²+hog¹²	mi³-mi²+hog¹²	V;IPFV;3;PST
+Ɂien²	Ɂien¹	V;IRR;3;FUT
+bø²+lḗnɁ²	mi³-bø²+lḗnɁ²	V;IPFV;3;PST
+hḗɁ²	hēɁ²	V;IRR;2;FUT
+hnḗ¹²	hnē¹²	V;IPFV;SG;1;PRS
+kug²	kug¹	V;IRR;2;FUT
+siúgɁ²	siugɁ²	V;IRR;PL;1;FUT
+ɁngióɁ¹²	ɁngioɁ³	V;IRR;SG;1;FUT
+ngøa¹²	mi³-ngøa¹²	V;IPFV;3;PST
+ɁlanɁ¹²	ɁlanɁ¹	V;IRR;3;FUT
+chi²+hné¹	mi³-chi²+hné¹	V;IPFV;3;PST
+lanɁ¹²	lanɁ¹	V;IRR;SG;1;FUT
+tsí¹²	mi³-tsi²	V;IPFV;PL;1;PST
+hḗnɁ²	hēnɁ¹³	V;IPFV;2;PRS
+mi²+dsiúg²	mi²+dsiug³	V;IPFV;SG;1;PRS
+huu¹²	huu¹³	V;IRR;SG;1;FUT
+ɁmiɁ¹²	mi³-ɁmiɁ³	V;IPFV;2;PST
+Ɂon¹²	Ɂøng³	V;IRR;2;FUT
+ténɁ¹²	mi³-tenɁ¹³	V;IPFV;PL;1;PST
+Ɂiog²	Ɂiog²	V;IPFV;SG;1;PRS
+køɁ³ (hmai³)	kēɁ³	V;IPFV;2;PRS
+Ɂa¹²	Ɂa¹	V;IRR;3;FUT
+chi²+dsén²	mi³-chi²+dsen¹³	V;IPFV;2;PST
+Ɂen¹²	mi³-Ɂen¹²	V;IPFV;PL;1;PST
+tsog¹²	tsog¹³	V;IRR;SG;1;FUT
+bí²	bi¹²	V;IPFV;SG;1;PRS
+køin²	køin¹	V;IRR;3;FUT
+hǿgɁ²	hiágɁ¹	V;IRR;3;FUT
+ɁagɁ²	ɁagɁ³	V;IRR;SG;1;FUT
+rón²	ron²	V;IPFV;2;PRS
+guái²	guai¹³	V;IRR;PL;1;FUT
+mi²+ɁḗɁ²	mi³+ɁḗɁ²	V;IRR;3;FUT
+togɁ¹²	togɁ²	V;IPFV;SG;1;PRS
+Ɂúg²	Ɂug¹³	V;IRR;2;FUT
+chióg¹²	chiog³	V;IRR;2;FUT
+mi²+ténɁ²	mi³-mi²+tenɁ³	V;IPFV;2;PST
+ɁnóɁ¹² dsí²	ɁnoɁ¹	V;IRR;2;FUT
+hnḗɁ²	mi³-hnḗɁ²	V;IPFV;3;PST
+sián²	sian³	V;IPFV;2;PRS
+tsón²	tsón²	V;IPFV;3;PRS
+gúg²	mi³-gog³	V;IPFV;PL;1;PST
+bḗn²	bēn¹³	V;IRR;PL;1;FUT
+røg²	mi³-røg²	V;IPFV;3;PST
+mi²+dsian¹²	mi¹+dsian¹³	V;IRR;2;FUT
+tsø²+han¹²	tsø²+han¹²	V;IPFV;2;PRS
+Ɂo¹²	Ɂo¹²	V;IPFV;3;PRS
+Ɂméi¹²	mi³-Ɂméi¹²	V;IPFV;3;PST
+tiu¹²	mi³-tiu¹²	V;IPFV;3;PST
+Ɂon¹²	mi³-Ɂeng²	V;IPFV;PL;1;PST
+rónɁ¹²	mi³-rónɁ¹²	V;IPFV;3;PST
+mi²+hnia¹²	mi³+hnia¹²	V;IRR;3;FUT
+guønɁ¹²	mi³-guønɁ¹²	V;IPFV;SG;1;PST
+nió²	nio¹²	V;IPFV;SG;1;PRS
+chióg¹²	mi³-chiog³	V;IPFV;PL;1;PST
+guieng¹²	guieng¹	V;IRR;3;FUT
+tsenɁ¹²	tsenɁ¹	V;IRR;2;FUT
+hne¹²	hne²	V;IPFV;PL;1;PRS
+ɁagɁ²	ɁagɁ²	V;IPFV;3;PRS
+ɁmoɁ¹²	ɁmoɁ²	V;IPFV;3;PRS
+Ɂnie¹²	mi³-Ɂnie¹²	V;IPFV;3;PST
+mái¹²	mi³-mai¹²	V;IPFV;SG;1;PST
+nang¹²	mi³-nang¹²	V;IPFV;3;PST
+kánɁ²	kanɁ¹²	V;IPFV;2;PRS
+ɁǿnɁ²	ɁøgɁ³	V;IRR;2;FUT
+huú²	huø¹²	V;IPFV;2;PRS
+dsoɁ²	mi³-dsoɁ²	V;IPFV;PL;1;PST
+chi²+méɁ²	mi³-chi²+meɁ¹²	V;IPFV;PL;1;PST
+hái¹²	mi³-hái¹²	V;IPFV;3;PST
+hønɁ¹²	mi³-hønɁ¹²	V;IPFV;SG;1;PST
+Ɂia¹²	Ɂia¹³	V;IRR;PL;1;FUT
+tsáiɁ¹²	mi³-tseiɁ¹²	V;IPFV;PL;1;PST
+kø²+hinɁ¹²	kø¹+hinɁ³	V;IRR;PL;1;FUT
+mi²+hog¹²	mi²+hog³	V;IPFV;SG;1;PRS
+kón²	kón²	V;IRR;3;FUT
+huú²	huø¹²	V;IPFV;PL;1;PRS
+Ɂuø¹²	Ɂuø³	V;IRR;SG;1;FUT
+tsēn¹²	mi³-tsēn¹²	V;IPFV;3;PST
+hngii²	hngii¹	V;IRR;3;FUT
+dsiágɁ¹²	dsiágɁ¹³	V;IRR;3;FUT
+kii²+túg²	kii¹+tog³	V;IRR;2;FUT
+kēn²	kēn³	V;IRR;SG;1;FUT
+bø²+hmé²	mi³-bø²+hmé²	V;IPFV;3;PST
+dsióɁ¹²	mi³-dsioɁ¹²	V;IPFV;SG;1;PST
+ɁmiɁ¹²	ɁmiɁ³	V;IRR;PL;1;FUT
+hngiú²	mi³-hngiu¹²	V;IPFV;2;PST
+tiúg²	tiug¹²	V;IPFV;PL;1;PRS
+uénɁ²	mi³-uenɁ²	V;IPFV;PL;1;PST
+guiúnɁ¹²	mi³-guionɁ¹³	V;IPFV;2;PST
+dsiég¹²	mi³-dsiég¹²	V;IPFV;3;PST
+høn¹²	mi³-høn¹²	V;IPFV;3;PST
+gógɁ¹²	gogɁ¹	V;IRR;2;FUT
+nøɁ¹²	mi³-nøɁ²	V;IPFV;PL;1;PST
+rang¹²	rang¹²	V;IPFV;3;PRS
+mi²+tég²	mi²+tég²	V;IPFV;3;PRS
+ɁlieɁ¹²	ɁlieɁ¹	V;IRR;3;FUT
+mi²+kon¹²	mi²+kon³	V;IPFV;PL;1;PRS
+u¹+lén²	u²+len¹³	V;IPFV;2;PRS
+hnáɁ²	mi³-hnaɁ³	V;IPFV;SG;1;PST
+kian¹²	kian³	V;IPFV;SG;1;PRS
+mi²+guionɁ¹	mi²+guionɁ³	V;IPFV;SG;1;PRS
+hián²	mi³-hián²	V;IPFV;3;PST
+siág¹²	siog³	V;IPFV;2;PRS
+rang¹²	mi³-rang¹²	V;IPFV;3;PST
+ti²+dsiog¹	mi³-ti²+dsiog³	V;IPFV;SG;1;PST
+mi²+ɁmaɁ¹³	mi²+ɁmaɁ¹³	V;IPFV;PL;1;PRS
+tóɁ¹²	toɁ²	V;IPFV;2;PRS
+chio¹²	chio¹³	V;IRR;SG;1;FUT
+kúgɁ¹²	kugɁ¹	V;IRR;SG;1;FUT
+Ɂmóng¹²	Ɂmong¹³	V;IRR;SG;1;FUT
+ko¹²	ko¹²	V;IPFV;SG;1;PRS
+hánɁ²	mi³-hánɁ²	V;IPFV;3;PST
+hen¹²	hen¹²	V;IPFV;SG;1;PRS
+hngēɁ¹²	hngēɁ¹²	V;IPFV;3;PRS
+chiínɁ²	mi³-hmaɁ¹²	V;IPFV;SG;1;PST
+ɁlianɁ¹²	mi³-ɁlianɁ¹²	V;IPFV;3;PST
+mi²+tián² (dsǿa¹²)	mi³-mi²+tian³	V;IPFV;PL;1;PST
+kieg²	kieg²	V;IPFV;SG;1;PRS
+li²	li³	V;IRR;PL;1;FUT
+hngiíɁ²	hngieɁ¹³	V;IRR;2;FUT
+kiúɁ¹²	mi³-kiuɁ²	V;IPFV;2;PST
+hniang²	hniang¹	V;IRR;3;FUT
+Ɂuø¹²	Ɂuø³	V;IPFV;SG;1;PRS
+kiúɁ¹²	kiúɁ¹	V;IRR;3;FUT
+guiónɁ²	guionɁ³	V;IRR;PL;1;FUT
+mi²+tan¹³	mi²+tan¹³	V;IPFV;2;PRS
+tai²	tai³	V;IPFV;SG;1;PRS
+dsen³ (kaɁ³)	dsen³	V;IPFV;SG;1;PRS
+Ɂí²	Ɂí²	V;IRR;3;FUT
+hnaiɁ¹²	hnaiɁ³	V;IRR;SG;1;FUT
+Ɂma¹²	mi³-Ɂma²	V;IPFV;2;PST
+guiúɁ¹²	mi³-guiúɁ¹²	V;IPFV;3;PST
+dsiágɁ¹²	dsiágɁ¹²	V;IPFV;3;PRS
+dsán²	dsán²	V;IPFV;3;PRS
+Ɂuǿi²	Ɂuai¹²	V;IPFV;2;PRS
+Ɂlúg²	Ɂliug²	V;IRR;PL;1;FUT
+len¹² dsǿa¹²	len¹	V;IRR;PL;1;FUT
+uénɁ²	uenɁ²	V;IPFV;PL;1;PRS
+Ɂnie¹²	Ɂnie³	V;IRR;PL;1;FUT
+kienɁ¹²	mi³-kienɁ¹³	V;IPFV;SG;1;PST
+ngie¹²	ngie¹³	V;IRR;PL;1;FUT
+hngióɁ¹²	hngioɁ¹³	V;IRR;SG;1;FUT
+Ɂuan²	Ɂuen¹	V;IRR;3;FUT
+dsø²+lei¹	mi³-dsø²+lei¹	V;IPFV;3;PST
+kiog¹²	kog²	V;IPFV;2;PRS
+guiugɁ²	guiugɁ¹	V;IRR;PL;1;FUT
+hngiú²	hngiú²	V;IPFV;3;PRS
+u¹+lén²	mi³-u²+len¹³	V;IPFV;2;PST
+guieng¹²	guieng¹²	V;IPFV;3;PRS
+ɁiánɁ²	ɁianɁ¹²	V;IPFV;PL;1;PRS
+tsenɁ¹²	tsēnɁ²	V;IPFV;2;PRS
+tsǿng²	tsøng¹²	V;IPFV;2;PRS
+mi²+kon¹²	mi³-mi²+kon³	V;IPFV;PL;1;PST
+ɁéɁ¹²	ɁéɁ¹²	V;IPFV;3;PRS
+hniá¹²	hnia¹	V;IRR;2;FUT
+mi²+kon¹²	mi²+kon³	V;IPFV;SG;1;PRS
+mi²+hniang¹ dsǿa¹²	mi³-mi²+hniang³	V;IPFV;PL;1;PST
+mi²+kon¹²	mi¹+kon³	V;IRR;PL;1;FUT
+tian¹²	mi³-tian¹³	V;IPFV;2;PST
+lúg²	lúg²	V;IPFV;3;PRS
+gúɁ¹²	guɁ³	V;IRR;2;FUT
+hngió²	hngio¹²	V;IPFV;2;PRS
+hngiíɁ²	mi³-hngieɁ¹²	V;IPFV;SG;1;PST
+dsan²	dsian¹	V;IRR;2;FUT
+tsēn¹²	tsēn²	V;IPFV;2;PRS
+guiú²	guiu¹³	V;IRR;2;FUT
+tsai¹²	tsai¹	V;IRR;3;FUT
+tsø²+nióɁ¹²	tsø²+nióɁ¹²	V;IPFV;3;PRS
+Ɂo¹²	mi³-huaiɁ²	V;IPFV;2;PST
+ɁnióɁ¹²	mi³-ɁnióɁ¹²	V;IPFV;3;PST
+tagɁ²	mi³-tagɁ¹²	V;IPFV;2;PST
+hiúgɁ²	mi³-hiúgɁ²	V;IPFV;3;PST
+kánɁ¹²	kanɁ¹³	V;IPFV;2;PRS
+chi²+kián²	mi³-chi²+kian³	V;IPFV;PL;1;PST
+Ɂéng²	mi³-Ɂeng¹²	V;IPFV;SG;1;PST
+huánɁ²	mi³-huanɁ¹²	V;IPFV;2;PST
+tiánɁ¹²	mi³-tanɁ¹²	V;IPFV;SG;1;PST
+iéiɁ¹²	ieiɁ¹²	V;IPFV;SG;1;PRS
+Ɂai¹²	mi³-Ɂai¹²	V;IPFV;3;PST
+guiénɁ²	mi³-guienɁ¹²	V;IPFV;PL;1;PST
+tsǿɁ¹²	tsøɁ¹³	V;IRR;SG;1;FUT
+huu¹²	huu³	V;IRR;SG;1;FUT
+hmḗɁ²	hmēɁ³	V;IRR;SG;1;FUT
+dsióɁ¹²	mi³-dsioɁ¹²	V;IPFV;PL;1;PST
+mi²+dsē¹²	mi³+dsē¹²	V;IRR;3;FUT
+mi²+hlēnɁ¹	mi²+hlēnɁ³	V;IPFV;2;PRS
+nei¹²	mi³-nei¹²	V;IPFV;3;PST
+tø²+kanɁ¹³	tø³+kanɁ¹³	V;IRR;3;FUT
+køin²	mi³-kiing²	V;IPFV;PL;1;PST
+len¹² dsǿa¹²	mi³-len¹²	V;IPFV;SG;1;PST
+ɁmēɁ¹²	mi³-ɁmēɁ²	V;IPFV;SG;1;PST
+hmóngɁ¹²	mi³-hmongɁ²	V;IPFV;2;PST
+mi²+hniang¹ ni³	mi²+hniang³	V;IPFV;2;PRS
+hǿa¹²	mi³-høa²	V;IPFV;2;PST
+neɁ¹²	neɁ³	V;IRR;SG;1;FUT
+ɁḗɁ²	mi³-ɁḗɁ²	V;IPFV;3;PST
+kuø¹²	kuø¹²	V;IPFV;SG;1;PRS
+hanɁ¹² dsǿa¹²	hanɁ¹²	V;IPFV;3;PRS
+chión²	chion³	V;IRR;2;FUT
+húgɁ²	mi³-hogɁ¹²	V;IPFV;2;PST
+huɁ¹²	huɁ¹	V;IRR;3;FUT
+dság¹²	dság¹²	V;IPFV;3;PRS
+chi²+hné¹	chi¹+hne³	V;IRR;2;FUT
+ɁøɁ¹²	ɁøɁ¹³	V;IRR;SG;1;FUT
+rǿnɁ¹²	mi³-rønɁ³	V;IPFV;PL;1;PST
+huú²	huø¹³	V;IRR;PL;1;FUT
+sianɁ¹²	sianɁ¹³	V;IPFV;2;PRS
+hánɁ²	mi³-hanɁ¹²	V;IPFV;PL;1;PST
+Ɂai¹²	mi³-Ɂei²	V;IPFV;PL;1;PST
+kø²+káng¹²	kø¹+kang¹³	V;IRR;2;FUT
+lái¹²	lái¹	V;IRR;3;FUT
+chiógɁ² ( hmøi²)	chiogɁ³	V;IRR;SG;1;FUT
+lieɁ¹²	mi³-laɁ³	V;IPFV;2;PST
+hmǿɁ¹²	mi³-hmøɁ²	V;IPFV;2;PST
+Ɂán¹² ɁogɁ¹²	mi³-Ɂan¹²	V;IPFV;2;PST
+tiu¹²	tiu²	V;IPFV;2;PRS
+guǿn¹²	mi³-guǿn¹²	V;IPFV;3;PST
+tagɁ¹²	tagɁ¹²	V;IPFV;3;PRS
+mi²+hngiáng¹	mi³+hngiáng¹	V;IRR;3;FUT
+ɁēnɁ¹²	ɁenɁ¹³	V;IRR;PL;1;FUT
+chi²+kián²	mi³-chi²+kián²	V;IPFV;3;PST
+húg²	hug²	V;IPFV;2;PRS
+mē¹²	mi³-mē¹²	V;IPFV;SG;1;PST
+chiáng¹²	chiang²	V;IPFV;2;PRS
+mi²+tsḗn¹	mi²+tsḗn¹	V;IPFV;3;PRS
+kø¹²	mi³-kø¹²	V;IPFV;3;PST
+nēɁ¹²	nēɁ¹³	V;IRR;2;FUT
+ɁuanɁ¹²	ɁuanɁ¹²	V;IRR;2;FUT
+hngiíɁ²	hngieɁ¹³	V;IRR;PL;1;FUT
+Ɂén²	Ɂen¹³	V;IRR;SG;1;FUT
+tsai¹²	tsai¹²	V;IPFV;2;PRS
+ián²	ian¹³	V;IRR;SG;1;FUT
+mi²+kán¹²	mi¹+kan³	V;IRR;2;FUT
+tií²	mi³-tii¹²	V;IPFV;PL;1;PST
+hnióɁ²	hnióɁ²	V;IPFV;3;PRS
+bø²+hmé²	mi³-bø²+hme²	V;IPFV;SG;1;PST
+mi²+tsḗn¹	mi²+tsēn¹³	V;IPFV;SG;1;PRS
+tián²	tian¹²	V;IPFV;2;PRS
+hǿɁ¹²	tsøɁ¹³	V;IRR;SG;1;FUT
+guiúg²	mi³-guiug³	V;IPFV;PL;1;PST
+hniuɁ²	mi³-hniang²	V;IPFV;SG;1;PST
+dsii²+lé²	dsii²+lé²	V;IPFV;3;PRS
+chi²+méɁ²	chi²+meɁ¹²	V;IPFV;PL;1;PRS
+hiúg²	hiúg²	V;IRR;3;FUT
+siúgɁ²	siugɁ²	V;IRR;2;FUT
+mi²+kien¹²	mi²+kien¹²	V;IPFV;3;PRS
+chi²+láɁ²	mi³-chi²+laɁ¹²	V;IPFV;2;PST
+hlái²	mi³-hlái²	V;IPFV;3;PST
+ku²+hmáɁ²	mi³-ku²+hmaɁ¹²	V;IPFV;PL;1;PST
+ɁiuɁ³ (ɁéɁ¹)	ɁiuɁ³	V;IPFV;3;PRS
+kieng¹²	mi³-kieng²	V;IPFV;2;PST
+ngó¹²	ngo²	V;IPFV;PL;1;PRS
+tsánɁ²	chianɁ¹²	V;IPFV;PL;1;PRS
+Ɂø²+tsóɁ¹²	Ɂø²+tsoɁ²	V;IPFV;2;PRS
+dsán²	mi³-dsán²	V;IPFV;3;PST
+ɁlanɁ¹²	ɁlanɁ¹³	V;IPFV;2;PRS
+mi²+dsøg¹²	mi²+dsøg¹²	V;IPFV;3;PRS
+køɁ³ (hmai³)	mi³-køɁ³	V;IPFV;3;PST
+hnáɁ¹²	hnaɁ¹³	V;IRR;PL;1;FUT
+mi²+ténɁ²	mi²+tenɁ³	V;IPFV;SG;1;PRS
+ɁuáiɁ¹²	mi³-ɁuaiɁ¹²	V;IPFV;SG;1;PST
+ɁuénɁ²	ɁuénɁ²	V;IPFV;3;PRS
+tso¹²	ho¹²	V;IPFV;SG;1;PRS
+hánɁ¹²	hanɁ¹	V;IRR;PL;1;FUT
+tián²	tian¹²	V;IPFV;SG;1;PRS
+mi²+kuen¹²	mi²+kuen¹³	V;IPFV;2;PRS
+mi²+ɁmaɁ¹³	mi³-mi²+ɁmaɁ¹³	V;IPFV;3;PST
+hén²	hen²	V;IRR;SG;1;FUT
+hlǿ²	hlø¹³	V;IRR;SG;1;FUT
+bí²	bí²	V;IPFV;3;PRS
+ié²	ie¹³	V;IRR;SG;1;FUT
+dsanɁ¹²	mi³-dsanɁ¹²	V;IPFV;2;PST
+niuɁ³	niuɁ³	V;IPFV;PL;1;PRS
+lan¹²	lan¹²	V;IRR;3;FUT
+tsí¹²	tsi²	V;IPFV;PL;1;PRS
+hnaiɁ¹²	hnaiɁ³	V;IPFV;SG;1;PRS
+ngǿ²	ngǿ²	V;IRR;3;FUT
+tø²+ɁénɁ¹²	tø²+ɁénɁ¹²	V;IPFV;3;PRS
+tug	tug¹²	V;IPFV;2;PRS
+lio¹²	leg²	V;IPFV;PL;1;PRS
+ha²+rǿng²	mi³-ha²+rǿng²	V;IPFV;3;PST
+bø²+lḗnɁ²	bø³+lḗnɁ²	V;IRR;3;FUT
+niuɁ³	niuɁ¹	V;IRR;SG;1;FUT
+mi²+tég²	mi³-mi²+teg³	V;IPFV;SG;1;PST
+ɁónɁ²	ɁonɁ³	V;IRR;2;FUT
+hai¹²	mi³-hai¹²	V;IPFV;SG;1;PST
+tsén²	tsén²	V;IRR;3;FUT
+tsø²+han¹²	mi³-tsø²+han¹²	V;IPFV;SG;1;PST
+ɁenɁ¹²	ɁenɁ¹³	V;IRR;SG;1;FUT
+mḗɁ²	mi³-mēɁ³	V;IPFV;SG;1;PST
+Ɂngiéng¹²	Ɂngieng²	V;IPFV;PL;1;PRS
+dsúgɁ²	dsugɁ³	V;IPFV;SG;1;PRS
+mi²+Ɂan¹³	mi³-mi²+Ɂan¹³	V;IPFV;2;PST
+mi²+gug¹	mi³-mi²+gug¹	V;IPFV;2;PST
+ɁuanɁ¹²	mi³-ɁuanɁ¹²	V;IPFV;2;PST
+káiɁ¹²	mi³-káiɁ¹²	V;IPFV;3;PST
+Ɂiá¹²	Ɂia¹³	V;IRR;SG;1;FUT
+tsogɁ² hmøi²	tsogɁ¹	V;IRR;2;FUT
+nié¹²	na¹²	V;IPFV;SG;1;PRS
+mi²+dsiagɁ¹	mi¹+dsiagɁ³	V;IRR;SG;1;FUT
+dsén²	dsén¹³	V;IRR;3;FUT
+tiú²	mi³-tiu¹²	V;IPFV;2;PST
+mi²+ti¹	mi²+ti¹	V;IPFV;3;PRS
+hanɁ¹² dsǿa¹²	mi³-hanɁ¹²	V;IPFV;2;PST
+u²+Ɂai¹²	mi³-u²+Ɂai¹²	V;IPFV;PL;1;PST
+dsen¹²	dsen¹³	V;IRR;PL;1;FUT
+hngie¹²	han³	V;IRR;2;FUT
+mē¹²	mi³-mē¹²	V;IPFV;2;PST
+Ɂøa¹²	Ɂi³	V;IRR;PL;1;FUT
+hlég²	mi³-hleg²	V;IPFV;PL;1;PST
+tei²	tei³	V;IPFV;PL;1;PRS
+mi²+dsøg¹²	mi³-mi²+dsøg¹³	V;IPFV;PL;1;PST
+tø²+húg³	tø¹+hug³	V;IRR;SG;1;FUT
+tei¹²	tei¹³	V;IRR;SG;1;FUT
+siúg²	siog³	V;IPFV;PL;1;PRS
+tiánɁ¹²	tanɁ¹³	V;IRR;2;FUT
+ɁiéiɁ¹²	mi³-ɁieiɁ¹²	V;IPFV;SG;1;PST
+togɁ¹²	togɁ¹²	V;IPFV;3;PRS
+mi²+hǿ²	mi¹+hø³	V;IRR;2;FUT
+ngie³	ngie³	V;IPFV;PL;1;PRS
+ɁlíɁ¹²	mi³-ɁlíɁ¹²	V;IPFV;3;PST
+ɁnangɁ²	ɁniangɁ³	V;IRR;PL;1;FUT
+kán² guiing²	kan¹³	V;IRR;SG;1;FUT
+mi²+hlíɁ²	mi³-mi²+hlíɁ²	V;IPFV;3;PST
+ɁliágɁ¹²	ɁliágɁ¹²	V;IPFV;3;PRS
+huúɁ¹²	huúɁ¹²	V;IPFV;3;PRS
+gúg²	mi³-gúg²	V;IPFV;3;PST
+tsø²+nióɁ¹²	tsø³+nióɁ¹	V;IRR;3;FUT
+kiang¹²	kiang¹³	V;IPFV;SG;1;PRS
+hiugɁ¹²	hiugɁ¹²	V;IPFV;3;PRS
+méɁ²	méɁ²	V;IRR;3;FUT
+hmo¹²	hmo²	V;IPFV;PL;1;PRS
+Ɂé²	Ɂé²	V;IRR;3;FUT
+héin¹²	mi³-hein³	V;IPFV;SG;1;PST
+kieg²	kieg³	V;IRR;SG;1;FUT
+hngiáɁ²	mi³-hngiaɁ²	V;IPFV;SG;1;PST
+siúg²	siog³	V;IRR;SG;1;FUT
+kø²+káng¹²	kø²+kang¹²	V;IPFV;2;PRS
+tøng²	mi³-tøng²	V;IPFV;3;PST
+hnióɁ²	hnioɁ²	V;IPFV;2;PRS
+henɁ²	henɁ²	V;IPFV;3;PRS
+Ɂngio¹²	Ɂngio¹³	V;IRR;2;FUT
+iaɁ¹²	iaɁ¹²	V;IPFV;3;PRS
+dsø²+lé²	dsø²+lé²	V;IPFV;3;PRS
+mi²+hínɁ²	mi²+hínɁ²	V;IPFV;3;PRS
+guiúg²	guiug¹³	V;IRR;2;FUT
+guønɁ¹²	mi³-guønɁ¹²	V;IPFV;2;PST
+ngó¹²	ngo¹³	V;IRR;SG;1;FUT
+guøn¹²	mi³-guøn¹²	V;IPFV;PL;1;PST
+tsí¹²	tsi³	V;IRR;PL;1;FUT
+nei¹²	nei¹²	V;IRR;3;FUT
+se¹²	se¹²	V;IPFV;2;PRS
+lø²+liúɁ²	lø²+liuɁ¹²	V;IPFV;2;PRS
+u²+nio¹³	mi³-u²+nio¹³	V;IPFV;PL;1;PST
+mi²+dsēn¹²	mi²+dsēn¹³	V;IPFV;2;PRS
+hiúg²	mi³-hiug³	V;IPFV;SG;1;PST
+hián²	hian²	V;IPFV;2;PRS
+pø²+hánɁ²	mi³-pø²+hánɁ²	V;IPFV;3;PST
+mi²+hngiáng¹	mi²+hngiang¹³	V;IPFV;2;PRS
+kánɁ²	kanɁ¹³	V;IRR;SG;1;FUT
+dsug²	dsióg¹	V;IRR;3;FUT
+mi²+Ɂog¹³	mi³+Ɂog¹³	V;IRR;3;FUT
+tangɁ²	tangɁ³	V;IRR;2;FUT
+guønɁ¹²	guønɁ¹	V;IRR;PL;1;FUT
+kiúɁ¹²	kiuɁ²	V;IPFV;2;PRS
+Ɂno¹²	Ɂneng²	V;IPFV;PL;1;PRS
+tsí¹²	tsi¹²	V;IPFV;SG;1;PRS
+se¹²	se³	V;IRR;SG;1;FUT
+Ɂēn¹²	mi³-Ɂēn¹²	V;IPFV;3;PST
+guianɁ¹²	guianɁ¹	V;IRR;PL;1;FUT
+tsá¹²	mi³-tsa¹²	V;IPFV;SG;1;PST
+pø²+hánɁ²	pø³+hánɁ²	V;IRR;3;FUT
+ko¹²	køg³	V;IRR;PL;1;FUT
+li²	mi³-li²	V;IPFV;3;PST
+ná²	nií²	V;IRR;3;FUT
+hlái²	hlai¹³	V;IRR;2;FUT
+chiunɁ¹²	chiunɁ²	V;IPFV;2;PRS
+hlian¹²	hlian¹²	V;IPFV;PL;1;PRS
+dsiog¹²	dsiog³	V;IPFV;PL;1;PRS
+li²	li¹³	V;IRR;SG;1;FUT
+guen²	guen¹	V;IRR;SG;1;FUT
+ɁlanɁ¹²	ɁlanɁ¹³	V;IPFV;PL;1;PRS
+kiiɁ²	mi³-kaɁ¹²	V;IPFV;2;PST
+tsǿaɁ¹²	huøɁ¹²	V;IPFV;SG;1;PRS
+mḗɁ²	mḗɁ²	V;IRR;3;FUT
+tión²	mi³-tion¹²	V;IPFV;SG;1;PST
+lúg²	mi³-lug²	V;IPFV;PL;1;PST
+tsø²+nióɁ²	tsø¹+nioɁ³	V;IRR;2;FUT
+teng¹²	teng¹²	V;IPFV;3;PRS
+hngióɁ¹²	mi³-hngióɁ¹²	V;IPFV;3;PST
+hngióɁ²	hngioɁ³	V;IRR;PL;1;FUT
+uénɁ²	uenɁ²	V;IRR;2;FUT
+mi²+tan¹²	mi²+tan³	V;IPFV;PL;1;PRS
+rón²	ron²	V;IRR;SG;1;FUT
+ná²	mi³-ná²	V;IPFV;3;PST
+guenɁ¹²	mi³-guenɁ²	V;IPFV;2;PST
+Ɂí²	Ɂu¹³	V;IRR;PL;1;FUT
+uǿi²	mi³-uøi²	V;IPFV;SG;1;PST
+dsiag¹²	mi³-dsiag²	V;IPFV;PL;1;PST
+tsog¹²	tsog¹	V;IRR;3;FUT
+dsúgɁ¹²	dsugɁ¹²	V;IPFV;2;PRS
+ɁǿnɁ²	ɁǿnɁ²	V;IRR;3;FUT
+hnáɁ¹²	hnaɁ¹²	V;IPFV;2;PRS
+togɁ¹²	togɁ²	V;IPFV;2;PRS
+hngia¹²	hngia¹³	V;IPFV;PL;1;PRS
+kuøin¹²	kuøin¹²	V;IPFV;2;PRS
+ngiéɁ¹²	ngieɁ³	V;IPFV;PL;1;PRS
+hug²	hiug¹	V;IRR;SG;1;FUT
+Ɂmóng¹²	mi³-Ɂmong¹²	V;IPFV;2;PST
+hén²	mi³-hen²	V;IPFV;2;PST
+dsø²+togɁ¹²	mi³-dsø²+togɁ¹²	V;IPFV;SG;1;PST
+teng¹²	teng²	V;IPFV;PL;1;PRS
+len¹²	len¹³	V;IRR;SG;1;FUT
+kø²+hinɁ¹²	kø²+hinɁ³	V;IPFV;2;PRS
+kiáɁ²	kiaɁ¹³	V;IPFV;2;PRS
+tsáiɁ¹²	mi³-tsáiɁ¹²	V;IPFV;3;PST
+nēɁ¹²	nēɁ¹²	V;IPFV;SG;1;PRS
+niuɁ³	niuɁ³	V;IPFV;3;PRS
+mi²+hngiáng¹	mi²+hngiang¹³	V;IPFV;PL;1;PRS
+ngái¹²	ngai³	V;IRR;2;FUT
+mi²+hlíɁ²	mi³+hlíɁ²	V;IRR;3;FUT
+hnia¹²	mi³-hnia¹²	V;IPFV;PL;1;PST
+guønɁ¹²	mi³-guønɁ¹²	V;IPFV;PL;1;PST
+hógɁ¹²	hiugɁ¹³	V;IRR;SG;1;FUT
+niuɁ³	niuɁ¹	V;IRR;3;FUT
+køgɁ²	mi³-køgɁ²	V;IPFV;2;PST
+kḗn²	kien²	V;IRR;PL;1;FUT
+hug²	mi³-hug²	V;IPFV;PL;1;PST
+hénɁ²	henɁ¹³	V;IRR;SG;1;FUT
+dsiánɁ²	dsianɁ³	V;IPFV;2;PRS
+gógɁ¹²	gogɁ¹²	V;IPFV;SG;1;PRS
+ngie¹²	mi³-ngie¹³	V;IPFV;PL;1;PST
+kanɁ¹²	mi³-kanɁ¹²	V;IPFV;2;PST
+dsanɁ¹²	dsianɁ¹²	V;IRR;SG;1;FUT
+mi²+liág¹	mi¹+liag¹³	V;IRR;2;FUT
+køn¹²	køn¹²	V;IPFV;3;PRS
+bí²	bi¹³	V;IRR;PL;1;FUT
+ɁēnɁ¹²	ɁēnɁ³	V;IRR;2;FUT
+rain¹²	rain¹	V;IRR;PL;1;FUT
+hmóɁ¹²	hmóɁ¹²	V;IPFV;3;PRS
+ngai¹²	ngai³	V;IPFV;PL;1;PRS
+mi²+kuen¹²	mi³-mi²+kuen¹³	V;IPFV;PL;1;PST
+Ɂuøi¹²	mi³-Ɂuøi¹²	V;IPFV;3;PST
+lá¹²	mi³-la²	V;IPFV;2;PST
+kiéɁ¹²	kiéɁ¹²	V;IPFV;3;PRS
+dsogɁ¹²	dsogɁ¹³	V;IRR;2;FUT
+ɁmiɁ¹²	ɁmiɁ³	V;IPFV;PL;1;PRS
+mi²+chian¹²	mi¹+chian³	V;IRR;SG;1;FUT
+mi²+Ɂan¹³	mi¹+Ɂan¹³	V;IRR;2;FUT
+hngiíɁ²	hngieɁ¹²	V;IPFV;PL;1;PRS
+ɁaiɁ²	ɁaiɁ¹	V;IRR;3;FUT
+ɁioɁ¹²	Ɂiag¹²	V;IPFV;SG;1;PRS
+ɁlíɁ¹²	ɁliɁ¹²	V;IPFV;PL;1;PRS
+tøa¹²	mi³-tøa¹²	V;IPFV;3;PST
+togɁ¹²	togɁ³	V;IRR;SG;1;FUT
+chi²+lánɁ²	chi²+lanɁ¹²	V;IPFV;SG;1;PRS
+Ɂiog²	mi³-Ɂiog²	V;IPFV;2;PST
+ɁmíɁ²	ɁmiɁ²	V;IPFV;SG;1;PRS
+mi²+ɁmaɁ¹³	mi²+ɁmaɁ¹³	V;IPFV;SG;1;PRS
+tán¹²	tán¹²	V;IRR;3;FUT
+dsanɁ¹²	dsanɁ¹²	V;IPFV;3;PRS
+ɁløaɁ¹²	ɁløaɁ¹²	V;IPFV;3;PRS
+ha²+lig²	ha²+lig²	V;IPFV;3;PRS
+ɁliɁ²	mi³-ɁliɁ²	V;IPFV;3;PST
+mi²+gǿg¹	mi²+gøg¹	V;IPFV;SG;1;PRS
+mái¹²	mi³-mai²	V;IPFV;2;PST
+mi²+dsiog¹	mi³-mi²+dsiog¹	V;IPFV;PL;1;PST
+liúg²	mi³-liúg²	V;IPFV;3;PST
+kuan¹²	kuan¹²	V;IPFV;PL;1;PRS
+mi²+Ɂan¹³	mi¹+Ɂan¹³	V;IRR;SG;1;FUT
+Ɂiog¹²	Ɂog¹³	V;IRR;2;FUT
+kuan¹²	kuan¹²	V;IPFV;SG;1;PRS
+mi²+hní¹	mi³-mi²+hni³	V;IPFV;2;PST
+mi²+ɁḗɁ²	mi²+ɁḗɁ²	V;IPFV;3;PRS
+lan²	lan²	V;IRR;3;FUT
+guuɁ¹²	kieng²	V;IPFV;PL;1;PRS
+hnáɁ¹²	mi³-hnaɁ¹²	V;IPFV;PL;1;PST
+ɁliuɁ¹²	ɁliuɁ¹	V;IRR;3;FUT
+ɁóɁ²	ɁoɁ¹³	V;IRR;SG;1;FUT
+dsiag¹²	mi³-dsiag²	V;IPFV;2;PST
+hiúɁ²	mi³-hiúɁ²	V;IPFV;3;PST
+tø²+húg³	tø²+húg³	V;IPFV;3;PRS
+mi²+dsíg²	mi³-mi²+dsig³	V;IPFV;SG;1;PST
+hliánɁ²	hliánɁ²	V;IRR;3;FUT
+ngøa¹²	ngøa²	V;IPFV;2;PRS
+tsøi¹²	mi³-tsøi²	V;IPFV;PL;1;PST
+goɁ²	mi³-goɁ²	V;IPFV;3;PST
+tsenɁ¹²	tsēnɁ³	V;IRR;SG;1;FUT
+Ɂnai¹²	Ɂnøi³	V;IRR;2;FUT
+tsǿn²	mi³-tsǿn²	V;IPFV;3;PST
+dsen¹²	mi³-dsen¹²	V;IPFV;SG;1;PST
+hanɁ¹² dsǿa¹²	hanɁ¹	V;IRR;PL;1;FUT
+tán¹²	tan¹³	V;IRR;SG;1;FUT
+Ɂé²	mi³-Ɂé²	V;IPFV;3;PST
+goɁ²	goɁ²	V;IPFV;3;PRS
+Ɂen¹²	Ɂen³	V;IRR;SG;1;FUT
+gúg²	mi³-gog³	V;IPFV;2;PST
+Ɂien¹²	mi³-Ɂien¹²	V;IPFV;2;PST
+siág¹²	siog³	V;IRR;2;FUT
+kēn²	kēn¹	V;IRR;3;FUT
+mi²+dsií¹	mi²+dsii³	V;IPFV;SG;1;PRS
+kuǿɁ¹²	kuøɁ¹³	V;IRR;PL;1;FUT
+len¹² dsǿa¹²	mi³-len¹²	V;IPFV;PL;1;PST
+sián²	mi³-sián²	V;IPFV;3;PST
+ngiéɁ¹²	ngiéɁ¹²	V;IPFV;3;PRS
+ɁngióɁ¹²	ɁngióɁ¹²	V;IPFV;3;PRS
+hmóngɁ¹²	hmongɁ²	V;IPFV;2;PRS
+mi²+Ɂlí¹	mi³-mi²+Ɂli³	V;IPFV;SG;1;PST
+Ɂí²	Ɂu¹³	V;IRR;2;FUT
+guiúnɁ¹²	guionɁ¹³	V;IRR;SG;1;FUT
+mi²+Ɂliúg²	mi³+Ɂliúg²	V;IRR;3;FUT
+guiónɁ²	mi³-guionɁ³	V;IPFV;SG;1;PST
+ɁaiɁ²	ɁaiɁ¹²	V;IPFV;SG;1;PRS
+Ɂlí²	Ɂli¹³	V;IRR;PL;1;FUT
+ɁiéiɁ¹²	mi³-ɁieiɁ²	V;IPFV;PL;1;PST
+mi²+hngiáng¹	mi²+hngiang¹³	V;IPFV;SG;1;PRS
+uøin²	uøin²	V;IPFV;3;PRS
+hug²	hug²	V;IPFV;3;PRS
+Ɂog¹²	Ɂog¹	V;IRR;SG;1;FUT
+ɁóɁ¹²	ɁoɁ¹²	V;IPFV;PL;1;PRS
+tian¹²	tian¹³	V;IRR;SG;1;FUT
+gǿaɁ¹²	køgɁ²	V;IPFV;2;PRS
+kuøin¹²	kuøin¹³	V;IRR;PL;1;FUT
+dsogɁ¹²	dsogɁ¹²	V;IPFV;PL;1;PRS
+u²+Ɂai¹²	mi³-u²+Ɂai¹²	V;IPFV;SG;1;PST
+Ɂien¹²	Ɂien¹²	V;IPFV;SG;1;PRS
+ɁúgɁ²	ɁúgɁ²	V;IRR;3;FUT
+nió²	mi³-nió²	V;IPFV;3;PST
+hǿa¹²	hǿa¹	V;IRR;3;FUT
+mi²+dsiog¹	mi¹+dsiog¹	V;IRR;2;FUT
+dsen¹²	dsen¹³	V;IRR;SG;1;FUT
+kǿ²	kií²	V;IRR;3;FUT
+guenɁ¹²	guenɁ¹²	V;IPFV;3;PRS
+uénɁ²	uenɁ²	V;IRR;PL;1;FUT
+kuénɁ²	kuenɁ³	V;IPFV;2;PRS
+guiénɁ²	guiénɁ²	V;IRR;3;FUT
+ié²	mi³-ie¹²	V;IPFV;PL;1;PST
+chiángɁ¹²	chiangɁ³	V;IRR;SG;1;FUT
+rang¹²	rang²	V;IPFV;2;PRS
+tso¹²	chieg³	V;IRR;PL;1;FUT
+tsón²	mi³-tson³	V;IPFV;PL;1;PST
+huúɁ²	huuɁ²	V;IPFV;2;PRS
+háng¹²	mi³-hang³	V;IPFV;2;PST
+guieng¹²	guieng³	V;IRR;2;FUT
+lø²+liúɁ²	lø¹+liuɁ¹³	V;IRR;PL;1;FUT
+bí²	bí²	V;IRR;3;FUT
+chiángɁ¹²	chiángɁ¹	V;IRR;3;FUT
+hnio³	hnio¹	V;IRR;3;FUT
+guiég¹²	guieg³	V;IRR;PL;1;FUT
+chi²+ngió²	mi³-chi²+ngio³	V;IPFV;PL;1;PST
+nioɁ²	mi³-nioɁ²	V;IPFV;SG;1;PST
+ti²+kḗn¹	ti³+kḗn¹	V;IRR;3;FUT
+dsii²+lian¹	mi³-dsii²+lian¹	V;IPFV;3;PST
+sianɁ¹²	mi³-sianɁ¹²	V;IPFV;3;PST
+dsióɁ¹² hǿg³	mi³-dsioɁ¹²	V;IPFV;PL;1;PST
+tsø²+nióɁ²	mi³-tsø²+nióɁ²	V;IPFV;3;PST
+Ɂnie¹²	mi³-Ɂna³	V;IPFV;SG;1;PST
+mi²+gan¹²	mi²+gan¹³	V;IPFV;SG;1;PRS
+tø²+dsḗn³	mi³-tø²+dsēn³	V;IPFV;2;PST
+møa¹²	møa¹	V;IRR;3;FUT
+guieɁ¹²	guieɁ³	V;IRR;2;FUT
+mi²+chian¹²	mi³-mi²+chian³	V;IPFV;PL;1;PST
+kúgɁ²	mi³-kugɁ³	V;IPFV;2;PST
+tanɁ¹²	tanɁ²	V;IPFV;2;PRS
+gǿaɁ¹²	køgɁ³	V;IRR;2;FUT
+Ɂén²	Ɂen¹³	V;IRR;2;FUT
+tǿɁ²	tøa¹²	V;IPFV;SG;1;PRS
+dsen³ (kaɁ³)	dsen¹³	V;IRR;PL;1;FUT
+gúg²	gug¹³	V;IRR;SG;1;FUT
+huu¹²	mi³-huu¹²	V;IPFV;SG;1;PST
+ɁúgɁ²	ɁogɁ³	V;IRR;2;FUT
+ti²+dsøa¹²	ti²+dsøa¹²	V;IPFV;3;PRS
+guuɁ¹²	guuɁ¹	V;IRR;3;FUT
+Ɂian²	Ɂian¹	V;IRR;2;FUT
+dsán²	dsan¹²	V;IPFV;2;PRS
+chiag¹²	chiag²	V;IPFV;2;PRS
+ha²+Ɂan³	ha²+Ɂan³	V;IPFV;PL;1;PRS
+chi²+ngiú²	mi³-chi²+ngiu³	V;IPFV;2;PST
+ha¹²	ha¹³	V;IPFV;PL;1;PRS
+hmáɁ² (dsǿa¹²)	hmaɁ¹³	V;IRR;2;FUT
+ɁóɁ²	mi³-ɁóɁ²	V;IPFV;3;PST
+hínɁ²	hínɁ²	V;IPFV;3;PRS
+niɁ¹²	niɁ¹²	V;IRR;3;FUT
+niɁ¹²	mi³-niɁ¹²	V;IPFV;3;PST
+mi²+kien¹²	mi²+kien¹³	V;IPFV;SG;1;PRS
+ɁnióɁ¹²	ɁnioɁ¹²	V;IPFV;PL;1;PRS
+tian¹	tian¹	V;IRR;PL;1;FUT
+guái²	mi³-guai¹²	V;IPFV;SG;1;PST
+tsánɁ²	hmaɁ¹³	V;IRR;SG;1;FUT
+hmáɁ² (dsǿa¹²)	mi³-hmáɁ²	V;IPFV;3;PST
+ɁuanɁ¹²	ɁuaiɁ¹²	V;IPFV;PL;1;PRS
+chiunɁ¹²	chiunɁ³	V;IPFV;2;PRS
+héi²	hi³	V;IRR;2;FUT
+mi²+guionɁ¹	mi¹+guionɁ³	V;IRR;2;FUT
+hngiíɁ²	hngiíɁ²	V;IRR;3;FUT
+mi²+hu¹	mi²+hu³	V;IPFV;PL;1;PRS
+ɁliuɁ¹²	ɁliuɁ¹³	V;IRR;SG;1;FUT
+sián²	sian³	V;IRR;2;FUT
+kieng¹²	kieng²	V;IPFV;2;PRS
+hiég²	hieg¹²	V;IPFV;2;PRS
+kugɁ¹²	mi³-kugɁ¹³	V;IPFV;2;PST
+ɁøɁ¹²	mi³-ɁøɁ¹²	V;IPFV;SG;1;PST
+kión²	mi³-kión²	V;IPFV;3;PST
+tsø²+kuønɁ¹²	tsø¹+kuønɁ¹²	V;IRR;PL;1;FUT
+kánɁ¹²	kanɁ¹³	V;IRR;PL;1;FUT
+li²	mi³-li¹²	V;IPFV;2;PST
+mi²+Ɂliúg²	mi²+Ɂliug³	V;IPFV;PL;1;PRS
+mi²+Ɂliúg²	mi²+Ɂliug³	V;IPFV;2;PRS
+ku²+hmáɁ²	mi³-ku²+hmáɁ²	V;IPFV;3;PST
+ngó¹²	ngo³	V;IRR;PL;1;FUT
+ha²	ha¹	V;IRR;3;FUT
+tion¹²	ton¹²	V;IPFV;2;PRS
+mi²+Ɂnio¹	mi²+Ɂnio¹	V;IPFV;SG;1;PRS
+dsán²	mi³-dsan¹²	V;IPFV;2;PST
+ɁuáiɁ¹²	ɁuaiɁ¹²	V;IPFV;2;PRS
+hínɁ²	mi³-hínɁ²	V;IPFV;3;PST
+dsian¹²	dsian¹²	V;IPFV;2;PRS
+guiég¹²	mi³-guieg²	V;IPFV;2;PST
+Ɂuan²	Ɂuan²	V;IPFV;SG;1;PRS
+mi²+Ɂog¹³	mi¹+Ɂog³	V;IRR;PL;1;FUT
+kiúɁ¹²	kiuɁ¹³	V;IRR;SG;1;FUT
+chi²+ngiú²	mi³-chi²+ngiu³	V;IPFV;PL;1;PST
+Ɂlí²	Ɂli¹²	V;IPFV;PL;1;PRS
+lóɁ¹²	loɁ¹²	V;IPFV;SG;1;PRS
+uénɁ²	uenɁ²	V;IPFV;SG;1;PRS
+gúɁ¹²	mi³-guɁ²	V;IPFV;2;PST
+ngó¹²	ngo¹²	V;IPFV;SG;1;PRS
+ngē²	ngie¹	V;IRR;3;FUT
+mi²+guionɁ¹	mi²+guionɁ³	V;IPFV;2;PRS
+ɁmóɁ²	ɁmoɁ¹³	V;IRR;PL;1;FUT
+Ɂúg²	Ɂúg²	V;IPFV;3;PRS
+kieng¹²	kieng¹	V;IRR;3;FUT
+hág¹²	hag¹³	V;IPFV;SG;1;PRS
+mi²+hínɁ²	mi¹+hinɁ³	V;IRR;SG;1;FUT
+hiugɁ¹²	hiugɁ³	V;IRR;2;FUT
+huen¹²	mi³-huen¹³	V;IPFV;2;PST
+húɁ²	huɁ³	V;IRR;PL;1;FUT
+tieɁ¹²	taɁ²	V;IPFV;2;PRS
+Ɂéng²	Ɂeng¹³	V;IRR;2;FUT
+ton²	ton²	V;IRR;PL;1;FUT
+dsa²	dsií¹	V;IRR;3;FUT
+kúgɁ¹²	kugɁ¹²	V;IPFV;PL;1;PRS
+tiu¹²	tiu¹²	V;IPFV;SG;1;PRS
+ɁlieɁ¹²	ɁlieɁ¹²	V;IPFV;3;PRS
+chiog¹²	mi³-chiog¹²	V;IPFV;3;PST
+ɁøɁ¹²	ɁøɁ²	V;IPFV;2;PRS
+gḗɁ²	gḗɁ²	V;IRR;3;FUT
+kión²	kión²	V;IRR;3;FUT
+Ɂngieng¹²	Ɂngieng¹²	V;IPFV;SG;1;PRS
+chiúgɁ²	chiúgɁ²	V;IRR;3;FUT
+háinɁ¹²	mi³-háinɁ¹²	V;IPFV;3;PST
+hngieɁ¹²	hngieɁ¹	V;IRR;3;FUT
+kién¹²	mi³-kién¹²	V;IPFV;3;PST
+lóɁ¹²	lioɁ¹²	V;IPFV;PL;1;PRS
+mi²+hniang¹ dsǿa¹²	mi²+hniang¹	V;IPFV;3;PRS
+kḗn²	mi³-kēn²	V;IPFV;PL;1;PST
+huánɁ¹²	huanɁ¹²	V;IRR;SG;1;FUT
+ɁiíɁ²	ɁiíɁ²	V;IRR;3;FUT
+héɁ²	heɁ³	V;IRR;PL;1;FUT
+kian¹²	kian³	V;IPFV;2;PRS
+Ɂen¹²	Ɂen¹²	V;IPFV;PL;1;PRS
+hogɁ¹²	hogɁ¹²	V;IRR;SG;1;FUT
+hnḗɁ²	hnēɁ³	V;IRR;PL;1;FUT
+Ɂan¹²	mi³-Ɂen¹²	V;IPFV;PL;1;PST
+huǿin¹²	mi³-huøin²	V;IPFV;PL;1;PST
+ɁiíɁ²	ɁiíɁ²	V;IPFV;3;PRS
+kón²	mi³-kón²	V;IPFV;3;PST
+køɁ³ (hmai³)	kēɁ³	V;IRR;2;FUT
+Ɂngiéng²	mi³-Ɂngiéng²	V;IPFV;3;PST
+nung²	nung¹³	V;IRR;SG;1;FUT
+tian¹²	tian¹³	V;IRR;2;FUT
+kiúgɁ²	kiúgɁ²	V;IRR;3;FUT
+chi²+dsí²	chi¹+dsi³	V;IRR;SG;1;FUT
+mi²+hngió¹	mi³-mi²+hngio¹³	V;IPFV;2;PST
+hiúɁ²	hioɁ³	V;IRR;2;FUT
+chióg¹²	mi³-chiog³	V;IPFV;SG;1;PST
+guión²	guion³	V;IPFV;SG;1;PRS
+hngiíɁ²	mi³-hngieɁ¹²	V;IPFV;PL;1;PST
+hogɁ¹²	mi³-hogɁ¹²	V;IPFV;3;PST
+hián²	hian¹²	V;IPFV;PL;1;PRS
+kii²+túg²	kii³+túg²	V;IRR;3;FUT
+tiu¹²	tiu¹³	V;IRR;SG;1;FUT
+hnáɁ²	mi³-hnáɁ²	V;IPFV;3;PST
+héɁ²	mi³-heɁ³	V;IPFV;SG;1;PST
+liúg²	mi³-log³	V;IPFV;PL;1;PST
+háng¹²	hang³	V;IRR;PL;1;FUT
+ton²	ton²	V;IPFV;3;PRS
+tanɁ²	tanɁ²	V;IPFV;SG;1;PRS
+mi²+hénɁ²	mi²+hénɁ²	V;IPFV;3;PRS
+ɁéɁ²	ɁéɁ²	V;IRR;3;FUT
+ton²	ton²	V;IRR;3;FUT
+lóɁ¹²	loɁ¹³	V;IRR;SG;1;FUT
+kug²	mi³-kug²	V;IPFV;3;PST
+mi²+hǿ²	mi²+hø³	V;IPFV;2;PRS
+hiégɁ¹²	hiegɁ²	V;IPFV;2;PRS
+ko¹²	mi³-køg²	V;IPFV;2;PST
+nǿɁ²	nøɁ¹³	V;IRR;SG;1;FUT
+nang¹²	nang¹	V;IRR;3;FUT
+tian¹²	tian¹	V;IRR;2;FUT
+hénɁ¹²	henɁ¹²	V;IPFV;2;PRS
+héi²	mi³-héi²	V;IPFV;3;PST
+nió²	nio¹²	V;IPFV;2;PRS
+hmáɁ² (dsǿa¹²)	mi³-hmaɁ¹³	V;IPFV;PL;1;PST
+chi²+dsí²	chi²+dsi³	V;IPFV;SG;1;PRS
+hug²	hiug¹	V;IRR;PL;1;FUT
+kug²	kug²	V;IPFV;SG;1;PRS
+dsian¹²	dsian¹³	V;IRR;SG;1;FUT
+tei²	tei³	V;IRR;SG;1;FUT
+kø¹²	kø¹²	V;IPFV;3;PRS
+kiagɁ¹²	kiagɁ¹	V;IRR;3;FUT
+tsai¹²	tsai¹³	V;IRR;PL;1;FUT
+bá²	mi³-bá²	V;IPFV;3;PST
+ti²+líɁ¹	ti²+líɁ¹	V;IPFV;3;PRS
+hinɁ³	mi³-hinɁ³	V;IPFV;3;PST
+Ɂméi¹²	Ɂmei³	V;IRR;2;FUT
+ɁēnɁ¹²	mi³-ɁēnɁ¹²	V;IPFV;3;PST
+Ɂøin¹²	Ɂøin¹³	V;IRR;2;FUT
+Ɂme¹²	Ɂme³	V;IRR;2;FUT
+kuú²	kuu³	V;IRR;SG;1;FUT
+ɁǿnɁ²	ɁniuɁ³	V;IRR;PL;1;FUT
+dsogɁ¹²	dsogɁ¹³	V;IRR;SG;1;FUT
+tangɁ²	tangɁ²	V;IPFV;3;PRS
+tø²+dsḗn³	tø²+dsēn³	V;IPFV;SG;1;PRS
+Ɂiei¹²	Ɂiei¹³	V;IRR;SG;1;FUT
+chi²+ngió²	chi³+ngió²	V;IRR;3;FUT
+tsáiɁ¹²	tsáiɁ¹²	V;IPFV;3;PRS
+tiú²	tiú²	V;IRR;3;FUT
+lio¹²	leg³	V;IRR;PL;1;FUT
+hlian¹²	mi³-hlian¹²	V;IPFV;3;PST
+kienɁ¹²	kienɁ¹	V;IRR;3;FUT
+ián²	mi³-ian¹²	V;IPFV;SG;1;PST
+ngē¹²	mi³-ngē¹²	V;IPFV;PL;1;PST
+lēɁ²	mi³-lēɁ²	V;IPFV;3;PST
+mi²+kán¹²	mi¹+kan³	V;IRR;SG;1;FUT
+gog²	gog³	V;IRR;SG;1;FUT
+ɁiúɁ¹²	mi³-ɁiúɁ¹²	V;IPFV;3;PST
+Ɂlúg²	Ɂliug²	V;IRR;2;FUT
+ɁlianɁ²	ɁlianɁ¹	V;IRR;2;FUT
+hnéi¹²	hnai¹³	V;IRR;SG;1;FUT
+Ɂmǿi²	Ɂmai¹³	V;IRR;PL;1;FUT
+kienɁ¹²	kienɁ¹³	V;IRR;2;FUT
+mi²+hog¹²	mi¹+hog³	V;IRR;PL;1;FUT
+mi²+rø¹²	mi²+rø¹²	V;IPFV;3;PRS
+køgɁ²	køgɁ¹³	V;IRR;SG;1;FUT
+tsíɁ¹²	tsíɁ²	V;IRR;3;FUT
+guø¹²	guø¹²	V;IPFV;3;PRS
+teng¹²	teng¹	V;IRR;3;FUT
+guu²+dsḗn¹³	guu²+dsēn¹³	V;IPFV;2;PRS
+nǿɁ²	mi³-nøɁ¹²	V;IPFV;PL;1;PST
+hngǿi²	hngiéi²	V;IRR;3;FUT
+Ɂian¹²	Ɂian¹²	V;IPFV;SG;1;PRS
+Ɂø²+tsóɁ¹²	Ɂø²+tsóɁ¹²	V;IPFV;3;PRS
+ngái¹²	mi³-ngái¹²	V;IPFV;3;PST
+chi²+dsén²	chi²+dsen¹³	V;IPFV;2;PRS
+kiuɁ¹²	kiuɁ³	V;IRR;2;FUT
+hág¹²	hag¹³	V;IPFV;PL;1;PRS
+guiúg²	guiug¹³	V;IRR;SG;1;FUT
+huen¹²	huen¹³	V;IPFV;2;PRS
+tsíɁ¹²	mi³-tsøɁ²	V;IPFV;2;PST
+iaɁ¹²	iaɁ³	V;IPFV;PL;1;PRS
+hinɁ³	hinɁ³	V;IPFV;3;PRS
+tanɁ¹² huu¹²	tianɁ¹³	V;IRR;PL;1;FUT
+chi²+hné¹	chi¹+hne³	V;IRR;SG;1;FUT
+mi²+Ɂan¹²	mi¹+lig2¹³	V;IRR;SG;1;FUT
+dsug²	dsug²	V;IPFV;3;PRS
+ɁuáiɁ¹²	ɁuaiɁ¹³	V;IRR;2;FUT
+kuénɁ²	mi³-kuenɁ³	V;IPFV;2;PST
+mi²+hní¹	mi³-mi²+hni³	V;IPFV;PL;1;PST
+hniang²	mi³-hniang²	V;IPFV;PL;1;PST
+ti²+líɁ¹	ti²+lei2¹	V;IPFV;SG;1;PRS
+tian¹	mi³-tian¹	V;IPFV;PL;1;PST
+ɁéiɁ¹²	mi³-ɁéiɁ¹²	V;IPFV;3;PST
+hniuɁ²	hniang¹	V;IRR;SG;1;FUT
+nøɁ¹²	nøɁ¹²	V;IPFV;SG;1;PRS
+dsǿɁ²	dsøɁ¹³	V;IRR;SG;1;FUT
+hág¹²	mi³-hág¹²	V;IPFV;3;PST
+gǿi¹²	guiig³	V;IRR;PL;1;FUT
+ɁmíɁ²	mi³-ɁmíɁ²	V;IPFV;3;PST
+gǿaɁ¹²	mi³-gǿaɁ¹²	V;IPFV;3;PST
+nioɁ²	nioɁ¹	V;IRR;2;FUT
+ti²+dsøa¹²	mi³-ti²+dsøa³	V;IPFV;PL;1;PST
+ɁmóɁ²	ɁmoɁ¹³	V;IRR;SG;1;FUT
+mi²+hmḗ²	mi³+hmḗ²	V;IRR;3;FUT
+kán²	kan²	V;IPFV;2;PRS
+kií¹²	mi³-kií¹²	V;IPFV;3;PST
+kian¹²	kian¹³	V;IPFV;PL;1;PRS
+tø²+dsḗn³	tø¹+dsēn³	V;IRR;SG;1;FUT
+guen¹²	guen³	V;IRR;PL;1;FUT
+ié²	mi³-ie¹²	V;IPFV;SG;1;PST
+chiángɁ¹²	chiangɁ³	V;IRR;2;FUT
+chiógɁ² ( hmøi²)	chiógɁ²	V;IPFV;3;PRS
+tsø²+nióɁ²	tsø¹+nioɁ³	V;IRR;SG;1;FUT
+dsióɁ¹²	mi³-dsióɁ¹²	V;IPFV;3;PST
+mi²+hog¹²	mi³-mi²+hog³	V;IPFV;2;PST
+tangɁ²	tangɁ²	V;IPFV;2;PRS
+iéiɁ¹²	ieiɁ³	V;IRR;PL;1;FUT
+Ɂán¹² ɁogɁ¹²	Ɂán¹	V;IRR;3;FUT
+dsiég¹²	dsieg¹³	V;IRR;2;FUT
+dsióɁ¹²	mi³-dsioɁ³	V;IPFV;SG;1;PST
+guiúnɁ¹²	guionɁ¹³	V;IPFV;SG;1;PRS
+nei¹²	mi³-nei³	V;IPFV;2;PST
+chiog¹²	mi³-chiog²	V;IPFV;2;PST
+kón²	mi³-kon³	V;IPFV;2;PST
+bá²	ba²	V;IPFV;2;PRS
+huǿin¹²	huǿin¹²	V;IPFV;3;PRS
+ɁliuɁ¹²	ɁliuɁ¹²	V;IPFV;SG;1;PRS
+sianɁ¹²	sianɁ¹³	V;IRR;SG;1;FUT
+ɁiéiɁ¹²	ɁieiɁ³	V;IRR;2;FUT
+ɁēnɁ¹²	ɁēnɁ¹²	V;IPFV;3;PRS
+Ɂo¹²	mi³-Ɂøg²	V;IPFV;PL;1;PST
+gúɁ¹²	guɁ²	V;IPFV;PL;1;PRS
+hnia¹²	mi³-hnia¹²	V;IPFV;2;PST
+dsøɁ¹²	dsøɁ¹²	V;IPFV;3;PRS

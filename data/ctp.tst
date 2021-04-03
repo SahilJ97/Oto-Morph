@@ -1,598 +1,598 @@
-tykwa	V;PFV;3
-xu	V;HAB;2
-sweʔn	V;HAB;3
-xtyu	V;HAB;3
-stun	V;PROG;3
-na	V;PROSP;3
-xta	V;HAB;3
-snyaʔ	V;PROG;3
-xka	V;PROG;1
-skwen	V;PROG;2
-xjaʔ	V;PFV;2
-kilyu	V;HAB;2
-jkwi	V;PROSP;3
-xku	V;PROSP;2
-laʔ	V;PROSP;2
-tun	V;PFV;2
-xkuʔn	V;PROSP;2
-snyi	V;HAB;3
-tyweʔn	V;PROG;3
-tyweʔn	V;HAB;3
-tza	V;HAB;2
-tkwiʔ	V;PROSP;3
-ta	V;PROG;3
-la	V;HAB;1
-kitzaʔ	V;PROSP;1
-ʔni	V;PFV;1
-skwa	V;PFV;1
-tyiʔ	V;PROSP;1
-xla	V;HAB;3
-jkwaʔn	V;PROG;1
-sun	V;PFV;3
-nʔa	V;PROSP;3
-tzaʔ	V;PROG;2
-kwen	V;PROSP;3
-xʔya	V;PROSP;1
-xla	V;PFV;1
-xka	V;HAB;3
-tzaʔ	V;PROSP;2
-nya	V;PFV;2
-kilyu	V;PFV;3
-yjwi	V;PROG;1
-sʔyu	V;PFV;2
-tyweʔn	V;HAB;1
-jkwa	V;PROG;2
-ten	V;PFV;3
-ji	V;PFV;1
-tuʔ	V;PROG;1
-jyu	V;PROSP;2
-xnaʔ	V;PROSP;2
-sʔan	V;HAB;3
-taʔ	V;HAB;3
-jki	V;PROSP;3
-tyʔwe	V;PROG;3
-ʔna	V;HAB;2
-ja / ji	V;PROSP;3
-xkuʔ	V;PROSP;2
-ʔo	V;HAB;2
-kitzi	V;PFV;3
-tykwa	V;HAB;2
-kya	V;PROG;2
-xlyu	V;PROSP;3
-jkwa	V;PROSP;2
-lu	V;HAB;3
-laʔ	V;HAB;1
-tkwa	V;HAB;2
-tkwiʔ	V;PROG;2
-skaʔn	V;PROG;1
-tlyu	V;PROG;2
-tyʔwi	V;PROG;2
-kilyu	V;PROG;2
-xta	V;PROG;1
-kyoʔ	V;PROSP;3
-ten	V;PROSP;1
-xʔu	V;HAB;2
-tyka	V;PROSP;3
-kitzi	V;PROSP;1
-tun	V;PFV;3
-xyaʔ	V;PFV;1
-jkaʔ	V;PFV;1
-sna	V;PFV;2
-xʔyu	V;HAB;2
-sna	V;PROG;3
-tziʔ	V;PROSP;2
-ten	V;PROSP;2
-xnyi	V;PFV;3
-snyaʔ	V;PFV;1
-sʔi	V;HAB;1
-jaʔ	V;HAB;2
-ten	V;PFV;1
-xyaʔ	V;PROSP;3
-chaʔ	V;PROSP;2
-xkwan	V;PROG;1
-styi	V;PFV;1
-kun	V;HAB;3
-kiʔu	V;PROG;3
-ta	V;PROSP;1
-jywi	V;PROSP;2
-lu	V;HAB;1
-xkuʔ	V;PROG;2
-skwen	V;HAB;3
-na	V;PROSP;1
-ja	V;HAB;1
-tun	V;PROG;1
-chuʔ	V;PFV;1
-kila	V;PROSP;1
-tyun	V;PROG;1
-kin	V;PFV;1
-o	V;PROSP;2
-tiyu	V;PFV;2
-skwin	V;HAB;2
-suʔ	V;PROG;3
-skwan	V;PROG;2
-tʔwa	V;HAB;1
-xʔwa	V;PFV;1
-tya	V;HAB;2
-xnu	V;PROG;2
-ten	V;PROSP;3
-tjin	V;HAB;1
-xʔyu	V;PFV;2
-xki	V;PROSP;1
-taʔ	V;PROG;3
-jkwi	V;PROSP;2
-tyʔwi	V;PFV;1
-kitun	V;PROG;1
-ʔu	V;PFV;2
-xtiʔ	V;PROG;2
-kilu	V;PFV;2
-skwen	V;HAB;1
-jkwiʔn	V;PFV;2
-tyʔwi	V;PFV;1
-kwen	V;PFV;2
-tykwin	V;PFV;3
-ni	V;PROSP;2
-kija	V;PFV;3
-xʔya	V;PROSP;2
-la	V;PROG;3
-tʔin	V;PROG;3
-jywi	V;HAB;2
-ʔu	V;PROG;2
-nya	V;PFV;3
-xʔun	V;HAB;2
-sta	V;PROSP;2
-ne	V;PFV;2
-tiyan	V;PFV;2
-ta	V;PROSP;3
-tzjin	V;PROSP;1
-jwiʔ	V;PROG;1
-tuʔ	V;PFV;1
-xyuʔn	V;PROSP;1
-jkaʔ	V;PROG;1
-lyu	V;HAB;3
-xki	V;PROSP;3
-xtyu	V;PROG;2
-sʔwi	V;HAB;2
-tza	V;HAB;2
-xʔwa	V;PROG;1
-kinaʔ	V;PROG;3
-tziʔ	V;PFV;1
-skwi	V;PFV;2
-ʔna	V;PROG;2
-la	V;PFV;1
-ʔo	V;PFV;1
-jkwen	V;PROSP;1
-skwa	V;PFV;1
-joʔ	V;PROG;2
-kiten	V;HAB;1
-laʔ	V;PROSP;3
-so:ʔ	V;HAB;1
-lu	V;PROG;2
-tiʔ	V;PROG;2
-xnyi	V;HAB;3
-tʔwa	V;PROSP;3
-tjin	V;PROG;3
-kitan	V;PROG;2
-skwa	V;PROSP;2
-tzun	V;HAB;3
-jwiʔ	V;PFV;3
-laʔ	V;PROSP;1
-ta	V;PROG;2
-tykwan	V;PROG;1
-tkin	V;PROSP;1
-tyun	V;PFV;3
-tykuʔn	V;PFV;1
-sʔwe	V;PROSP;2
-ʔu	V;PROG;1
-xʔu	V;PROG;1
-tzun	V;PROSP;2
-skwaʔ	V;PROSP;2
-tziʔ	V;PFV;2
-nya	V;PROG;3
-ʔo	V;PFV;3
-jkwiʔn	V;HAB;2
-jkwan	V;PROSP;1
-xʔwa	V;PROG;2
-slu	V;PROSP;3
-ta	V;PROSP;1
-ʔa	V;PROSP;1
-stun	V;PROSP;3
-jkaʔ	V;HAB;1
-la	V;HAB;2
-xta	V;PFV;3
-swi	V;HAB;2
-ʔa	V;PROG;2
-jkwiʔn	V;PROG;2
-ja / ji	V;PFV;3
-jkuʔn	V;PROSP;2
-snyi	V;PROSP;3
-jnyi	V;HAB;3
-ʔni	V;PROG;1
-laʔ	V;HAB;2
-jʔin	V;HAB;3
-tkwi	V;PFV;1
-tyka	V;PROSP;1
-xu	V;PFV;3
-tyi	V;PROSP;1
-kita	V;PFV;1
-tykuʔn	V;PROSP;3
-kitzi	V;HAB;3
-ja / ji	V;HAB;2
-xka	V;PFV;1
-xnaʔ	V;PFV;2
-xtya	V;PROG;3
-xtya	V;PROSP;3
-ni	V;PFV;2
-xki	V;PFV;3
-xti	V;HAB;3
-jwiʔ	V;HAB;2
-xtiʔ	V;HAB;2
-xti	V;PFV;2
-xten	V;HAB;1
-jki	V;HAB;1
-ʔyu	V;HAB;2
-jyu	V;PFV;2
-jyʔan	V;PFV;1
-a	V;PFV;1
-jkwan	V;PROSP;2
-xtyi	V;PROG;1
-kila	V;PROG;2
-siʔn	V;HAB;1
-jkwa	V;PROSP;1
-ti	V;PROG;2
-slu	V;PROSP;1
-ne	V;PROG;3
-jlyaʔ	V;PFV;1
-sʔyu	V;HAB;2
-kinu	V;PROG;3
-sʔya	V;PFV;1
-jkwiʔn	V;PFV;3
-aʔ	V;PFV;1
-tlyu	V;PFV;2
-kilyu	V;PROSP;2
-ja	V;PFV;2
-so:ʔ	V;PROSP;2
-tykuʔn	V;PROG;3
-xkwan	V;HAB;3
-xkuʔ	V;PROG;1
-xʔwa	V;PROSP;1
-ta	V;HAB;3
-tʔen	V;HAB;2
-sna	V;HAB;3
-skwan	V;HAB;1
-tyʔo	V;HAB;3
-ʔa	V;PROG;2
-la	V;PFV;3
-ja / ji	V;HAB;3
-xnu	V;PROSP;2
-sʔwi	V;PROSP;1
-seʔ	V;HAB;3
-skaʔn	V;HAB;2
-ne:	V;PFV;3
-kya	V;PROSP;2
-chu	V;PFV;1
-ʔni	V;HAB;2
-tzen	V;PROG;1
-kin	V;PROSP;3
-yaʔ	V;HAB;1
-tzi	V;HAB;3
-kinu	V;HAB;3
-jya	V;HAB;3
-xki	V;PFV;1
-nʔa	V;HAB;1
-slyaʔ	V;HAB;1
-ta	V;PFV;2
-sʔyu	V;HAB;1
-xjaʔ	V;PFV;3
-sweʔn	V;HAB;1
-loʔ	V;PFV;2
-skwa	V;HAB;2
-tkwiʔ	V;PFV;3
-ʔwe	V;HAB;2
-tiʔ	V;PFV;2
-xnu	V;PFV;2
-tykun	V;PFV;1
-ʔni	V;PROSP;2
-ku	V;PROSP;1
-xoʔ	V;PFV;2
-kinu	V;PROSP;3
-sʔyu	V;HAB;3
-tjin	V;HAB;3
-nʔa	V;PFV;2
-taʔ	V;PROSP;2
-sʔna	V;PROSP;3
-ʔo	V;HAB;3
-sweʔn	V;PROSP;2
-xjaʔ	V;HAB;1
-tzjin	V;HAB;3
-lyu	V;PFV;1
-sʔwe	V;PROG;2
-jʔin	V;HAB;2
-tkin	V;PFV;2
-tzu	V;PFV;1
-xʔya	V;PFV;2
-kiten	V;HAB;2
-tiyu	V;PFV;3
-aʔ	V;PFV;3
-skwin	V;HAB;1
-skwen	V;PROSP;2
-joʔ	V;HAB;3
-xu	V;PROG;2
-ʔi	V;HAB;3
-kitzi	V;PROG;1
-xyaʔ	V;PROSP;3
-na	V;PROG;3
-xna	V;PROSP;3
-tzi	V;PROSP;3
-xlyu	V;PROG;2
-sʔna	V;PFV;3
-aʔ	V;PROSP;2
-xnyi	V;PROG;3
-xen	V;PFV;2
-tyi	V;PROSP;3
-tya	V;PROG;1
-a	V;HAB;3
-tza	V;PROG;3
-ta	V;HAB;1
-jlyo	V;PROSP;3
-kila	V;HAB;3
-tyka	V;HAB;2
-sʔwe	V;PFV;2
-kinu	V;PFV;3
-ta	V;PROSP;2
-nya	V;PROSP;3
-loʔ	V;PROSP;3
-tjin	V;PROSP;3
-sna	V;HAB;2
-ne:	V;PROG;1
-tjin	V;PFV;3
-ʔo	V;HAB;2
-lu	V;HAB;2
-kinaʔ	V;PROSP;2
-xʔo	V;HAB;2
-lya	V;PROG;3
-sʔya	V;PROSP;2
-jkwa	V;PROG;1
-skwi	V;HAB;2
-xlyu	V;PROG;1
-jnyiʔ	V;PFV;2
-xtyu	V;HAB;2
-slu	V;PROSP;2
-tkwi	V;PROG;1
-tykwen	V;PFV;3
-tykwaʔ	V;HAB;3
-tykwa	V;PFV;1
-tzuʔ	V;PROSP;1
-kya	V;PROSP;3
-slaʔ	V;PROG;2
-ʔu	V;PROG;3
-xʔun	V;PROG;3
-xtya	V;PROSP;1
-taʔ	V;HAB;1
-ʔu	V;HAB;2
-xtiʔ	V;PROSP;3
-jkwen	V;PROG;2
-kya	V;HAB;1
-jnyiʔ	V;PFV;1
-sweʔn	V;PROSP;3
-yaʔ	V;PROSP;1
-ni	V;HAB;1
-tyʔo	V;PROG;3
-skwen	V;PROSP;1
-ʔyu	V;PROSP;3
-tiya	V;PFV;3
-tʔin	V;PROG;1
-kinaʔ	V;PROG;2
-na	V;PFV;3
-xyaʔ	V;PROSP;1
-xtya	V;HAB;1
-tyiʔn	V;PROG;1
-jya	V;PFV;3
-kya	V;PROSP;1
-tiyan	V;PROSP;2
-jlyaʔ	V;HAB;1
-sʔwi / tʔwi	V;PROSP;3
-sta	V;PROSP;1
-xtyu	V;PFV;2
-su	V;PROSP;3
-kitan	V;HAB;2
-ne	V;PROG;1
-na	V;PROG;2
-tza	V;HAB;3
-ʔwe	V;PROSP;1
-tykwa	V;PROG;3
-lyʔe / lʔe	V;PFV;1
-skaʔn	V;PROSP;1
-tywiʔ	V;PROG;1
-aʔ	V;HAB;1
-na	V;PFV;3
-jya	V;PROSP;2
-twe	V;PFV;2
-tykwen	V;PFV;1
-tyka	V;PROSP;1
-tkwa	V;PROSP;3
-tyka	V;PFV;1
-xtyi	V;HAB;2
-jywi	V;HAB;1
-jyʔan	V;PROSP;1
-xjaʔ	V;PROSP;2
-tiʔ	V;HAB;1
-xen	V;PROG;3
-lyʔe / lʔe	V;PROG;3
-skaʔn	V;HAB;3
-na	V;PFV;2
-tyi	V;PROG;3
-sʔna	V;PROSP;2
-tiyan	V;PROG;2
-sʔan	V;PFV;3
-sʔwi / tʔwi	V;PFV;3
-tiya	V;HAB;2
-tiʔun	V;PFV;3
-snyaʔ	V;PROSP;2
-tykwa	V;PFV;2
-seʔ	V;HAB;2
-tzen	V;HAB;1
-ʔni	V;HAB;3
-xna	V;PFV;3
-tyweʔn	V;PROSP;1
-sʔna	V;HAB;2
-slaʔ	V;PROSP;2
-skaʔn	V;PROG;2
-xkuʔ	V;HAB;2
-jnyiʔ	V;PROSP;2
-sʔi	V;PROG;1
-xlyu	V;PFV;2
-xkuʔn	V;HAB;1
-chaʔ	V;PROG;2
-ʔi	V;HAB;1
-xnu	V;PFV;1
-la	V;PROSP;2
-tzi	V;PROG;2
-tkin	V;PROG;1
-a	V;PFV;2
-tyʔwa	V;PFV;2
-siʔn	V;PROG;1
-la	V;PROG;2
-kitiʔ	V;PFV;2
-tjin	V;PFV;3
-jlyaʔ	V;PFV;2
-ʔo	V;PROG;3
-tyun	V;PROSP;3
-stan	V;PFV;1
-jkwan	V;PROSP;1
-taʔ	V;PROSP;3
-kinu	V;PROG;3
-xku	V;PFV;2
-styi	V;HAB;2
-taʔ	V;PROG;1
-xyaʔ	V;HAB;3
-tiʔ	V;PROSP;1
-jnyi	V;PFV;1
-jki	V;PROG;2
-kinu	V;PFV;1
-ti	V;PFV;3
-ʔyu	V;PFV;3
-tza	V;PROG;3
-la	V;PROSP;3
-tyka	V;PROG;3
-jwi	V;HAB;2
-tʔin	V;PROSP;3
-kita	V;HAB;3
-kitzaʔ	V;PROSP;3
-slyaʔ	V;PROSP;1
-xtiʔ	V;PFV;2
-chuʔ	V;PROG;2
-jwin	V;PROSP;3
-la	V;PROSP;1
-xyuʔn	V;PFV;2
-ji	V;PROSP;3
-kitiʔ	V;PROG;2
-kine	V;PROG;1
-snyaʔ	V;PFV;2
-xta	V;PROG;2
-sweʔn	V;PROSP;2
-xnu	V;HAB;1
-xnya	V;HAB;3
-na	V;PROG;1
-tkwa	V;PFV;3
-sʔyu	V;PFV;3
-xti	V;PFV;1
-tziʔ	V;HAB;2
-sʔyu	V;PFV;1
-kilu	V;HAB;3
-kisa	V;PFV;2
-tzaʔ	V;HAB;3
-snyaʔ	V;PFV;3
-kisa	V;PFV;3
-slu	V;PFV;2
-xtyu	V;PFV;1
-styi	V;PROSP;2
-lya	V;PFV;1
-sna	V;PROSP;1
-sne	V;PFV;2
-chuʔ	V;PROSP;3
-ʔwe	V;PROSP;2
-slaʔ	V;PFV;1
-tiʔun	V;PROSP;1
-tykwan	V;PFV;3
-kyoʔ	V;HAB;2
-tywiʔ	V;HAB;1
-tykwan	V;PFV;2
-chaʔ	V;HAB;3
-nya	V;PFV;1
-we	V;PROSP;3
-ʔya	V;HAB;3
-stun	V;PFV;1
-kin	V;HAB;1
-tkwiʔ	V;HAB;1
-sne	V;PROG;2
-tza	V;PROG;3
-tykuʔn	V;PFV;3
-snyi	V;PROG;3
-laʔ	V;PFV;3
-xʔun	V;HAB;3
-skwin	V;PFV;1
-ka	V;PROG;3
-tya	V;HAB;1
-xoʔ	V;PROSP;2
-lyu	V;PFV;2
-tjin	V;PROG;1
-xʔya	V;PROG;1
-ne:	V;PROSP;3
-jwi	V;HAB;3
-jnya	V;HAB;3
-jkwa	V;PROSP;3
-laʔ	V;HAB;3
-tywi	V;HAB;1
-ka	V;PFV;3
-snyi	V;PROG;1
-na	V;PROSP;1
-kila	V;PROSP;3
-tyiʔ	V;HAB;2
-ʔya	V;PFV;1
-ʔni	V;PFV;3
-tʔa	V;PROG;2
-swi	V;PROSP;3
-xne	V;PROSP;2
-tywi	V;PROG;1
-tyʔwi	V;PROSP;3
-stan	V;PROG;2
-lyʔe / lʔe	V;HAB;2
-kitzaʔ	V;PFV;3
-ʔi	V;PROG;3
-siʔn	V;PFV;1
-ja	V;PROG;1
-xkuʔn	V;PROG;1
-kija	V;HAB;3
-sʔi	V;PROSP;3
-kiʔu	V;PROSP;2
-sʔwa	V;PROSP;1
-kitiʔ	V;PROG;3
-tyiʔn	V;PROSP;2
-ten	V;PFV;1
-saʔ	V;PROSP;1
-wen	V;PROSP;1
-tyiʔ	V;PFV;3
-xkwan	V;HAB;1
-tya	V;PROSP;2
-tʔo	V;PROSP;2
-tuʔ	V;PROSP;2
-tykwan	V;HAB;3
-lu	V;HAB;1
-tykuʔn	V;PROG;1
-tyka	V;PFV;2
-jlya	V;HAB;2
-tʔen	V;PROG;3
-xʔyu	V;PROSP;3
-kisa	V;PROSP;2
-sʔwi	V;PROSP;2
-o	V;PFV;3
-kisa	V;HAB;2
-lu	V;PROG;1
-xla	V;PROG;3
-jkwa	V;PFV;3
-skwen	V;HAB;2
-ta	V;PFV;1
-nya	V;PROSP;1
-joʔ	V;HAB;2
-tjin	V;HAB;2
-skwan	V;PROG;1
+tykwa	nwtykwa³ᐟ	V;PFV;3
+xu	nxu³ᐟ	V;HAB;2
+sweʔn	nsweʔn²⁴	V;HAB;3
+xtyu	nxtyu¹²	V;HAB;3
+stun	nstun²	V;PROG;3
+na	kwna²¹	V;PROSP;3
+xta	nxta¹	V;HAB;3
+snyaʔ	nsnyaʔ¹	V;PROG;3
+xka	nxka⁴³	V;PROG;1
+skwen	nskwen¹	V;PROG;2
+xjaʔ	nwxjaʔ¹	V;PFV;2
+kilyu	nkilyu²	V;HAB;2
+jkwi	jykwi²¹	V;PROSP;3
+xku	xku³ᐟ	V;PROSP;2
+laʔ	kilaʔ²	V;PROSP;2
+tun	nwtun²	V;PFV;2
+xkuʔn	xkuʔn³ᐟ	V;PROSP;2
+snyi	nxnyi³	V;HAB;3
+tyweʔn	ntyweʔn³ᐟ	V;PROG;3
+tyweʔn	ntyweʔn²⁴	V;HAB;3
+tza	ncha³ᐟ	V;HAB;2
+tkwiʔ	tkwiʔ²¹	V;PROSP;3
+ta	nta¹	V;PROG;3
+la	ntla⁴³	V;HAB;1
+kitzaʔ	kitzaʔ⁴³	V;PROSP;1
+ʔni	nwʔni³	V;PFV;1
+skwa	nwskwa⁴³	V;PFV;1
+tyiʔ	kwtyiʔ³	V;PROSP;1
+xla	nxla³ᐟ	V;HAB;3
+jkwaʔn	njkwaʔn²	V;PROG;1
+sun	nwsun¹	V;PFV;3
+nʔa	nyʔan²⁴	V;PROSP;3
+tzaʔ	nkitzaʔ¹	V;PROG;2
+kwen	skwen²⁴	V;PROSP;3
+xʔya	xʔya³	V;PROSP;1
+xla	nwxla³ᐟ	V;PFV;1
+xka	nxka¹⁴	V;HAB;3
+tzaʔ	kwtzaʔ/ktzaʔ³ᐟ	V;PROSP;2
+nya	nwnya³ᐟ	V;PFV;2
+kilyu	nkwlyu¹²	V;PFV;3
+yjwi	nyjwi²	V;PROG;1
+sʔyu	nwsʔyu³ᐟ	V;PFV;2
+tyweʔn	ntyweʔn⁴³	V;HAB;1
+jkwa	njkwa¹	V;PROG;2
+ten	nwten:¹²	V;PFV;3
+ji	nkwji³	V;PFV;1
+tuʔ	ntuʔ²	V;PROG;1
+jyu	kwjyu³ᐟ	V;PROSP;2
+xnaʔ	xnaʔ³ᐟ	V;PROSP;2
+sʔan	nxʔan³	V;HAB;3
+taʔ	nttyaʔ²⁴	V;HAB;3
+jki	jyki²¹	V;PROSP;3
+tyʔwe	ntyʔwe¹⁴	V;PROG;3
+ʔna	nkiʔna³ᐟ	V;HAB;2
+ja / ji	kja³	V;PROSP;3
+xkuʔ	xkuʔ¹	V;PROSP;2
+ʔo	ntiʔo³ᐟ	V;HAB;2
+kitzi	nkitzi²³	V;PFV;3
+tykwa	ntykwa¹	V;HAB;2
+kya	nkya/nkiʔan³ᐟ	V;PROG;2
+xlyu	xlyu¹²	V;PROSP;3
+jkwa	jkwa³ᐟ	V;PROSP;2
+lu	ntlu⁴³	V;HAB;3
+laʔ	nkilaʔ¹²	V;HAB;1
+tkwa	ntkwa³ᐟ	V;HAB;2
+tkwiʔ	ntykwiʔ³ᐟ	V;PROG;2
+skaʔn	nskaʔn⁴³	V;PROG;1
+tlyu	ntlyu³ᐟ	V;PROG;2
+tyʔwi	ntyʔwi³ᐟ	V;PROG;2
+kilyu	nkilyu²	V;PROG;2
+xta	nxta²¹	V;PROG;1
+kyoʔ	kyoʔ¹²	V;PROSP;3
+ten	sten⁴³	V;PROSP;1
+xʔu	nxʔu¹	V;HAB;2
+tyka	tyka²³	V;PROSP;3
+kitzi	kitzi²³	V;PROSP;1
+tun	nwtun¹²	V;PFV;3
+xyaʔ	nwxyaʔ²³	V;PFV;1
+jkaʔ	nwjkaʔ³	V;PFV;1
+sna	nwsna¹	V;PFV;2
+xʔyu	nxʔyu¹	V;HAB;2
+sna	nsna³ᐟ	V;PROG;3
+tziʔ	kwtziʔ³ᐟ	V;PROSP;2
+ten	sten³ᐟ	V;PROSP;2
+xnyi	nwxnyi²¹	V;PFV;3
+snyaʔ	nwsnyaʔ³	V;PFV;1
+sʔi	nxʔi⁴³	V;HAB;1
+jaʔ	ntijaʔ³ᐟ	V;HAB;2
+ten	yten⁴³	V;PFV;1
+xyaʔ	xyaʔ¹²	V;PROSP;3
+chaʔ	kwchaʔ³ᐟ	V;PROSP;2
+xkwan	nxkwan²¹	V;PROG;1
+styi	nwstyi³	V;PFV;1
+kun	ntgun⁴³	V;HAB;3
+kiʔu	nkiʔu¹²	V;PROG;3
+ta	kita²¹	V;PROSP;1
+jywi	jywi³ᐟ	V;PROSP;2
+lu	ntlyu⁴³	V;HAB;1
+xkuʔ	nxkuʔ¹	V;PROG;2
+skwen	nskwen²⁴	V;HAB;3
+na	kwna²¹	V;PROSP;1
+ja	ntlja³	V;HAB;1
+tun	ntun⁴³	V;PROG;1
+chuʔ	nwchuʔ¹	V;PFV;1
+kila	kila³ᐟ	V;PROSP;1
+tyun	nttyun⁴³	V;PROG;1
+kin	nwkkin⁴³	V;PFV;1
+o	ko³ᐟ	V;PROSP;2
+tiyu	nwtiyu¹	V;PFV;2
+skwin	nxkwin³ᐟ	V;HAB;2
+suʔ	nkisuʔ¹²	V;PROG;3
+skwan	nskwan³ᐟ	V;PROG;2
+tʔwa	ntyʔwa²¹	V;HAB;1
+xʔwa	nwxʔwa¹²	V;PFV;1
+tya	ntya³ᐟ	V;HAB;2
+xnu	nxnu³ᐟ	V;PROG;2
+ten	te:n²⁴	V;PROSP;3
+tjin	ntjin⁴³	V;HAB;1
+xʔyu	nwxʔyu¹	V;PFV;2
+xki	xki²¹	V;PROSP;1
+taʔ	nkitaʔ³ᐟ	V;PROG;3
+jkwi	jykwi³ᐟ	V;PROSP;2
+tyʔwi	nwtyʔwi²	V;PFV;1
+kitun	nkitun²	V;PROG;1
+ʔu	yʔu¹	V;PFV;2
+xtiʔ	nxtiʔ³ᐟ	V;PROG;2
+kilu	nkilu³ᐟ	V;PFV;2
+skwen	nskwen⁴³	V;HAB;1
+jkwiʔn	nwjkwiʔn²	V;PFV;2
+tyʔwi	yʔwi²¹	V;PFV;1
+kwen	ykwen¹	V;PFV;2
+tykwin	nwtykwin¹	V;PFV;3
+ni	kwni³ᐟ	V;PROSP;2
+kija	nkija²³	V;PFV;3
+xʔya	xʔya³ᐟ	V;PROSP;2
+la	nkila³ᐟ	V;PROG;3
+tʔin	ntʔin²	V;PROG;3
+jywi	njywi³ᐟ	V;HAB;2
+ʔu	"lʔu ""vive""³ᐟ"	V;PROG;2
+nya	nkwnya²⁴	V;PFV;3
+xʔun	nxʔun³ᐟ	V;HAB;2
+sta	sta³ᐟ	V;PROSP;2
+ne	yne²	V;PFV;2
+tiyan	nwtiyan³ᐟ	V;PFV;2
+ta	ta⁴³	V;PROSP;3
+tzjin	tzjin³	V;PROSP;1
+jwiʔ	ntjwiʔ⁴³	V;PROG;1
+tuʔ	nwtuʔ⁴³	V;PFV;1
+xyuʔn	xyuʔn⁴³	V;PROSP;1
+jkaʔ	njkaʔ²	V;PROG;1
+lyu	nkilyu¹²	V;HAB;3
+xki	xki¹	V;PROSP;3
+xtyu	nxtyu²	V;PROG;2
+sʔwi	ntyʔwi³ᐟ	V;HAB;2
+tza	nttza³ᐟ	V;HAB;2
+xʔwa	nxʔwa¹²	V;PROG;1
+kinaʔ	nkinaʔ¹²	V;PROG;3
+tziʔ	nkwtziʔ⁴³	V;PFV;1
+skwi	nwskwi³ᐟ	V;PFV;2
+ʔna	nkiʔna³ᐟ	V;PROG;2
+la	nkwla:⁴³	V;PFV;1
+ʔo	yʔo¹	V;PFV;1
+jkwen	jkwen⁴³	V;PROSP;1
+skwa	nwskwa²¹	V;PFV;1
+joʔ	ntijoʔ³ᐟ	V;PROG;2
+kiten	nkiten⁴³	V;HAB;1
+laʔ	kwlaʔ³	V;PROSP;3
+so:ʔ	nxoʔ⁴³	V;HAB;1
+lu	nkilu¹	V;PROG;2
+tiʔ	nkitiʔ³ᐟ	V;PROG;2
+xnyi	nxnyi²¹	V;HAB;3
+tʔwa	tyʔwa²⁴	V;PROSP;3
+tjin	ntjin¹²	V;PROG;3
+kitan	nkitan³ᐟ	V;PROG;2
+skwa	xkwa³ᐟ	V;PROSP;2
+tzun	ntzun²⁴	V;HAB;3
+jwiʔ	yjwiʔ²³	V;PFV;3
+laʔ	kwlaʔ²¹	V;PROSP;1
+ta	nkita/ntta³ᐟ	V;PROG;2
+tykwan	ntygwan⁴³	V;PROG;1
+tkin	tkin⁴³	V;PROSP;1
+tyun	nwtyun¹²	V;PFV;3
+tykuʔn	nwtykuʔn⁴³	V;PFV;1
+sʔwe	sʔwe³ᐟ	V;PROSP;2
+ʔu	lʔu⁴³	V;PROG;1
+xʔu	nxʔu¹²	V;PROG;1
+tzun	kwtzun³ᐟ	V;PROSP;2
+skwaʔ	xkwaʔ³ᐟ	V;PROSP;2
+tziʔ	nkwtziʔ/ytziʔ¹	V;PFV;2
+nya	nya¹⁴	V;PROG;3
+ʔo	nkwʔo¹	V;PFV;3
+jkwiʔn	njykwiʔn³ᐟ	V;HAB;2
+jkwan	jykwan⁴³	V;PROSP;1
+xʔwa	nxʔwa²	V;PROG;2
+slu	slu²⁴	V;PROSP;3
+ta	kita³	V;PROSP;1
+ʔa	kwʔa⁴³	V;PROSP;1
+stun	xtun³	V;PROSP;3
+jkaʔ	njykaʔ²	V;HAB;1
+la	ntla³ᐟ	V;HAB;2
+xta	nwxta¹	V;PFV;3
+swi	nswi³ᐟ	V;HAB;2
+ʔa	ntlʔa¹	V;PROG;2
+jkwiʔn	njkwiʔn²	V;PROG;2
+ja / ji	nkjwi¹²	V;PFV;3
+jkuʔn	jkuʔn³ᐟ	V;PROSP;2
+snyi	xnyi³	V;PROSP;3
+jnyi	jnyi³	V;HAB;3
+ʔni	nkiʔni²	V;PROG;1
+laʔ	nkilaʔ²	V;HAB;2
+jʔin	ntjʔin²¹	V;HAB;3
+tkwi	nwtkwi, nkkwi²¹	V;PFV;1
+tyka	tyka⁴³	V;PROSP;1
+xu	nwxu¹	V;PFV;3
+tyi	tyi³	V;PROSP;1
+kita	nkita²	V;PFV;1
+tykuʔn	tykuʔn²⁴	V;PROSP;3
+kitzi	nkitzi¹²	V;HAB;3
+ja / ji	ntji³ᐟ	V;HAB;2
+xka	nwxka⁴³	V;PFV;1
+xnaʔ	nwxnaʔ³ᐟ	V;PFV;2
+xtya	nxtya¹	V;PROG;3
+xtya	xtya¹	V;PROSP;3
+ni	nwni³ᐟ	V;PFV;2
+xki	nwxki¹	V;PFV;3
+xti	nxti¹	V;HAB;3
+jwiʔ	ntyjwiʔ³ᐟ	V;HAB;2
+xtiʔ	nxtiʔ³ᐟ	V;HAB;2
+xti	nwxti³ᐟ	V;PFV;2
+xten	nxten⁴³	V;HAB;1
+jki	njki²¹	V;HAB;1
+ʔyu	ntiʔyu³ᐟ	V;HAB;2
+jyu	nkwjyu³ᐟ	V;PFV;2
+jyʔan	nwjyʔan⁴³	V;PFV;1
+a	ya²	V;PFV;1
+jkwan	jykwan³ᐟ	V;PROSP;2
+xtyi	nxtyi²¹	V;PROG;1
+kila	nkila²	V;PROG;2
+siʔn	nsiʔn/nxiʔn³	V;HAB;1
+jkwa	jkwa⁴³	V;PROSP;1
+ti	nkiti³ᐟ	V;PROG;2
+slu	slu⁴³	V;PROSP;1
+ne	nkine²	V;PROG;3
+jlyaʔ	nkwjlyaʔ³	V;PFV;1
+sʔyu	nsʔyu³ᐟ	V;HAB;2
+kinu	nkinu²	V;PROG;3
+sʔya	nwsʔya³	V;PFV;1
+jkwiʔn	nwjkwiʔn¹²	V;PFV;3
+aʔ	nwkyaʔ²³	V;PFV;1
+tlyu	nwtlyu³ᐟ	V;PFV;2
+kilyu	kilyu²	V;PROSP;2
+ja	nkwja³ᐟ	V;PFV;2
+so:ʔ	xoʔ¹	V;PROSP;2
+tykuʔn	ntykuʔn¹⁴	V;PROG;3
+xkwan	nxkwan¹	V;HAB;3
+xkuʔ	nxkuʔ¹²	V;PROG;1
+xʔwa	xʔwa¹²	V;PROSP;1
+ta	nttya/ntta³	V;HAB;3
+tʔen	ntyʔen³ᐟ	V;HAB;2
+sna	nxna²⁴	V;HAB;3
+skwan	nxkwan³	V;HAB;1
+tyʔo	ntyʔo¹	V;HAB;3
+ʔa	ntlʔa³ᐟ	V;PROG;2
+la	yla³ᐟ	V;PFV;3
+ja / ji	ntji³	V;HAB;3
+xnu	xnu³ᐟ	V;PROSP;2
+sʔwi	xʔwi²¹	V;PROSP;1
+seʔ	nkiseʔ³	V;HAB;3
+skaʔn	nskaʔn³ᐟ	V;HAB;2
+ne:	nwne:²⁴	V;PFV;3
+kya	kya/kiʔan³ᐟ	V;PROSP;2
+chu	nwchu³	V;PFV;1
+ʔni	ʔni³ᐟ	V;HAB;2
+tzen	nkitzen²	V;PROG;1
+kin	skin²⁴	V;PROSP;3
+yaʔ	ntiyaʔ⁴³	V;HAB;1
+tzi	nkitzi²³	V;HAB;3
+kinu	nkinu¹	V;HAB;3
+jya	ntjya²⁴	V;HAB;3
+xki	nwxki²¹	V;PFV;1
+nʔa	ntyʔan⁴³	V;HAB;1
+slyaʔ	nxlyaʔ⁴³	V;HAB;1
+ta	nwta³ᐟ	V;PFV;2
+sʔyu	nsʔyu³	V;HAB;1
+xjaʔ	nwxjaʔ³ᐟ	V;PFV;3
+sweʔn	nsweʔn⁴³	V;HAB;1
+loʔ	nkwlo³ᐟ	V;PFV;2
+skwa	nskwa³ᐟ	V;HAB;2
+tkwiʔ	ykwiʔ³	V;PFV;3
+ʔwe	ntʔwe³ᐟ	V;HAB;2
+tiʔ	ytiʔ³ᐟ	V;PFV;2
+xnu	nwxnu³ᐟ	V;PFV;2
+tykun	nwtykun⁴³	V;PFV;1
+ʔni	kwʔni³ᐟ	V;PROSP;2
+ku	ku²¹	V;PROSP;1
+xoʔ	nwxoʔ²	V;PFV;2
+kinu	kinu¹	V;PROSP;3
+sʔyu	nsʔyu²¹	V;HAB;3
+tjin	ntyjin³	V;HAB;3
+nʔa	lʔan²	V;PFV;2
+taʔ	ktaʔ³ᐟ	V;PROSP;2
+sʔna	xʔna²⁴	V;PROSP;3
+ʔo	lʔo/ntlʔo²¹	V;HAB;3
+sweʔn	sweʔn³ᐟ	V;PROSP;2
+xjaʔ	nxjaʔ³ᐟ	V;HAB;1
+tzjin	ntzjin²¹	V;HAB;3
+lyu	nkwlyu¹²	V;PFV;1
+sʔwe	nsʔwe³ᐟ	V;PROG;2
+jʔin	ntjʔin³ᐟ	V;HAB;2
+tkin	nwtkin¹	V;PFV;2
+tzu	ytzu¹²	V;PFV;1
+xʔya	nwxʔya³ᐟ	V;PFV;2
+kiten	nkiten¹	V;HAB;2
+tiyu	nwtiyu¹²	V;PFV;3
+aʔ	nwkyaʔ²³	V;PFV;3
+skwin	nxkwin²	V;HAB;1
+skwen	skwen³ᐟ	V;PROSP;2
+joʔ	ntijoʔ³	V;HAB;3
+xu	nxu³ᐟ	V;PROG;2
+ʔi	ntʔi²¹	V;HAB;3
+kitzi	nkitzi¹²	V;PROG;1
+xyaʔ	xyaʔ²³	V;PROSP;3
+na	na¹	V;PROG;3
+xna	xna³ᐟ	V;PROSP;3
+tzi	kitzi²³	V;PROSP;3
+xlyu	nxlyu²	V;PROG;2
+sʔna	nwsʔna¹	V;PFV;3
+aʔ	tzaʔ³ᐟ	V;PROSP;2
+xnyi	nxnyi¹	V;PROG;3
+xen	nkwxen¹	V;PFV;2
+tyi	kityi³	V;PROSP;3
+tya	ntya²	V;PROG;1
+a	ntyʔan³	V;HAB;3
+tza	nkitza²	V;PROG;3
+ta	nttya/ntta²	V;HAB;1
+jlyo	jlyo²	V;PROSP;3
+kila	nkila²⁴	V;HAB;3
+tyka	ntyka³ᐟ	V;HAB;2
+sʔwe	nwsʔwe³ᐟ	V;PFV;2
+kinu	nkinu²	V;PFV;3
+ta	ta³ᐟ	V;PROSP;2
+nya	kinya²⁴	V;PROSP;3
+loʔ	kwlo²⁴	V;PROSP;3
+tjin	tyjin³	V;PROSP;3
+sna	nxna³ᐟ	V;HAB;2
+ne:	ne:⁴³	V;PROG;1
+tjin	nwtjin³	V;PFV;3
+ʔo	lʔo/ntlʔo³ᐟ	V;HAB;2
+lu	ntlyu³ᐟ	V;HAB;2
+kinaʔ	kinaʔ²	V;PROSP;2
+xʔo	nxʔo¹	V;HAB;2
+lya	nkilya¹⁴	V;PROG;3
+sʔya	xʔya³ᐟ	V;PROSP;2
+jkwa	njkwa⁴³	V;PROG;1
+skwi	nxkwi³ᐟ	V;HAB;2
+xlyu	nxlyu²	V;PROG;1
+jnyiʔ	nwjnyiʔ¹	V;PFV;2
+xtyu	nxtyu²	V;HAB;2
+slu	slu³ᐟ	V;PROSP;2
+tkwi	ntkwi²	V;PROG;1
+tykwen	ykwen³ᐟ	V;PFV;3
+tykwaʔ	ntykwaʔ³	V;HAB;3
+tykwa	nwtykwa³ᐟ	V;PFV;1
+tzuʔ	kwtzuʔ/kitzuʔ⁴³	V;PROSP;1
+kya	kya/kiʔan²⁴	V;PROSP;3
+slaʔ	nslaʔ³ᐟ	V;PROG;2
+ʔu	"lʔu ""vive""²⁴"	V;PROG;3
+xʔun	nxʔun¹	V;PROG;3
+xtya	xtya⁴³	V;PROSP;1
+taʔ	ntyaʔ⁴³	V;HAB;1
+ʔu	nkiʔu³ᐟ	V;HAB;2
+xtiʔ	xtiʔ¹⁴	V;PROSP;3
+jkwen	ntykwen/njkwen¹	V;PROG;2
+kya	nkya/nkiʔan⁴³	V;HAB;1
+jnyiʔ	nwjnyiʔ⁴³	V;PFV;1
+sweʔn	sweʔn²⁴	V;PROSP;3
+yaʔ	kyaʔ⁴³	V;PROSP;1
+ni	ni³	V;HAB;1
+tyʔo	ntyʔo¹	V;PROG;3
+skwen	skwen⁴³	V;PROSP;1
+ʔyu	kiʔyu²⁴	V;PROSP;3
+tiya	nwtiya²	V;PFV;3
+tʔin	ntʔin²	V;PROG;1
+kinaʔ	nkinaʔ²	V;PROG;2
+na	nkwna/nwna¹	V;PFV;3
+xyaʔ	xyaʔ¹²	V;PROSP;1
+xtya	nxtya⁴³	V;HAB;1
+tyiʔn	nttyiʔn⁴³	V;PROG;1
+jya	nkwjya²³	V;PFV;3
+kya	kya/kiʔan⁴³	V;PROSP;1
+tiyan	tiyan³ᐟ	V;PROSP;2
+jlyaʔ	njlyaʔ³	V;HAB;1
+sʔwi / tʔwi	xʔwi³	V;PROSP;3
+sta	sta³	V;PROSP;1
+xtyu	nwxtyu¹	V;PFV;2
+su	kwsu/ksu³	V;PROSP;3
+kitan	nkitan³ᐟ	V;HAB;2
+ne	nkine²	V;PROG;1
+na	nkina¹	V;PROG;2
+tza	ncha³	V;HAB;3
+ʔwe	kʔwe⁴³	V;PROSP;1
+tykwa	ntykwa³ᐟ	V;PROG;3
+lyʔe / lʔe	nkwʔe⁴³	V;PFV;1
+skaʔn	skaʔn⁴³	V;PROSP;1
+tywiʔ	ntywiʔ³ᐟ	V;PROG;1
+aʔ	ntiyaʔ⁴³	V;HAB;1
+na	yna¹²	V;PFV;3
+jya	kjya³ᐟ	V;PROSP;2
+twe	nwtwe³ᐟ	V;PFV;2
+tykwen	ykwen⁴³	V;PFV;1
+tyka	tyka²³	V;PROSP;1
+tkwa	tkwa²⁴	V;PROSP;3
+tyka	nwtyka⁴³	V;PFV;1
+xtyi	nxtyi³ᐟ	V;HAB;2
+jywi	njywi³	V;HAB;1
+jyʔan	jyʔan⁴³	V;PROSP;1
+xjaʔ	xjaʔ¹	V;PROSP;2
+tiʔ	nttyiʔ²¹	V;HAB;1
+xen	nkixen¹²	V;PROG;3
+lyʔe / lʔe	lyʔe¹⁴	V;PROG;3
+skaʔn	nskaʔn²⁴	V;HAB;3
+na	yna¹	V;PFV;2
+tyi	nkityi²	V;PROG;3
+sʔna	sʔna³ᐟ	V;PROSP;2
+tiyan	ntiyan³ᐟ	V;PROG;2
+sʔan	nwsʔan³	V;PFV;3
+sʔwi / tʔwi	yʔwi³	V;PFV;3
+tiya	ntiya³ᐟ	V;HAB;2
+tiʔun	nkwʔun³	V;PFV;3
+snyaʔ	xnyaʔ³ᐟ	V;PROSP;2
+tykwa	nwtykwa³ᐟ	V;PFV;2
+seʔ	nkiseʔ³ᐟ	V;HAB;2
+tzen	nttzen³	V;HAB;1
+ʔni	nkiʔni³	V;HAB;3
+xna	nwxna³ᐟ	V;PFV;3
+tyweʔn	tyweʔn⁴³	V;PROSP;1
+sʔna	nsʔna³ᐟ	V;HAB;2
+slaʔ	slaʔ³ᐟ	V;PROSP;2
+skaʔn	nskaʔn¹	V;PROG;2
+xkuʔ	nxkuʔ¹	V;HAB;2
+jnyiʔ	jnyiʔ³ᐟ	V;PROSP;2
+sʔi	nsʔi⁴³	V;PROG;1
+xlyu	nwxlyu²	V;PFV;2
+xkuʔn	nxkuʔn⁴³	V;HAB;1
+chaʔ	nchaʔ²	V;PROG;2
+ʔi	ntʔi³	V;HAB;1
+xnu	nwxnu²¹	V;PFV;1
+la	kla³ᐟ	V;PROSP;2
+tzi	nkitzi¹	V;PROG;2
+tkin	ntkin⁴³	V;PROG;1
+a	ya²	V;PFV;2
+tyʔwa	nwtyʔwa²	V;PFV;2
+siʔn	nsiʔn²	V;PROG;1
+la	ntla²	V;PROG;2
+kitiʔ	nkitiʔ³ᐟ	V;PFV;2
+tjin	nwtjin²³	V;PFV;3
+jlyaʔ	nkwjlyaʔ³ᐟ	V;PFV;2
+ʔo	ntiʔo¹²	V;PROG;3
+tyun	tyun:¹²	V;PROSP;3
+stan	nwstan⁴³	V;PFV;1
+jkwan	jkwan⁴³	V;PROSP;1
+taʔ	ktaʔ²⁴	V;PROSP;3
+kinu	nkinu¹	V;PROG;3
+xku	nwxku³ᐟ	V;PFV;2
+styi	nxtyi³ᐟ	V;HAB;2
+taʔ	ntaʔ¹²	V;PROG;1
+xyaʔ	nxyaʔ²³	V;HAB;3
+tiʔ	ktiʔ (not kitiʔ!)²¹	V;PROSP;1
+jnyi	nwjnyi³	V;PFV;1
+jki	njki³ᐟ	V;PROG;2
+kinu	nkinu²¹	V;PFV;1
+ti	nkwti¹	V;PFV;3
+ʔyu	nkwʔyu³ᐟ	V;PFV;3
+tza	ndza²	V;PROG;3
+la	kla³	V;PROSP;3
+tyka	ntyka¹⁴	V;PROG;3
+jwi	ntyjwi³ᐟ	V;HAB;2
+tʔin	tʔin²¹	V;PROSP;3
+kita	nttya³	V;HAB;3
+kitzaʔ	kitzaʔ²⁴	V;PROSP;3
+slyaʔ	xlyaʔ⁴³	V;PROSP;1
+xtiʔ	nwxtiʔ³ᐟ	V;PFV;2
+chuʔ	nchuʔ³ᐟ	V;PROG;2
+jwin	jywin/kwneʔ³	V;PROSP;3
+la	la⁴³	V;PROSP;1
+xyuʔn	nwxyuʔn³ᐟ	V;PFV;2
+ji	kwji²¹	V;PROSP;3
+kitiʔ	nkitiʔ³ᐟ	V;PROG;2
+kine	nkine⁴³	V;PROG;1
+snyaʔ	nwsnyaʔ³ᐟ	V;PFV;2
+xta	nxta³ᐟ	V;PROG;2
+sweʔn	xweʔn³ᐟ	V;PROSP;2
+xnu	nxnu²¹	V;HAB;1
+xnya	nxnyaʔ¹⁴	V;HAB;3
+na	na:²	V;PROG;1
+tkwa	nwtkwa³ᐟ	V;PFV;3
+sʔyu	nwsʔyu¹	V;PFV;3
+xti	nwxti²¹	V;PFV;1
+tziʔ	nkitziʔ³ᐟ	V;HAB;2
+sʔyu	nwsʔyu³	V;PFV;1
+kilu	nkilu²⁴	V;HAB;3
+kisa	nkwsa³ᐟ	V;PFV;2
+tzaʔ	ntzaʔ²⁴	V;HAB;3
+snyaʔ	nwsnyaʔ¹	V;PFV;3
+kisa	nkwsa³	V;PFV;3
+slu	nwslu³ᐟ	V;PFV;2
+xtyu	nwxtyu¹²	V;PFV;1
+styi	xtyi/styi³ᐟ	V;PROSP;2
+lya	nkwlya⁴³	V;PFV;1
+sna	xna⁴³	V;PROSP;1
+sne	nwsne³ᐟ	V;PFV;2
+chuʔ	kichuʔ³	V;PROSP;3
+ʔwe	kʔwe³ᐟ	V;PROSP;2
+slaʔ	nwslaʔ³	V;PFV;1
+tiʔun	tyʔun³	V;PROSP;1
+tykwan	nwtygwan¹²	V;PFV;3
+kyoʔ	nkyoʔ²	V;HAB;2
+tywiʔ	ntywiʔ⁴³	V;HAB;1
+tykwan	nwtygwan¹	V;PFV;2
+chaʔ	nchaʔ²⁴	V;HAB;3
+nya	nwnya⁴³	V;PFV;1
+we	kwe³	V;PROSP;3
+ʔya	nkiʔya²⁴	V;HAB;3
+stun	nwstun³	V;PFV;1
+kin	ntkin⁴³	V;HAB;1
+tkwiʔ	ntkwiʔ²¹	V;HAB;1
+sne	nsne³ᐟ	V;PROG;2
+tza	ndza¹	V;PROG;3
+tykuʔn	nwtykuʔn²⁴	V;PFV;3
+snyi	nsnyi²	V;PROG;3
+laʔ	nkwlaʔ¹²	V;PFV;3
+xʔun	nxʔun¹	V;HAB;3
+skwin	nwskwin²	V;PFV;1
+ka	ntyka¹²	V;PROG;3
+tya	ntya³	V;HAB;1
+xoʔ	xo:ʔ²	V;PROSP;2
+lyu	nkwlyu²	V;PFV;2
+tjin	ntjin²	V;PROG;1
+xʔya	nxʔya²¹	V;PROG;1
+ne:	nye:²⁴	V;PROSP;3
+jwi	ntjwi²⁴	V;HAB;3
+jnya	jnya²¹	V;HAB;3
+jkwa	jykwa²⁴	V;PROSP;3
+laʔ	nkilaʔ¹²	V;HAB;3
+tywi	ntywi³	V;HAB;1
+ka	nkwa²³	V;PFV;3
+snyi	nsnyi²	V;PROG;1
+na	nya:³	V;PROSP;1
+kila	kila³ᐟ	V;PROSP;3
+tyiʔ	nttyiʔ³ᐟ	V;HAB;2
+ʔya	nkwʔya⁴³	V;PFV;1
+ʔni	nwʔni³	V;PFV;3
+tʔa	ntʔa²	V;PROG;2
+swi	swi⁴³	V;PROSP;3
+xne	xne:³ᐟ	V;PROSP;2
+tywi	ntywi²¹	V;PROG;1
+tyʔwi	tyʔwi³	V;PROSP;3
+stan	nstan³ᐟ	V;PROG;2
+lyʔe / lʔe	nkwʔe³ᐟ	V;HAB;2
+kitzaʔ	nkitzaʔ³ᐟ	V;PFV;3
+ʔi	ntʔi¹	V;PROG;3
+siʔn	nwsiʔn³	V;PFV;1
+ja	ntlja²	V;PROG;1
+xkuʔn	nxkuʔn⁴³	V;PROG;1
+kija	nkija²³	V;HAB;3
+sʔi	xʔi²⁴	V;PROSP;3
+kiʔu	kiʔu¹	V;PROSP;2
+sʔwa	sʔwa⁴³	V;PROSP;1
+kitiʔ	nkitiʔ¹⁴	V;PROG;3
+tyiʔn	tyiʔn²	V;PROSP;2
+ten	nwtten⁴³	V;PFV;1
+saʔ	kwsa:ʔ⁴³	V;PROSP;1
+wen	kwen³	V;PROSP;1
+tyiʔ	nwttyiʔ¹	V;PFV;3
+xkwan	nxkwan⁴³	V;HAB;1
+tya	tya³ᐟ	V;PROSP;2
+tʔo	tyʔo³ᐟ	V;PROSP;2
+tuʔ	tyuʔ³ᐟ	V;PROSP;2
+tykwan	ntygwan¹²	V;HAB;3
+lu	ntlu³	V;HAB;1
+tykuʔn	ntykuʔn⁴³	V;PROG;1
+tyka	nwtyka¹	V;PFV;2
+jlya	njlya³ᐟ	V;HAB;2
+tʔen	ntʔen¹	V;PROG;3
+xʔyu	xʔyu¹²	V;PROSP;3
+kisa	kisa³ᐟ	V;PROSP;2
+sʔwi	xʔwi³ᐟ	V;PROSP;2
+o	yo:²³	V;PFV;3
+kisa	nkisa³ᐟ	V;HAB;2
+lu	nkilu¹²	V;PROG;1
+xla	nxla³ᐟ	V;PROG;3
+jkwa	nwjkwa²⁴	V;PFV;3
+skwen	nskwen³ᐟ	V;HAB;2
+ta	yta¹	V;PFV;1
+nya	kwnya⁴³	V;PROSP;1
+joʔ	ntijoʔ³ᐟ	V;HAB;2
+tjin	ntjin³ᐟ	V;HAB;2
+skwan	nskwan²	V;PROG;1
