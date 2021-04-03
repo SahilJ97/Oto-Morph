@@ -4,9 +4,6 @@ import torch
 from entmax import entmax15
 
 
-# can use https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
-
-
 class Decoder(torch.nn.Module):
     def __init__(self, embed_size, n_chars, dropout=None):
         super().__init__()
@@ -14,16 +11,12 @@ class Decoder(torch.nn.Module):
         self.lstm_cell = torch.nn.LSTMCell(n_chars, embed_size)
         self.char_attention = torch.nn.MultiheadAttention(embed_dim=embed_size, num_heads=1, dropout=dropout)
         self.tag_attention = torch.nn.MultiheadAttention(embed_dim=embed_size, num_heads=1, dropout=dropout)
-        self.attn_coefs = torch.tensor([0., 0.], requires_grad=True)  # balances char attention with tag attention
-        self.one = torch.tensor(1., requires_grad=False)
-        self.output_layer = torch.nn.Linear(embed_size, n_chars)
+        self.output_layer = torch.nn.Linear(embed_size*2, n_chars)
 
     def to(self, *args, **kwargs):
         self.lstm_cell = self.lstm_cell.to(*args, **kwargs)
         self.char_attention = self.char_attention.to(*args, **kwargs)
         self.tag_attention = self.tag_attention.to(*args, **kwargs)
-        self.attn_coefs = self.attn_coefs.to(*args, **kwargs)
-        self.one = self.one.to(*args, **kwargs)
         return super().to(*args, **kwargs)
 
     def forward(self, char_encoder_result, tag_encoder_result, true_output_seq=None):
@@ -44,14 +37,7 @@ class Decoder(torch.nn.Module):
             cell_output = torch.unsqueeze(h1, dim=0)
             char_attention, _ = self.char_attention(query=cell_output, key=char_encoding, value=char_encoding)
             tag_attention, _ = self.tag_attention(query=cell_output, key=tag_encoding, value=tag_encoding)
-            aggregated_attention = torch.stack([char_attention, tag_attention])
-            aggregated_attention = torch.einsum(
-                'a,abcd->abcd',
-                torch.softmax(self.attn_coefs, dim=-1),
-                aggregated_attention
-            )
-            aggregated_attention = torch.sum(aggregated_attention, dim=0)
-            aggregated_attention = torch.squeeze(aggregated_attention, dim=0)
+            aggregated_attention = torch.cat([char_attention, tag_attention], dim=-1).squeeze(0)
             output = self.output_layer(aggregated_attention)
             output = entmax15(output, dim=-1)
             return_sequence.append(output)
@@ -70,7 +56,7 @@ class RNN(torch.nn.Module):
             n_chars,
             n_tags,
             init_lang_embeds,
-            dropout=.2,
+            dropout=.3,
     ):
         super(RNN, self).__init__()
         self.lang_embeds = init_lang_embeds
