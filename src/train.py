@@ -44,7 +44,6 @@ def train():
             if batch_index % 50 == 0:
                 print(f"Epoch {epoch} iteration {batch_index}")
                 print(f"\tRunning loss: {running_correctness_loss / (batch_index + 1)}")
-            break  # remove
 
         # Validate
         print("Validating...")
