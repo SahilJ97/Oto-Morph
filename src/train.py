@@ -27,13 +27,20 @@ def train():
         for batch_index, batch in enumerate(train_loader):
             optimizer.zero_grad()
             input_dict, labels = batch
-            outputs = model(input_dict, labels=labels)  # use teacher forcing on train batches (labels != None)
+            outputs = model(input_dict, labels=labels)  # use teacher forcing
             _, label_indices = torch.max(labels, dim=-1)
             loss = torch.mean(
                 torch.stack([correctness_loss(outputs[i], label_indices[i]) for i in range(len(outputs))])
             )
-            running_correctness_loss += loss.item()
+            loss.retain_grad()
             loss.backward()
+            optimizer.step()
+            running_correctness_loss += loss.item()
+
+            """print("Param rundown:")
+            for param in model.parameters():
+                print(param.size())
+                print(param.grad is not None, param.requires_grad)"""
 
             # Print running losses every 20 batches
             if batch_index % 50 == 0:
@@ -50,7 +57,7 @@ if __name__ == "__main__":
 
     print("Loading model...")
     n_languages = len(list(train_set.language_to_index.keys()))
-    init_lang_embeds = torch.stack([torch.rand(4) for _ in range(n_languages)])
+    init_lang_embeds = [torch.rand(4) for _ in range(n_languages)]
     model = RNN(
         embed_size=args["embed_size"],
         n_chars=len(list(train_set.character_to_index.keys())),

@@ -99,5 +99,5 @@ class OtoMangueanDataset(Dataset):
 if __name__ == '__main__':
     dataset = OtoMangueanDataset(glob('../data/*.trn'))
     print(len(dataset))
-    test_datapoint, test_output = dataset[10000]
+    test_datapoint, test_output = dataset[1000]
     print(test_datapoint)
