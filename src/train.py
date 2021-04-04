@@ -22,6 +22,7 @@ def train():
     train_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=True, drop_last=True)
     dev_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=True, drop_last=True)
     for epoch in range(args["epochs"]):
+        model.train()  # train mode (use dropout)
         print(f"Beginning epoch {epoch}...")
         running_correctness_loss = 0.
         for batch_index, batch in enumerate(train_loader):
@@ -37,15 +38,33 @@ def train():
             optimizer.step()
             running_correctness_loss += loss.item()
 
-            """print("Param rundown:")
-            for param in model.parameters():
-                print(param.size())
-                print(param.grad is not None, param.requires_grad)"""
-
             # Print running losses every 20 batches
             if batch_index % 50 == 0:
                 print(f"Epoch {epoch} iteration {batch_index}")
                 print(f"\tRunning loss: {running_correctness_loss / (batch_index + 1)}")
+
+    # Validate
+    print("Validating...")
+    model.eval()  # eval mode (no dropout)
+    with torch.no_grad():
+        label_indices, outputs = [], []
+        for batch_index, batch in enumerate(dev_loader):
+            input_dict, labels = batch
+            outputs.append(model(input_dict))  # don't use teacher forcing
+            label_indices.append(torch.max(labels, dim=-1)[1])
+        label_indices = torch.cat(label_indices, dim=0)
+        outputs = torch.cat(outputs, dim=0)
+        label_indices_size = label_indices.size()
+        total_n_output_chars = label_indices_size[0] * label_indices_size[1]
+        label_indices = torch.reshape(label_indices, (total_n_output_chars,))
+        outputs = torch.reshape(outputs, (total_n_output_chars, -1))
+        print(label_indices.size(), outputs.size())
+        loss = correctness_loss(outputs, label_indices)
+        _, output_indices = torch.max(outputs, dim=-1)
+        accuracy = torch.sum(output_indices == label_indices) / total_n_output_chars
+        print(f"\tLoss: {loss}")
+        print(f"\tAccuracy: {accuracy}")
+
 
 
 if __name__ == "__main__":
