@@ -15,12 +15,14 @@ parser.add_argument('--embed_size', help='Encoder/decoder size', type=int, requi
 parser.add_argument('--epochs', type=int, required=True)
 parser.add_argument('--batch_size', type=int, required=True)
 parser.add_argument('--lr', help='Learning rate', type=float, required=True)
+parser.add_argument('--model_name', required=True)
 args = vars(parser.parse_args())
 
 
 def train():
     train_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=True, drop_last=True)
     dev_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=True, drop_last=True)
+    epoch_accuracies = []
     for epoch in range(args["epochs"]):
         model.train()  # train mode (use dropout)
         print(f"Beginning epoch {epoch}...")
@@ -42,29 +44,32 @@ def train():
             if batch_index % 50 == 0:
                 print(f"Epoch {epoch} iteration {batch_index}")
                 print(f"\tRunning loss: {running_correctness_loss / (batch_index + 1)}")
+            break  # remove
 
-    # Validate
-    print("Validating...")
-    model.eval()  # eval mode (no dropout)
-    with torch.no_grad():
-        label_indices, outputs = [], []
-        for batch_index, batch in enumerate(dev_loader):
-            input_dict, labels = batch
-            outputs.append(model(input_dict))  # don't use teacher forcing
-            label_indices.append(torch.max(labels, dim=-1)[1])
-        label_indices = torch.cat(label_indices, dim=0)
-        outputs = torch.cat(outputs, dim=0)
-        label_indices_size = label_indices.size()
-        total_n_output_chars = label_indices_size[0] * label_indices_size[1]
-        label_indices = torch.reshape(label_indices, (total_n_output_chars,))
-        outputs = torch.reshape(outputs, (total_n_output_chars, -1))
-        print(label_indices.size(), outputs.size())
-        loss = correctness_loss(outputs, label_indices)
-        _, output_indices = torch.max(outputs, dim=-1)
-        accuracy = torch.sum(output_indices == label_indices) / total_n_output_chars
-        print(f"\tLoss: {loss}")
-        print(f"\tAccuracy: {accuracy}")
-
+        # Validate
+        print("Validating...")
+        model.eval()  # eval mode (no dropout)
+        with torch.no_grad():
+            label_indices, outputs = [], []
+            for batch_index, batch in enumerate(dev_loader):
+                input_dict, labels = batch
+                outputs.append(model(input_dict))  # don't use teacher forcing
+                label_indices.append(torch.max(labels, dim=-1)[1])
+            label_indices = torch.cat(label_indices, dim=0)
+            outputs = torch.cat(outputs, dim=0)
+            label_indices_size = label_indices.size()
+            total_n_output_chars = label_indices_size[0] * label_indices_size[1]
+            label_indices = torch.reshape(label_indices, (total_n_output_chars,))
+            outputs = torch.reshape(outputs, (total_n_output_chars, -1))
+            print(label_indices.size(), outputs.size())
+            loss = correctness_loss(outputs, label_indices).item()
+            _, output_indices = torch.max(outputs, dim=-1)
+            accuracy = (torch.sum(output_indices == label_indices) / total_n_output_chars).item()
+            print(f"\tLoss: {loss}")
+            print(f"\tAccuracy: {accuracy}")
+            if len(epoch_accuracies) > 0 and accuracy > max(epoch_accuracies):
+                torch.save(model, f"{args['model_name']}.pt")
+            epoch_accuracies.append(accuracy)
 
 
 if __name__ == "__main__":
