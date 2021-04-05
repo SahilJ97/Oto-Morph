@@ -5,9 +5,10 @@ from entmax import entmax15
 
 
 class Decoder(torch.nn.Module):
-    def __init__(self, embed_size, n_chars, dropout=None):
+    def __init__(self, embed_size, n_chars, dropout=None, beam_size=5):
         super().__init__()
         self.n_chars = n_chars
+        self.beam_size = beam_size
         self.lstm_cell = torch.nn.LSTMCell(n_chars, embed_size)
         self.char_attention = torch.nn.MultiheadAttention(embed_dim=embed_size, num_heads=1, dropout=dropout)
         self.tag_attention = torch.nn.MultiheadAttention(embed_dim=embed_size, num_heads=1, dropout=dropout)
@@ -20,7 +21,7 @@ class Decoder(torch.nn.Module):
         self.output_layer = self.output_layer.to(*args, **kwargs)
         return super().to(*args, **kwargs)
 
-    def forward(self, char_encoder_result, tag_encoder_result, true_output_seq=None):
+    """def forward(self, char_encoder_result, tag_encoder_result, true_output_seq=None):
         char_encoding, (char_hn, char_cn) = char_encoder_result
         batch_size = len(char_encoding)
         tag_encoding, (tag_hn, tag_cn) = tag_encoder_result
@@ -46,6 +47,64 @@ class Decoder(torch.nn.Module):
                 current_input = output
             elif time_step < len(char_encoding) - 1:  # teacher forcing
                 current_input = true_output_seq[:, time_step + 1, :]
+        return_sequence = torch.stack(return_sequence)
+        return torch.transpose(return_sequence, 0, 1)"""
+
+    def forward(self, char_encoder_result, tag_encoder_result, true_output_seq=None):
+        char_encoding, (char_hn, char_cn) = char_encoder_result
+        batch_size = len(char_encoding)
+        tag_encoding, (tag_hn, tag_cn) = tag_encoder_result
+        char_encoding = torch.transpose(char_encoding, 0, 1)  # move seq_len dimension to the front
+        tag_encoding = torch.transpose(tag_encoding, 0, 1)
+        return_sequence = []
+        current_input = torch.zeros((batch_size, self.n_chars), device=char_encoding.device)
+        last_cell_state = (
+            torch.cat((char_hn[0], tag_hn[0]), dim=-1),
+            torch.cat((char_cn[0], tag_cn[0]), dim=-1)
+        )  # use final states for left-to-right direction
+
+        def time_step_fn(input_1, state_0):
+            h1, c1 = self.lstm_cell(input_1, state_0)
+            query = torch.unsqueeze(h1, dim=0)  # use cell output as query
+            char_attention, _ = self.char_attention(query=query, key=char_encoding, value=char_encoding)
+            tag_attention, _ = self.tag_attention(query=query, key=tag_encoding, value=tag_encoding)
+            aggregated_attention = torch.cat([char_attention, tag_attention], dim=-1).squeeze(0)
+            output = self.output_layer(aggregated_attention)
+            output = entmax15(output, dim=-1)
+            return output, (h1, c1)
+
+        top = [[current_input, last_cell_state, []]]  # [next_input, current_cell_state, current_output_sequence]
+        teacher_forcing = true_output_seq is not None
+        for time_step in range(len(char_encoding)):
+            time_step_leaders = []
+            for candidate in top:
+                next_input, current_cell_state, current_output_seq = candidate
+                candidate_output, candidate_next_state = time_step_fn(next_input, current_cell_state)
+                if teacher_forcing:  # teacher forcing; in this scenario, top only has 1 item
+                    top = [[None, candidate_next_state, current_output_seq + [candidate_output]]]
+                    if time_step < len(char_encoding) - 1:
+                        top[0][0] = true_output_seq[:, time_step + 1, :]
+                    continue
+                else:
+                    top_vals, top_indices = torch.topk(candidate_output, self.beam_size, dim=-1)
+                    for i in range(self.beam_size):
+                        time_step_leaders.append(
+                            [top_indices[0][i], top_vals[0][i], candidate_next_state, current_output_seq]
+                        )
+            if not teacher_forcing:
+                new_top = []
+                time_step_leaders.sort(key=lambda x: x[1])
+                beam_size = self.beam_size
+                if time_step == self.beam_size - 1:
+                    beam_size = 1
+                for leader in time_step_leaders[-beam_size:]:
+                    leader_index, leader_value, leader_next_state, leader_current_output_seq = leader
+                    one_hot = torch.nn.functional.one_hot(leader_index, self.n_chars)
+                    one_hot = torch.unsqueeze(one_hot, dim=0).float()
+                    new_top.append([one_hot, leader_next_state, leader_current_output_seq + [one_hot]])
+                top = new_top
+
+        return_sequence = top[0][-1]
         return_sequence = torch.stack(return_sequence)
         return torch.transpose(return_sequence, 0, 1)
 
@@ -91,7 +150,7 @@ class RNN(torch.nn.Module):
         enhanced_char_seq, enhanced_tag_seq = [], []
         selected_lang_embeds = torch.index_select(self.lang_embeds, dim=0, index=lang_indices)
         for i in range(batch_size):
-            lang_embed = selected_lang_embeds[lang_indices[i]]
+            lang_embed = selected_lang_embeds[i]
             new_char, new_tag = [], []
             for j in range(char_seq_len):
                 new_char.append(torch.cat([char_seq[i][j], lang_embed], dim=-1))

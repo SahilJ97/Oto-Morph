@@ -23,12 +23,12 @@ if torch.cuda.is_available():
     DEVICE = "cuda"
 print(f"Using device {DEVICE}")
 
-MAX_DEV_CHARACTERS = 10000
+MAX_DEV_CHARACTERS = 10000  # due to CPU memory constraints, a limited number of dev examples are used for validation
 
 
 def train():
     train_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=True, drop_last=True)
-    dev_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=False, drop_last=True)
+    dev_loader = DataLoader(train_set, batch_size=1, shuffle=False, drop_last=True)  # batch size = 1 for beam search
     epoch_accuracies = []
     for epoch in range(args["epochs"]):
         model.train()  # train mode (use dropout)
@@ -61,10 +61,8 @@ def train():
         with torch.no_grad():
             label_indices, outputs = [], []
             for batch_index, batch in enumerate(dev_loader):
-                if len(label_indices) * args["batch_size"] * CHARACTER_SEQUENCE_LENGTH > MAX_DEV_CHARACTERS:
+                if len(label_indices) * CHARACTER_SEQUENCE_LENGTH > MAX_DEV_CHARACTERS:
                     break
-                if DEVICE == "cuda":
-                    torch.cuda.empty_cache()
                 input_dict, labels = batch
                 for k, v in input_dict.items():
                     input_dict[k] = v.to(DEVICE)
