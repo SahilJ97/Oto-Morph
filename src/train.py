@@ -3,7 +3,7 @@
 import argparse
 import torch
 from torch.utils.data import DataLoader
-from src.dataset import OtoMangueanDataset
+from src.dataset import OtoMangueanDataset, CHARACTER_SEQUENCE_LENGTH
 from src.model import RNN
 from glob import glob
 from external.fyl_pytorch import SparsemaxLoss
@@ -23,10 +23,12 @@ if torch.cuda.is_available():
     DEVICE = "cuda"
 print(f"Using device {DEVICE}")
 
+MAX_DEV_CHARACTERS = 10000
+
 
 def train():
-    train_loader = DataLoader(train_set, batch_size=args["batch_size"]//2, shuffle=True, drop_last=True)
-    dev_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=True, drop_last=True)
+    train_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=True, drop_last=True)
+    dev_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=False, drop_last=True)
     epoch_accuracies = []
     for epoch in range(args["epochs"]):
         model.train()  # train mode (use dropout)
@@ -59,6 +61,8 @@ def train():
         with torch.no_grad():
             label_indices, outputs = [], []
             for batch_index, batch in enumerate(dev_loader):
+                if len(label_indices) * args["batch_size"] * CHARACTER_SEQUENCE_LENGTH > MAX_DEV_CHARACTERS:
+                    break
                 if DEVICE == "cuda":
                     torch.cuda.empty_cache()
                 input_dict, labels = batch
