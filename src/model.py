@@ -27,7 +27,7 @@ class Decoder(torch.nn.Module):
         char_encoding = torch.transpose(char_encoding, 0, 1)  # move seq_len dimension to the front
         tag_encoding = torch.transpose(tag_encoding, 0, 1)
         return_sequence = []
-        current_input = torch.zeros((batch_size, self.n_chars))
+        current_input = torch.zeros((batch_size, self.n_chars), device=char_encoding.device)
         last_cell_state = (
             torch.cat((char_hn[0], tag_hn[0]), dim=-1),
             torch.cat((char_cn[0], tag_cn[0]), dim=-1)

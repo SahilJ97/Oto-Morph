@@ -18,6 +18,10 @@ parser.add_argument('--lr', help='Learning rate', type=float, required=True)
 parser.add_argument('--model_name', required=True)
 args = vars(parser.parse_args())
 
+DEVICE = "cpu"
+if torch.cuda.is_available():
+    DEVICE = "cuda"
+
 
 def train():
     train_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=True, drop_last=True)
@@ -30,6 +34,9 @@ def train():
         for batch_index, batch in enumerate(train_loader):
             optimizer.zero_grad()
             input_dict, labels = batch
+            for k, v in input_dict.items():
+                input_dict[k] = v.to(DEVICE)
+            labels = labels.to(DEVICE)
             outputs = model(input_dict, labels=labels)  # use teacher forcing
             _, label_indices = torch.max(labels, dim=-1)
             loss = torch.mean(
@@ -52,6 +59,9 @@ def train():
             label_indices, outputs = [], []
             for batch_index, batch in enumerate(dev_loader):
                 input_dict, labels = batch
+                for k, v in input_dict.items():
+                    input_dict[k] = v.to(DEVICE)
+                labels = labels.to(DEVICE)
                 outputs.append(model(input_dict))  # don't use teacher forcing
                 label_indices.append(torch.max(labels, dim=-1)[1])
             label_indices = torch.cat(label_indices, dim=0)
