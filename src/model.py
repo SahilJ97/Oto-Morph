@@ -1,7 +1,6 @@
 """Written by Sahil Jayaram"""
 
 import torch
-from entmax import entmax15
 
 
 class Decoder(torch.nn.Module):

@@ -43,7 +43,7 @@ def train():
             outputs = model(input_dict, labels=labels)  # use teacher forcing
             _, label_indices = torch.max(labels, dim=-1)
             loss = torch.mean(
-                torch.stack([correctness_loss(outputs[i], label_indices[i]) for i in range(len(outputs))])
+                torch.stack([entmax15_loss(outputs[i], label_indices[i]) for i in range(len(outputs))])
             )
             loss.retain_grad()
             loss.backward()
@@ -54,7 +54,6 @@ def train():
             if batch_index % 50 == 0:
                 print(f"Epoch {epoch} iteration {batch_index}")
                 print(f"\tRunning loss: {running_correctness_loss / (batch_index + 1)}")
-
         # Validate
         print("Validating...")
         model.eval()  # eval mode (no dropout)
@@ -73,7 +72,7 @@ def train():
             outputs = torch.cat(outputs, dim=0)
             label_indices = torch.flatten(label_indices)
             outputs = torch.flatten(outputs, 0, 1)
-            loss = correctness_loss(outputs, label_indices).item()
+            loss = torch.mean(entmax15_loss(outputs, label_indices)).item()
             _, output_indices = torch.max(outputs, dim=-1)
             print(output_indices[:40])
             print(label_indices[:40])
@@ -86,8 +85,6 @@ def train():
 
 
 if __name__ == "__main__":
-    correctness_loss = entmax15_loss
-
     print("Loading data...")
     train_set = OtoMangueanDataset(glob('../data/*.trn'))
     dev_set = OtoMangueanDataset(glob('../data/*.dev'))
