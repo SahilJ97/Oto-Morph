@@ -63,15 +63,14 @@ def train():
                 for k, v in input_dict.items():
                     input_dict[k] = v.to(DEVICE)
                 labels = labels.to(DEVICE)
-                outputs.append(model(input_dict))  # don't use teacher forcing
-                label_indices.append(torch.max(labels, dim=-1)[1])
+                outputs.append(model(input_dict).cpu())  # don't use teacher forcing
+                label_indices.append(torch.max(labels, dim=-1)[1].cpu())
             label_indices = torch.cat(label_indices, dim=0)
             outputs = torch.cat(outputs, dim=0)
             label_indices_size = label_indices.size()
             total_n_output_chars = label_indices_size[0] * label_indices_size[1]
             label_indices = torch.reshape(label_indices, (total_n_output_chars,))
             outputs = torch.reshape(outputs, (total_n_output_chars, -1))
-            print(label_indices.size(), outputs.size())
             loss = correctness_loss(outputs, label_indices).item()
             _, output_indices = torch.max(outputs, dim=-1)
             accuracy = (torch.sum(output_indices == label_indices) / total_n_output_chars).item()
