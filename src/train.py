@@ -91,7 +91,7 @@ if __name__ == "__main__":
 
     print("Loading model...")
     n_languages = len(list(train_set.language_to_index.keys()))
-    init_lang_embeds = [torch.rand(4) for _ in range(n_languages)]
+    init_lang_embeds = [torch.rand(4, device=DEVICE) for _ in range(n_languages)]
     model = RNN(
         embed_size=args["embed_size"],
         n_chars=len(list(train_set.character_to_index.keys())),
