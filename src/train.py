@@ -71,11 +71,12 @@ def train():
                 label_indices.append(torch.max(labels, dim=-1)[1].cpu())
             label_indices = torch.cat(label_indices, dim=0)
             outputs = torch.cat(outputs, dim=0)
-            label_indices_size = label_indices.size()
             label_indices = torch.flatten(label_indices)
             outputs = torch.flatten(outputs, 0, 1)
             loss = correctness_loss(outputs, label_indices).item()
             _, output_indices = torch.max(outputs, dim=-1)
+            print(output_indices[:40])
+            print(label_indices[:40])
             char_accuracy = torch.sum(output_indices == label_indices) / len(label_indices)
             print(f"\tLoss: {loss}")
             print(f"\tCharacter-level accuracy: {char_accuracy}")
@@ -93,7 +94,7 @@ if __name__ == "__main__":
 
     print("Loading model...")
     n_languages = len(list(train_set.language_to_index.keys()))
-    init_lang_embeds = [torch.rand(4, device=DEVICE) for _ in range(n_languages)]
+    init_lang_embeds = [torch.rand(5, device=DEVICE) for _ in range(n_languages)]  # performance was better when I used 4 vs 6?
     model = RNN(
         embed_size=args["embed_size"],
         n_chars=len(list(train_set.character_to_index.keys())),
