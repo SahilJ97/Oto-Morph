@@ -5,7 +5,7 @@ from entmax import entmax15
 
 
 class Decoder(torch.nn.Module):
-    def __init__(self, embed_size, n_chars, dropout=None, beam_size=5):
+    def __init__(self, embed_size, n_chars, dropout=None, beam_size=10):
         super().__init__()
         self.n_chars = n_chars
         self.beam_size = beam_size
@@ -73,15 +73,15 @@ class Decoder(torch.nn.Module):
             output = entmax15(output, dim=-1)
             return output, (h1, c1)
 
-        top = [[current_input, last_cell_state, []]]  # [next_input, current_cell_state, current_output_sequence]
+        top = [[current_input, last_cell_state, [], 1]]
         teacher_forcing = true_output_seq is not None
         for time_step in range(len(char_encoding)):
             time_step_leaders = []
             for candidate in top:
-                next_input, current_cell_state, current_output_seq = candidate
+                next_input, current_cell_state, current_output_seq, sequence_probability = candidate
                 candidate_output, candidate_next_state = time_step_fn(next_input, current_cell_state)
                 if teacher_forcing:  # teacher forcing; in this scenario, top only has 1 item
-                    top = [[None, candidate_next_state, current_output_seq + [candidate_output]]]
+                    top = [[None, candidate_next_state, current_output_seq + [candidate_output], 1]]
                     if time_step < len(char_encoding) - 1:
                         top[0][0] = true_output_seq[:, time_step + 1, :]
                     continue
@@ -89,22 +89,23 @@ class Decoder(torch.nn.Module):
                     top_vals, top_indices = torch.topk(candidate_output, self.beam_size, dim=-1)
                     for i in range(self.beam_size):
                         time_step_leaders.append(
-                            [top_indices[0][i], top_vals[0][i], candidate_next_state, current_output_seq]
+                            [top_indices[0][i], top_vals[0][i], candidate_next_state, current_output_seq,
+                             sequence_probability*top_vals[0][i]]
                         )
-            if not teacher_forcing:
+            if not teacher_forcing:  # need to track sequence probability? not just individual probs?
                 new_top = []
-                time_step_leaders.sort(key=lambda x: x[1])
+                time_step_leaders.sort(key=lambda x: x[4])
                 beam_size = self.beam_size
                 if time_step == self.beam_size - 1:
                     beam_size = 1
                 for leader in time_step_leaders[-beam_size:]:
-                    leader_index, leader_value, leader_next_state, leader_current_output_seq = leader
+                    leader_index, leader_prob, leader_next_state, leader_current_output_seq, probability = leader
                     one_hot = torch.nn.functional.one_hot(leader_index, self.n_chars)
                     one_hot = torch.unsqueeze(one_hot, dim=0).float()
-                    new_top.append([one_hot, leader_next_state, leader_current_output_seq + [one_hot]])
+                    new_top.append([one_hot, leader_next_state, leader_current_output_seq + [one_hot], probability])
                 top = new_top
 
-        return_sequence = top[0][-1]
+        return_sequence = top[0][2]
         return_sequence = torch.stack(return_sequence)
         return torch.transpose(return_sequence, 0, 1)
 
