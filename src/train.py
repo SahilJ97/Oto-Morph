@@ -98,6 +98,7 @@ if __name__ == "__main__":
         n_tags=len(list(train_set.tags_to_index.keys())),
         init_lang_embeds=init_lang_embeds
     )
+    model.to(DEVICE)
 
     optimizer = torch.optim.Adam(model.parameters(), lr=args["lr"])
     train()
