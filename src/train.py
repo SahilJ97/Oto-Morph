@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader
 from src.dataset import OtoMangueanDataset, CHARACTER_SEQUENCE_LENGTH
 from src.model import RNN
 from glob import glob
-from external.fyl_pytorch import SparsemaxLoss
+from entmax import entmax15_loss
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--lang_embeds', help='Initialization scheme for language embeddings (e.g. "random")',
@@ -86,7 +86,7 @@ def train():
 
 
 if __name__ == "__main__":
-    correctness_loss = SparsemaxLoss()
+    correctness_loss = entmax15_loss
 
     print("Loading data...")
     train_set = OtoMangueanDataset(glob('../data/*.trn'))

@@ -21,42 +21,12 @@ class Decoder(torch.nn.Module):
         self.output_layer = self.output_layer.to(*args, **kwargs)
         return super().to(*args, **kwargs)
 
-    """def forward(self, char_encoder_result, tag_encoder_result, true_output_seq=None):
-        char_encoding, (char_hn, char_cn) = char_encoder_result
-        batch_size = len(char_encoding)
-        tag_encoding, (tag_hn, tag_cn) = tag_encoder_result
-        char_encoding = torch.transpose(char_encoding, 0, 1)  # move seq_len dimension to the front
-        tag_encoding = torch.transpose(tag_encoding, 0, 1)
-        return_sequence = []
-        current_input = torch.zeros((batch_size, self.n_chars), device=char_encoding.device)
-        last_cell_state = (
-            torch.cat((char_hn[0], tag_hn[0]), dim=-1),
-            torch.cat((char_cn[0], tag_cn[0]), dim=-1)
-        )  # use final states for left-to-right direction
-        for time_step in range(len(char_encoding)):  # decoder output sequence should be as long as input sequence
-            h1, c1 = self.lstm_cell(current_input, last_cell_state)
-            last_cell_state = (h1, c1)
-            query = torch.unsqueeze(h1, dim=0)  # use cell output as query
-            char_attention, _ = self.char_attention(query=query, key=char_encoding, value=char_encoding)
-            tag_attention, _ = self.tag_attention(query=query, key=tag_encoding, value=tag_encoding)
-            aggregated_attention = torch.cat([char_attention, tag_attention], dim=-1).squeeze(0)
-            output = self.output_layer(aggregated_attention)
-            output = entmax15(output, dim=-1)
-            return_sequence.append(output)
-            if true_output_seq is None:
-                current_input = output
-            elif time_step < len(char_encoding) - 1:  # teacher forcing
-                current_input = true_output_seq[:, time_step + 1, :]
-        return_sequence = torch.stack(return_sequence)
-        return torch.transpose(return_sequence, 0, 1)"""
-
     def forward(self, char_encoder_result, tag_encoder_result, true_output_seq=None):
         char_encoding, (char_hn, char_cn) = char_encoder_result
         batch_size = len(char_encoding)
         tag_encoding, (tag_hn, tag_cn) = tag_encoder_result
         char_encoding = torch.transpose(char_encoding, 0, 1)  # move seq_len dimension to the front
         tag_encoding = torch.transpose(tag_encoding, 0, 1)
-        return_sequence = []
         current_input = torch.zeros((batch_size, self.n_chars), device=char_encoding.device)
         last_cell_state = (
             torch.cat((char_hn[0], tag_hn[0]), dim=-1),
@@ -70,10 +40,9 @@ class Decoder(torch.nn.Module):
             tag_attention, _ = self.tag_attention(query=query, key=tag_encoding, value=tag_encoding)
             aggregated_attention = torch.cat([char_attention, tag_attention], dim=-1).squeeze(0)
             output = self.output_layer(aggregated_attention)
-            output = entmax15(output, dim=-1)
             return output, (h1, c1)
 
-        top = [[current_input, last_cell_state, [], 1]]
+        top = [[current_input, last_cell_state, [], 1]]  # beam search candidates
         teacher_forcing = true_output_seq is not None
         for time_step in range(len(char_encoding)):
             time_step_leaders = []
