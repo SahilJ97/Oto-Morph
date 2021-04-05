@@ -72,12 +72,11 @@ def train():
             label_indices = torch.cat(label_indices, dim=0)
             outputs = torch.cat(outputs, dim=0)
             label_indices_size = label_indices.size()
-            total_n_output_chars = label_indices_size[0] * label_indices_size[1]
-            label_indices = torch.reshape(label_indices, (total_n_output_chars,))
-            outputs = torch.reshape(outputs, (total_n_output_chars, -1))
+            label_indices = torch.flatten(label_indices)
+            outputs = torch.flatten(outputs, 0, 1)
             loss = correctness_loss(outputs, label_indices).item()
             _, output_indices = torch.max(outputs, dim=-1)
-            char_accuracy = (torch.sum(output_indices == label_indices) / total_n_output_chars).item()
+            char_accuracy = torch.sum(output_indices == label_indices) / len(label_indices)
             print(f"\tLoss: {loss}")
             print(f"\tCharacter-level accuracy: {char_accuracy}")
             if len(epoch_char_accuracies) > 0 and char_accuracy > max(epoch_char_accuracies):
