@@ -77,8 +77,7 @@ class RNN(torch.nn.Module):
         self.character_encoder = self.character_encoder.to(*args, **kwargs)
         self.tagset_encoder = self.tagset_encoder.to(*args, **kwargs)
         self.decoder = self.decoder.to(*args, **kwargs)
-        for i in range(len(self.lang_embeds)):
-            self.lang_embeds[i] = self.lang_embeds[i].to(*args, **kwargs)
+        self.lang_embeds = self.lang_embeds.to(*args, **kwargs)
         return super().to(*args, **kwargs)
 
     def forward(self, inputs, labels=None):
