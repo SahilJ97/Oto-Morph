@@ -21,6 +21,7 @@ args = vars(parser.parse_args())
 DEVICE = "cpu"
 if torch.cuda.is_available():
     DEVICE = "cuda"
+print(f"Using device {DEVICE}")
 
 
 def train():
