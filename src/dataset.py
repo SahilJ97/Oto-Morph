@@ -42,6 +42,9 @@ class OtoMangueanDataset(Dataset):
             dict_name = os.path.splitext(os.path.basename(d))[0]
             file_dict = json.load(open(d, encoding="utf-8"))
             setattr(self, dict_name, file_dict)
+        pad_index = self.character_to_index['[PAD]']
+        self.pad_vector = [0] * len(self.character_to_index)
+        self.pad_vector[pad_index] = 1
 
     def __len__(self):
         return self.n_samples
@@ -75,8 +78,8 @@ class OtoMangueanDataset(Dataset):
             pad_length = CHARACTER_SEQUENCE_LENGTH - len(encoded_word)
             if curr_word == 0:  # pre-pad for input sequence
                 encoded_lemma = [[0] * character_len] * pad_length + encoded_word
-            else:  # post-pad for output sequence
-                encoded_inflection = encoded_word + [[0] * character_len] * pad_length
+            else:  # post-pad for output sequence using [PAD] vectors
+                encoded_inflection = encoded_word + [self.pad_vector] * pad_length
             curr_word += 1
             encoded_word = []
 

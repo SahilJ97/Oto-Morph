@@ -29,7 +29,7 @@ MAX_DEV_CHARACTERS = 10000  # due to CPU memory constraints, a limited number of
 def train():
     train_loader = DataLoader(train_set, batch_size=args["batch_size"], shuffle=True, drop_last=True)
     dev_loader = DataLoader(train_set, batch_size=1, shuffle=False, drop_last=True)  # batch size = 1 for beam search
-    epoch_accuracies = []
+    epoch_char_accuracies = []
     for epoch in range(args["epochs"]):
         model.train()  # train mode (use dropout)
         print(f"Beginning epoch {epoch}...")
@@ -77,12 +77,12 @@ def train():
             outputs = torch.reshape(outputs, (total_n_output_chars, -1))
             loss = correctness_loss(outputs, label_indices).item()
             _, output_indices = torch.max(outputs, dim=-1)
-            accuracy = (torch.sum(output_indices == label_indices) / total_n_output_chars).item()
+            char_accuracy = (torch.sum(output_indices == label_indices) / total_n_output_chars).item()
             print(f"\tLoss: {loss}")
-            print(f"\tAccuracy: {accuracy}")
-            if len(epoch_accuracies) > 0 and accuracy > max(epoch_accuracies):
+            print(f"\tCharacter-level accuracy: {char_accuracy}")
+            if len(epoch_char_accuracies) > 0 and char_accuracy > max(epoch_char_accuracies):
                 torch.save(model, f"{args['model_name']}.pt")
-            epoch_accuracies.append(accuracy)
+            epoch_char_accuracies.append(char_accuracy)
 
 
 if __name__ == "__main__":

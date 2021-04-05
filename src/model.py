@@ -92,7 +92,7 @@ class Decoder(torch.nn.Module):
                             [top_indices[0][i], top_vals[0][i], candidate_next_state, current_output_seq,
                              sequence_probability*top_vals[0][i]]
                         )
-            if not teacher_forcing:  # need to track sequence probability? not just individual probs?
+            if not teacher_forcing:
                 new_top = []
                 time_step_leaders.sort(key=lambda x: x[4])
                 beam_size = self.beam_size
