@@ -4,7 +4,7 @@ import torch
 
 
 class Decoder(torch.nn.Module):
-    def __init__(self, embed_size, n_chars, dropout=None, beam_size=10):
+    def __init__(self, embed_size, n_chars, dropout=None, beam_size=50):
         super().__init__()
         self.n_chars = n_chars
         self.beam_size = beam_size
@@ -41,7 +41,7 @@ class Decoder(torch.nn.Module):
             output = self.output_layer(aggregated_attention)
             return output, (h1, c1)
 
-        top = [[current_input, last_cell_state, [], 1]]  # beam search candidates
+        top = [[current_input, last_cell_state, [], 0]]  # beam search candidates; last entry is log probability
         teacher_forcing = true_output_seq is not None
         for time_step in range(len(char_encoding)):
             time_step_leaders = []
@@ -58,7 +58,7 @@ class Decoder(torch.nn.Module):
                     for i in range(self.beam_size):
                         time_step_leaders.append(
                             [top_indices[0][i], top_vals[0][i], candidate_next_state, current_output_seq,
-                             sequence_probability*top_vals[0][i]]
+                             sequence_probability + torch.log(top_vals[0][i])]
                         )
             if not teacher_forcing:
                 new_top = []
@@ -66,6 +66,7 @@ class Decoder(torch.nn.Module):
                 beam_size = self.beam_size
                 if time_step == self.beam_size - 1:
                     beam_size = 1
+                print("New time step")
                 for leader in time_step_leaders[-beam_size:]:
                     leader_index, leader_prob, leader_next_state, leader_current_output_seq, probability = leader
                     one_hot = torch.nn.functional.one_hot(leader_index, self.n_chars)

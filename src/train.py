@@ -74,8 +74,6 @@ def train():
             outputs = torch.flatten(outputs, 0, 1)
             loss = torch.mean(entmax15_loss(outputs, label_indices)).item()
             _, output_indices = torch.max(outputs, dim=-1)
-            print(output_indices[:40])
-            print(label_indices[:40])
             char_accuracy = torch.sum(output_indices == label_indices) / len(label_indices)
             print(f"\tLoss: {loss}")
             print(f"\tCharacter-level accuracy: {char_accuracy}")
