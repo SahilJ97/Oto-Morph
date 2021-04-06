@@ -5,7 +5,7 @@ from entmax import sparsemax
 
 
 class Decoder(torch.nn.Module):
-    def __init__(self, embed_size, n_chars, dropout=None, beam_size=35):
+    def __init__(self, embed_size, n_chars, dropout=None, beam_size=10):
         super().__init__()
         self.n_chars = n_chars
         self.beam_size = beam_size
@@ -88,6 +88,7 @@ class RNN(torch.nn.Module):
             n_tags,
             init_lang_embeds,  # list of tensors
             dropout=.3,
+            beam_size=10
     ):
         super(RNN, self).__init__()
         lang_dim = len(init_lang_embeds[0])
@@ -98,7 +99,7 @@ class RNN(torch.nn.Module):
                                                bidirectional=True)
         self.tagset_encoder = torch.nn.LSTM(input_size=n_tags+lang_dim, hidden_size=embed_size//2, batch_first=True,
                                             bidirectional=True)
-        self.decoder = Decoder(embed_size, n_chars, dropout=dropout)
+        self.decoder = Decoder(embed_size, n_chars, dropout=dropout, beam_size=beam_size)
         if type(init_lang_embeds) == list:
             init_lang_embeds = torch.stack(init_lang_embeds)
         self.register_parameter(name="lang_embeds", param=torch.nn.Parameter(init_lang_embeds))
