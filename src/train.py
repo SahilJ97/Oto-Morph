@@ -24,7 +24,7 @@ if torch.cuda.is_available():
     DEVICE = "cuda"
 print(f"Using device {DEVICE}")
 
-MAX_DEV_CHARACTERS = 10000  # due to CPU memory constraints, a limited number of dev examples are used for validation
+MAX_DEV_CHARACTERS = 10000  # due to time/memory constraints, a limited number of dev examples are used for validation
 
 
 def train():
@@ -46,6 +46,10 @@ def train():
             loss = torch.mean(
                 torch.stack([entmax15_loss(outputs[i], label_indices[i]) for i in range(len(outputs))])
             )
+            if batch_index == 50:
+                print("Sample of model predictions vs. gold labels:")
+                print(torch.max(outputs[:4], dim=-1)[1])
+                print(label_indices[:4])
             loss.retain_grad()
             loss.backward()
             optimizer.step()

@@ -29,9 +29,11 @@ class Decoder(torch.nn.Module):
         tag_encoding = torch.transpose(tag_encoding, 0, 1)
         current_input = torch.zeros((batch_size, self.n_chars), device=char_encoding.device)
         last_cell_state = (
-            torch.cat((char_hn[0], tag_hn[0]), dim=-1),
-            torch.cat((char_cn[0], tag_cn[0]), dim=-1)
-        )  # use final states for left-to-right direction
+            #torch.cat((char_hn[0], tag_hn[0]), dim=-1),
+            #torch.cat((char_cn[0], tag_cn[0]), dim=-1)
+            torch.cat((char_hn[0], char_hn[1]), dim=-1),
+            torch.cat((char_cn[0], char_cn[1]), dim=-1)
+        )
 
         def time_step_fn(input_1, state_0):
             h1, c1 = self.lstm_cell(input_1, state_0)
