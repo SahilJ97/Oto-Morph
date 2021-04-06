@@ -90,7 +90,7 @@ class RNN(torch.nn.Module):
             n_chars,
             n_tags,
             init_lang_embeds,  # list of tensors
-            dropout=.3,
+            dropout=.2,
             beam_size=10
     ):
         super(RNN, self).__init__()
