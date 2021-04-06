@@ -17,6 +17,7 @@ parser.add_argument('--batch_size', type=int, required=True)
 parser.add_argument('--lr', help='Learning rate', type=float, required=True)
 parser.add_argument('--model_name', required=True)
 parser.add_argument('--beam_size', type=int, default=10)
+parser.add_argument('--dropout', type=float, default=.2)
 args = vars(parser.parse_args())
 
 DEVICE = "cpu"
@@ -107,7 +108,8 @@ if __name__ == "__main__":
         n_chars=len(list(train_set.character_to_index.keys())),
         n_tags=len(list(train_set.tags_to_index.keys())),
         init_lang_embeds=init_lang_embeds,
-        beam_size=args["beam_size"]
+        beam_size=args["beam_size"],
+        dropout=args["dropout"]
     )
     model.to(DEVICE)
 
