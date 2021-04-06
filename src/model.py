@@ -41,7 +41,8 @@ class Decoder(torch.nn.Module):
             char_attention, _ = self.char_attention(query=query, key=char_encoding, value=char_encoding)
             tag_attention, _ = self.tag_attention(query=query, key=tag_encoding, value=tag_encoding)
             aggregated_attention = torch.cat([char_attention, tag_attention], dim=-1).squeeze(0)
-            aggregated_attention = sparsemax(aggregated_attention, dim=-1)
+            #aggregated_attention = sparsemax(aggregated_attention, dim=-1)
+            aggregated_attention = torch.relu(aggregated_attention)
             output = self.output_layer(aggregated_attention)  # relu instead?
             return output, (h1, c1)
 
