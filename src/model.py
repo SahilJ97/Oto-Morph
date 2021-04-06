@@ -1,6 +1,7 @@
 """Written by Sahil Jayaram"""
 
 import torch
+from entmax import sparsemax
 
 
 class Decoder(torch.nn.Module):
@@ -38,7 +39,8 @@ class Decoder(torch.nn.Module):
             char_attention, _ = self.char_attention(query=query, key=char_encoding, value=char_encoding)
             tag_attention, _ = self.tag_attention(query=query, key=tag_encoding, value=tag_encoding)
             aggregated_attention = torch.cat([char_attention, tag_attention], dim=-1).squeeze(0)
-            output = self.output_layer(aggregated_attention)
+            aggregated_attention = sparsemax(aggregated_attention, dim=-1)
+            output = self.output_layer(aggregated_attention)  # relu instead?
             return output, (h1, c1)
 
         top = [[current_input, last_cell_state, [], 0]]  # beam search candidates; last entry is log probability
@@ -66,7 +68,6 @@ class Decoder(torch.nn.Module):
                 beam_size = self.beam_size
                 if time_step == self.beam_size - 1:
                     beam_size = 1
-                print("New time step")
                 for leader in time_step_leaders[-beam_size:]:
                     leader_index, leader_prob, leader_next_state, leader_current_output_seq, probability = leader
                     one_hot = torch.nn.functional.one_hot(leader_index, self.n_chars)
