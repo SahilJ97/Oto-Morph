@@ -59,7 +59,9 @@ class Decoder(torch.nn.Module):
                     continue
                 else:
                     probabilities = entmax15(candidate_output, dim=-1)
-                    top_probs, top_indices = torch.topk(probabilities, self.beam_size, dim=-1)
+                    tk = torch.topk(probabilities, self.beam_size, dim=-1)
+                    top_indices = tk.indices
+                    top_probs = tk.values
                     for i in range(self.beam_size):
                         time_step_leaders.append(
                             [top_indices[0][i], top_probs[0][i], candidate_next_state, current_output_seq,

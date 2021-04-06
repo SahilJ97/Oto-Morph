@@ -36,7 +36,7 @@ def train():
         model.train()  # train mode (use dropout)
         print(f"Beginning epoch {epoch}...")
         running_correctness_loss = 0.
-        for batch_index, batch in enumerate(train_loader):
+        """for batch_index, batch in enumerate(train_loader):
             optimizer.zero_grad()
             input_dict, labels = batch
             for k, v in input_dict.items():
@@ -59,7 +59,7 @@ def train():
             # Print running losses every 20 batches
             if batch_index % 50 == 0:
                 print(f"Epoch {epoch} iteration {batch_index}")
-                print(f"\tRunning loss: {running_correctness_loss / (batch_index + 1)}")
+                print(f"\tRunning loss: {running_correctness_loss / (batch_index + 1)}")"""
         # Validate
         print("Validating...")
         model.eval()  # eval mode (no dropout)
