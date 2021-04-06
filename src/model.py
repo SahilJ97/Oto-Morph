@@ -1,6 +1,7 @@
 """Written by Sahil Jayaram"""
 
 import torch
+from entmax import entmax15
 
 
 class Decoder(torch.nn.Module):
@@ -58,11 +59,12 @@ class Decoder(torch.nn.Module):
                         top[0][0] = true_output_seq[:, time_step + 1, :]
                     continue
                 else:
-                    top_vals, top_indices = torch.topk(candidate_output, self.beam_size, dim=-1)
+                    probabilities = entmax15(candidate_output, dim=-1)
+                    top_probs, top_indices = torch.topk(probabilities, self.beam_size, dim=-1)
                     for i in range(self.beam_size):
                         time_step_leaders.append(
-                            [top_indices[0][i], top_vals[0][i], candidate_next_state, current_output_seq,
-                             sequence_probability + torch.log(top_vals[0][i])]
+                            [top_indices[0][i], top_probs[0][i], candidate_next_state, current_output_seq,
+                             sequence_probability + torch.log(top_probs[0][i])]
                         )
             if not teacher_forcing:
                 new_top = []
