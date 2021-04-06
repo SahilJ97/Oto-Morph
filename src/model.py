@@ -41,7 +41,6 @@ class Decoder(torch.nn.Module):
             char_attention, _ = self.char_attention(query=query, key=char_encoding, value=char_encoding)
             tag_attention, _ = self.tag_attention(query=query, key=tag_encoding, value=tag_encoding)
             aggregated_attention = torch.cat([char_attention, tag_attention], dim=-1).squeeze(0)
-            #aggregated_attention = sparsemax(aggregated_attention, dim=-1)
             aggregated_attention = torch.relu(aggregated_attention)
             output = self.output_layer(aggregated_attention)  # relu instead?
             return output, (h1, c1)
@@ -49,6 +48,9 @@ class Decoder(torch.nn.Module):
         top = [[current_input, last_cell_state, [], 0]]  # beam search candidates; last entry is log probability
         teacher_forcing = true_output_seq is not None
         for time_step in range(len(char_encoding)):
+            print("new iteration...")
+            for item in top:
+                print([torch.max(emb, dim=-1)[0].item() for emb in item[2]], item[3])
             time_step_leaders = []
             for candidate in top:
                 next_input, current_cell_state, current_output_seq, sequence_probability = candidate
@@ -75,7 +77,7 @@ class Decoder(torch.nn.Module):
                 for leader in time_step_leaders[-beam_size:]:
                     leader_index, leader_prob, leader_next_state, leader_current_output_seq, probability = leader
                     one_hot = torch.nn.functional.one_hot(leader_index, self.n_chars)
-                    one_hot = torch.unsqueeze(one_hot, dim=0).float()
+                    one_hot = torch.unsqueeze(one_hot, dim=0).float()  # add batch dimension
                     new_top.append([one_hot, leader_next_state, leader_current_output_seq + [one_hot], probability])
                 top = new_top
 
