@@ -46,7 +46,7 @@ def train():
             loss = torch.mean(
                 torch.stack([entmax15_loss(outputs[i], label_indices[i]) for i in range(len(outputs))])
             )
-            if batch_index == 50:
+            if batch_index == 500:
                 print("Sample of model predictions vs. gold labels:")
                 print(torch.max(outputs[:4], dim=-1)[1])
                 print(label_indices[:4])
