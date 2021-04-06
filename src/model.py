@@ -5,7 +5,7 @@ from entmax import sparsemax
 
 
 class Decoder(torch.nn.Module):
-    def __init__(self, embed_size, n_chars, dropout=None, beam_size=50):
+    def __init__(self, embed_size, n_chars, dropout=None, beam_size=35):
         super().__init__()
         self.n_chars = n_chars
         self.beam_size = beam_size
