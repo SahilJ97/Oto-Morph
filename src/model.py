@@ -48,10 +48,6 @@ class Decoder(torch.nn.Module):
         top = [[current_input, last_cell_state, [], 0]]  # beam search candidates; last entry is log probability
         teacher_forcing = true_output_seq is not None
         for time_step in range(len(char_encoding)):
-            if not teacher_forcing:
-                print("new iteration...")
-                for item in top:
-                    print([torch.max(emb, dim=-1)[0].item() for emb in item[2]], item[3])
             time_step_leaders = []
             for candidate in top:
                 next_input, current_cell_state, current_output_seq, sequence_probability = candidate
@@ -77,7 +73,8 @@ class Decoder(torch.nn.Module):
                     beam_size = 1
                 for leader in time_step_leaders[-beam_size:]:
                     leader_index, leader_prob, leader_next_state, leader_current_output_seq, probability = leader
-                    one_hot = torch.nn.functional.one_hot(leader_index, self.n_chars)
+                    print(leader_index, end=" ")
+                    one_hot = torch.nn.functional.one_hot(leader_index, num_classes=self.n_chars)
                     one_hot = torch.unsqueeze(one_hot, dim=0).float()  # add batch dimension
                     new_top.append([one_hot, leader_next_state, leader_current_output_seq + [one_hot], probability])
                 top = new_top
