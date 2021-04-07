@@ -75,7 +75,7 @@ class Decoder(torch.nn.Module):
                     beam_size = 1
                 for leader in time_step_leaders[-beam_size:]:
                     leader_index, leader_prob, leader_next_state, leader_current_output_seq, probability = leader
-                    print(leader_index, end=" ")
+                    print(leader_index.item(), " ", end=" ")
                     one_hot = torch.nn.functional.one_hot(leader_index, num_classes=self.n_chars)
                     one_hot = torch.unsqueeze(one_hot, dim=0).float()  # add batch dimension
                     new_top.append([one_hot, leader_next_state, leader_current_output_seq + [one_hot], probability])
