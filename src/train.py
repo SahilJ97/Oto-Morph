@@ -34,6 +34,7 @@ def train():
     epoch_char_accuracies = []
     for epoch in range(args["epochs"]):
         model.train()  # train mode (use dropout)
+
         print(f"Beginning epoch {epoch}...")
         running_correctness_loss = 0.
         for batch_index, batch in enumerate(train_loader):

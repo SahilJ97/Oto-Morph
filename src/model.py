@@ -48,7 +48,8 @@ class Decoder(torch.nn.Module):
         top = [[current_input, last_cell_state, [], 0]]  # beam search candidates; last entry is log probability
         teacher_forcing = true_output_seq is not None
         for time_step in range(len(char_encoding)):
-            print("new time step ", len(top), len(top[0][2]))
+            if not teacher_forcing:
+                print("new time step ", len(top), len(top[0][2]))
             time_step_leaders = []
             for candidate in top:
                 next_input, current_cell_state, current_output_seq, sequence_probability = candidate
