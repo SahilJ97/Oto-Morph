@@ -48,6 +48,7 @@ class Decoder(torch.nn.Module):
         top = [[current_input, last_cell_state, [], 0]]  # beam search candidates; last entry is log probability
         teacher_forcing = true_output_seq is not None
         for time_step in range(len(char_encoding)):
+            print("new time step ", len(top), len(top[0][2]))
             time_step_leaders = []
             for candidate in top:
                 next_input, current_cell_state, current_output_seq, sequence_probability = candidate
@@ -60,26 +61,26 @@ class Decoder(torch.nn.Module):
                 else:
                     probabilities = entmax15(candidate_output, dim=-1)
                     tk = torch.topk(probabilities, self.beam_size, dim=-1)
-                    top_indices = tk.indices
-                    top_probs = tk.values
+                    top_indices = tk.indices[0]
+                    top_probs = tk.values[0]
+                    print(top_indices, top_probs)
                     for i in range(self.beam_size):
                         time_step_leaders.append(
-                            [top_indices[0][i], top_probs[0][i], candidate_next_state, current_output_seq,
-                             sequence_probability + torch.log(top_probs[0][i])]
+                            [top_indices[i], top_probs[i], candidate_next_state, current_output_seq,
+                             sequence_probability + torch.log(top_probs[i])]
                         )
-                if not teacher_forcing:
-                    new_top = []
-                    time_step_leaders.sort(key=lambda x: x[4])
-                    beam_size = self.beam_size
-                    if time_step == self.beam_size - 1:
-                        beam_size = 1
-                    for leader in time_step_leaders[-beam_size:]:
-                        leader_index, leader_prob, leader_next_state, leader_current_output_seq, probability = leader
-                        print(leader_index.item(), " ", end=" ")
-                        one_hot = torch.nn.functional.one_hot(leader_index, num_classes=self.n_chars)
-                        one_hot = torch.unsqueeze(one_hot, dim=0).float()  # add batch dimension
-                        new_top.append([one_hot, leader_next_state, leader_current_output_seq + [one_hot], probability])
-                    top = new_top
+            if not teacher_forcing:
+                new_top = []
+                time_step_leaders.sort(key=lambda x: x[4])
+                beam_size = self.beam_size
+                if time_step == self.beam_size - 1:
+                    beam_size = 1
+                for leader in time_step_leaders[-beam_size:]:
+                    leader_index, leader_prob, leader_next_state, leader_current_output_seq, probability = leader
+                    one_hot = torch.nn.functional.one_hot(leader_index, num_classes=self.n_chars)
+                    one_hot = torch.unsqueeze(one_hot, dim=0).float()  # add batch dimension
+                    new_top.append([one_hot, leader_next_state, leader_current_output_seq + [one_hot], probability])
+                top = new_top
 
         return_sequence = top[0][2]
         return_sequence = torch.stack(return_sequence)
