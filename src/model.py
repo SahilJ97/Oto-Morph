@@ -48,23 +48,19 @@ class Decoder(torch.nn.Module):
         top = [[current_input, last_cell_state, [], 0]]  # beam search candidates; last entry is log probability
         teacher_forcing = true_output_seq is not None
         for time_step in range(len(char_encoding)):
-            if not teacher_forcing:
-                print("new time step ", len(top), len(top[0][2]))
             time_step_leaders = []
             for candidate in top:
                 next_input, current_cell_state, current_output_seq, sequence_probability = candidate
                 candidate_output, candidate_next_state = time_step_fn(next_input, current_cell_state)
                 if teacher_forcing:  # teacher forcing; in this scenario, top only has 1 item
                     top = [[None, candidate_next_state, current_output_seq + [candidate_output], 1]]
-                    if time_step < len(char_encoding) - 1:
-                        top[0][0] = true_output_seq[:, time_step + 1, :]
+                    top[0][0] = true_output_seq[:, time_step, :]
                     continue
                 else:
                     probabilities = entmax15(candidate_output, dim=-1)
                     tk = torch.topk(probabilities, self.beam_size, dim=-1)
                     top_indices = tk.indices[0]
                     top_probs = tk.values[0]
-                    print(top_indices, top_probs)
                     for i in range(self.beam_size):
                         time_step_leaders.append(
                             [top_indices[i], top_probs[i], candidate_next_state, current_output_seq,
@@ -150,11 +146,19 @@ class RNN(torch.nn.Module):
 
 
 if __name__ == "__main__":
-    lang_embeds = torch.tensor([[1., 2., 3.]])  # one language (3d embedding)
-    model = RNN(embed_size=6, n_chars=2, n_tags=2, init_lang_embeds=lang_embeds)
+    lang_embeds = [torch.tensor([1., 2., 3.])]  # one language (3d embedding)
+    model = RNN(embed_size=6, n_chars=2, n_tags=2, init_lang_embeds=lang_embeds, beam_size=2)
     input_dict = {
-        "language": [0, 0],  # one language index for each item in batch
+        "language": torch.tensor([0, 0]),  # one language index for each item in batch
         "character_sequence": torch.tensor([[[0, 1], [1, 0], [1, 0]], [[0, 1], [1, 0], [1, 0]]], dtype=torch.float),
         "tagset": torch.tensor([[[0, 1], [1, 0]], [[0, 1], [1, 0]]], dtype=torch.float)
     }
-    print(model.forward(input_dict))
+    print(model.forward(input_dict, labels=input_dict["character_sequence"]))
+    print("...")
+    input_dict_2 = {
+        "language": torch.tensor([0]),  # one language index for each item in batch
+        "character_sequence": torch.tensor([[[0, 1], [1, 0], [1, 0]]], dtype=torch.float),
+        "tagset": torch.tensor([[[0, 1], [1, 0]]], dtype=torch.float)
+    }
+    print(model.forward(input_dict_2))
+    print(model.forward(input_dict_2, labels=input_dict_2["character_sequence"]))
