@@ -18,7 +18,7 @@ print(f"Using device {DEVICE}")
 
 
 def evaluate():
-    test_loader = DataLoader(test_set, batch_size=1, drop_last=True)
+    test_loader = DataLoader(test_set, batch_size=1, drop_last=True, shuffle=True)
     n_correct = 0
     n_langs = len(test_set.language_to_index)
     correct_by_lang, total_by_lang = [0]*n_langs, [0]*n_langs
