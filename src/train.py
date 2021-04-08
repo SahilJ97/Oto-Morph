@@ -48,10 +48,7 @@ def train():
             loss = torch.mean(
                 torch.stack([entmax15_loss(outputs[i], label_indices[i]) for i in range(len(outputs))])
             )
-            if batch_index == 500:
-                print("Sample of model predictions vs. gold labels:")
-                print(torch.max(outputs[:4], dim=-1)[1])
-                print(label_indices[:4])
+
             loss.retain_grad()
             loss.backward()
             optimizer.step()
@@ -75,8 +72,6 @@ def train():
                 labels = labels.to(DEVICE)
                 outputs.append(model(input_dict).cpu())  # don't use teacher forcing
                 label_indices.append(torch.max(labels, dim=-1)[1].cpu())
-            print([torch.max(outputs[i], dim=-1)[1] for i in range(3)])
-            print(label_indices[:3])
             label_indices = torch.cat(label_indices, dim=0)
             _, output_indices = torch.max(torch.stack(outputs), dim=-1)
             word_accuracy = sum(
