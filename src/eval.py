@@ -28,8 +28,8 @@ def evaluate():
         _, output_indices = torch.max(outputs, dim=-1)
         if torch.equal(label_indices, output_indices):
             n_correct += 1
-        print("\r" + "                                         ")
-        print(f"Accuracy: {n_correct / (batch_index + 1)}")
+        print("\r" + "                                         ", end="")
+        print(f"\rAccuracy: {n_correct / (batch_index + 1)}", end="")
 
 
 if __name__ == "__main__":
