@@ -9,7 +9,7 @@ from glob import glob
 from entmax import entmax15_loss
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--lang_embeds', help='Initialization scheme for language embeddings (e.g. "random")',
+parser.add_argument('--lang_embeds', help='Initialization scheme for language embeddings (random or smart)',
                     required=True)
 parser.add_argument('--embed_size', help='Encoder/decoder size', type=int, required=True)
 parser.add_argument('--epochs', type=int, required=True)
@@ -18,6 +18,7 @@ parser.add_argument('--lr', help='Learning rate', type=float, required=True)
 parser.add_argument('--model_name', required=True)
 parser.add_argument('--beam_size', type=int, default=10)
 parser.add_argument('--dropout', type=float, default=.2)
+
 args = vars(parser.parse_args())
 
 DEVICE = "cpu"
@@ -98,7 +99,10 @@ if __name__ == "__main__":
 
     print("Loading model...")
     n_languages = len(list(train_set.language_to_index.keys()))
-    init_lang_embeds = [torch.rand(5, device=DEVICE) for _ in range(n_languages)]  # performance was better when I used 4 vs 6?
+    if args["lang_embeds"] == "random":
+        init_lang_embeds = [torch.rand(5, device=DEVICE) for _ in range(n_languages)]
+    else:
+        init_lang_embeds = torch.load("../linguistic_distance/linguistic_distance.pt", map_location=DEVICE)
     model = RNN(
         embed_size=args["embed_size"],
         n_chars=len(list(train_set.character_to_index.keys())),
