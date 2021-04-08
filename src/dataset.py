@@ -71,7 +71,11 @@ class OtoMangueanDataset(Dataset):
                 while curr_index + 1 < lemma_len and word[curr_index + 1] in SUPERSCRIPTS:
                     temp += word[curr_index + 1]
                     curr_index += 1
-                one_hot_word[self.character_to_index[temp]] = 1
+                try:
+                    one_hot_word[self.character_to_index[temp]] = 1
+                except KeyError:
+                    print(f"\nError: character {temp} not found in dictionary. Skipping.\n")
+                    return -1
                 encoded_word.append(one_hot_word)
                 curr_index += 1
                 one_hot_word = [0] * character_len
