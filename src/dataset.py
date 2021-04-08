@@ -42,9 +42,9 @@ class OtoMangueanDataset(Dataset):
             dict_name = os.path.splitext(os.path.basename(d))[0]
             file_dict = json.load(open(d, encoding="utf-8"))
             setattr(self, dict_name, file_dict)
-        pad_index = self.character_to_index['[PAD]']
+        self.pad_index = self.character_to_index['[PAD]']
         self.pad_vector = [0] * len(self.character_to_index)
-        self.pad_vector[pad_index] = 1
+        self.pad_vector[self.pad_index] = 1
 
     def __len__(self):
         return self.n_samples

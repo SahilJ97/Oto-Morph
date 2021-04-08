@@ -75,9 +75,7 @@ def train():
                 label_indices.append(torch.max(labels, dim=-1)[1].cpu())
             label_indices = torch.cat(label_indices, dim=0)
             _, output_indices = torch.max(torch.stack(outputs), dim=-1)
-            word_accuracy = sum(
-                [torch.equal(output_indices[i][0], label_indices[i][0]) for i in range(len(label_indices))]
-            ) / len(label_indices)
+
             outputs = torch.cat(outputs, dim=0)
             label_indices = torch.flatten(label_indices)
             outputs = torch.flatten(outputs, 0, 1)
@@ -86,7 +84,6 @@ def train():
             char_accuracy = torch.sum(output_indices == label_indices) / len(label_indices)
             print(f"\tLoss: {loss}")
             print(f"\tCharacter-level accuracy: {char_accuracy}")
-            print(f"\tWord-level accuracy: {word_accuracy}")
             if len(epoch_char_accuracies) > 0 and char_accuracy > max(epoch_char_accuracies):
                 torch.save(model, f"{args['model_name']}.pt")
             epoch_char_accuracies.append(char_accuracy)

@@ -33,6 +33,15 @@ def evaluate():
         label_indices = label_indices.to(DEVICE)
         outputs = model(input_dict)
         _, output_indices = torch.max(outputs, dim=-1)
+
+        # Truncate at first PAD token
+        if test_set.pad_index in output_indices.tolist()[0]:
+            truncate_at = output_indices.tolist()[0].index(test_set.pad_index)
+            output_indices = output_indices[:, :truncate_at]
+        if test_set.pad_index in label_indices.tolist()[0]:
+            truncate_at = label_indices.tolist()[0].index(test_set.pad_index)
+            label_indices = label_indices[:, :truncate_at]
+
         total_by_lang[lang_index] += 1
         if torch.equal(label_indices, output_indices):
             n_correct += 1
