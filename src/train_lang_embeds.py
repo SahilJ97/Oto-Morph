@@ -23,7 +23,7 @@ def loss_fn(lang_embeds, true_dists):
 
 
 if __name__ == '__main__':
-    with open("../linguistic_distance/leven_dist_min.pkl", 'rb') as f:
+    with open("../linguistic_distance/leven_dist_def.pkl", 'rb') as f:
         true_dists = pickle.load(f)
 
     # initialize embeddings
@@ -51,4 +51,4 @@ if __name__ == '__main__':
     plt.show()
 
     # save embeddings
-    torch.save(lang_embeds, "../linguistic_distance/linguistic_distance.pt")
+    torch.save(lang_embeds, "../linguistic_distance/language_embeddings_def.pt")
